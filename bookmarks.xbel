@@ -1,0 +1,3267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :1087: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Comics</title>
+  <bookmark href="http://sluggy.com/" id="10">
+    <title>Sluggy Freelance</title>
+  </bookmark>
+  <bookmark href="http://xkcd.com/" id="11">
+    <title>xkcd: Bell&apos;s Theorem</title>
+  </bookmark>
+  <bookmark href="http://egscomics.com/" id="12">
+    <title>El Goonish Shive</title>
+  </bookmark>
+  <bookmark href="http://www.giantitp.com/index.html" id="13">
+    <title>Giant In the Playground Games</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>News</title>
+  <bookmark href="http://hackaday.com/blog/" id="14">
+    <title>Blog | Hackaday | Fresh hacks every day</title>
+  </bookmark>
+  <bookmark href="https://niskanencenter.org/" id="15">
+    <title>Niskanen Center</title>
+  </bookmark>
+  <bookmark href="https://www.schneier.com/" id="16">
+    <title>Schneier on Security</title>
+  </bookmark>
+  <bookmark href="http://www.thedrive.com/the-war-zone" id="17">
+    <title>The War Zone | The Drive</title>
+  </bookmark>
+  <bookmark href="https://warontherocks.com/" id="18">
+    <title>War on the Rocks</title>
+  </bookmark>
+  <bookmark href="https://www.ancientworldmagazine.com/" id="19">
+    <title>Ancient World Magazine</title>
+  </bookmark>
+  <bookmark href="https://acoup.blog/" id="20">
+    <title>A Collection of Unmitigated Pedantry – A look at history and popular culture</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/bretdevereaux.bsky.social" id="21">
+    <title>Bret Devereaux (@bretdevereaux.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/michaelkofman.bsky.social" id="22">
+    <title>Michael Kofman (@michaelkofman.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/badancient.bsky.social" id="23">
+    <title>Bad Ancient/ Owen Rees (@badancient.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/alisonfisk.bsky.social" id="24">
+    <title>Alison Fisk (@alisonfisk.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/drjeball.bsky.social" id="25">
+    <title>Dr Jo Ball (@drjeball.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/did:plc:rwweb2mpbg23l4cuuwbhnrsz" id="26">
+    <title>Fall of Civilizations Podcast (@fallofcivspod.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/kenwhite.bsky.social" id="27">
+    <title>Domestic Enemy Hat (@kenwhite.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/joestieb.bsky.social" id="28">
+    <title>Joe Stieb (@joestieb.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/whstancil.bsky.social" id="29">
+    <title>Will Stancil (@whstancil.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/brendannyhan.bsky.social" id="30">
+    <title>Brendan Nyhan (@brendannyhan.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/mcopelov.bsky.social" id="31">
+    <title>Mark Copelovitch (@mcopelov.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/donmoyn.bsky.social" id="32">
+    <title>Don Moynihan (@donmoyn.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/opinionhaver.bsky.social" id="33">
+    <title>William B. Fuckley (@opinionhaver.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/goldwagnathan.bsky.social" id="34">
+    <title>Nathan Goldwag (@goldwagnathan.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/beijingpalmer.bsky.social" id="35">
+    <title>BeijingPalmer (@beijingpalmer.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/georgetakei.bsky.social" id="36">
+    <title>George Takei (@georgetakei.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/surcomplicated.bsky.social" id="37">
+    <title>Zoomer Antimillenarian (@surcomplicated.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/irhottakes.bsky.social" id="38">
+    <title>Starfish Who Can’t Think Something Witty (@irhottakes.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://www.liberalcurrents.com/" id="39">
+    <title>Liberal Currents</title>
+  </bookmark>
+  <bookmark href="https://www.cbc.ca/news/world" id="40">
+    <title>World - CBC News</title>
+  </bookmark>
+  <bookmark href="https://www.theguardian.com/us" id="41">
+    <title>Latest news, sport and opinion from the Guardian</title>
+  </bookmark>
+  <bookmark href="https://www.bbc.com/" id="42">
+    <title>BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video &amp; Audio</title>
+  </bookmark>
+  <bookmark href="https://www.npr.org/" id="43">
+    <title>NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR</title>
+  </bookmark>
+  <bookmark href="https://www.techdirt.com/" id="44">
+    <title>Techdirt.</title>
+  </bookmark>
+  <bookmark href="https://theonion.com/" id="45">
+    <title>Home - The Onion</title>
+  </bookmark>
+  <bookmark href="https://donmoynihan.substack.com/" id="46">
+    <title>Can We Still Govern? | Don Moynihan | Substack</title>
+  </bookmark>
+  <bookmark href="https://bafriedman.substack.com/" id="47">
+    <title>Fire For Effect | B. A. Friedman | Substack</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/did:plc:ydnblcu223r6nvnf7dcykboj" id="48">
+    <title>Texas National Security Review (@tnsr.org) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/sasainspires.bsky.social" id="49">
+    <title>SASA Inspires (@sasainspires.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/linktothefiling.bsky.social/post/3lkbuzzqt4c2w" id="50">
+    <title>Link to the Filing: &quot;www.documentcloud.org/documents/25...&quot; — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://www.flickr.com/photos/chappspix/with/54399048501" id="51">
+    <title>Stephen Chappell (aka Chapps) | Flickr</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/did:plc:do6fvpvlja2wasjlq5y5le3p" id="52">
+    <title>Tatarigami (@tatarigami.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/did:plc:4sjl25ntym5lz4vrvmpo22ph" id="53">
+    <title>Christopher Miller (@christopherjm.ft.com) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/did:plc:2ywby725qcwv7rqdotimk7mp" id="54">
+    <title>OSINTtechnical (@osinttechnical.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/did:plc:fzhxmenx7hzqw4zd4mhbwezo" id="55">
+    <title>James (@gravitysra1nbow.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/theeasternborder.lv" id="56">
+    <title>Kristaps Andrejsons (@theeasternborder.lv) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/roelkonijn.bsky.social" id="57">
+    <title>Roel Konijnendijk (@roelkonijn.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://www.johnhawks.net/" id="58">
+    <title>John Hawks | Substack</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/pessimistsarc.bsky.social" id="59">
+    <title>Pessimists Archive (@pessimistsarc.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/extinctmonsters.bsky.social" id="60">
+    <title>Ben Miller (@extinctmonsters.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/kiwihellenist.bsky.social" id="61">
+    <title>Peter Gainsford (@kiwihellenist.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/did:plc:i5w2ihmgzh3qwrezbe4ocbnw" id="62">
+    <title>Rosencreutz (alleged youtuber) (@rosencreutz.bsky.social) — Bluesky</title>
+  </bookmark>
+  <bookmark href="https://talesoftimesforgotten.com/spencer-alexander-mcdaniel/" id="63">
+    <title>Spencer McDaniel - Tales of Times Forgotten</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>Youtube</title>
+  <bookmark href="https://www.youtube.com/c/LucklessLovelocks/videos" id="64">
+    <title>Luckless Lovelocks - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/ManyATrueNerd/videos" id="65">
+    <title>Many A True Nerd - YouTube - YouTube</title>
+  </bookmark>
+  <bookmark href="https://xcancel.com/ManyATrueNerd" id="66">
+    <title>Many A True Nerd (@ManyATrueNerd) | X Cancelled</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/c/RYCONS" id="67">
+    <title>RYCON - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@ryconroleplays/playlists" id="68">
+    <title>Rycon Roleplays - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/channel/UCFkv_BAbjhbUoecdg4R01Lw/videos" id="69">
+    <title>ASpec - YouTube - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/c/Marzz" id="70">
+    <title>Marz - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/channel/UC4seDMwNnN6BNbdf2ubOOAQ/videos" id="71">
+    <title>Food Then Games - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@ambiguousamphibianvods/videos" id="72">
+    <title>ambiguousamphibian VODs - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/LadyShelab/videos?disable_polymer=1" id="73">
+    <title>LadyShelab - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/GamersNexus/videos" id="74">
+    <title>Gamers Nexus - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/channel/UCI8iQa1hv7oV_Z8D35vVuSg/videos" id="75">
+    <title>Hardware Unboxed - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/Jayztwocents/videos" id="76">
+    <title>JayzTwoCents - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/c/FallofCivilizationsPodcast/videos" id="77">
+    <title>Fall of Civilizations - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/channel/UC3gRBswFkuteshdwMZAQafQ/videos" id="78">
+    <title>8-Bit Show And Tell - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/adric22/videos?disable_polymer=1" id="79">
+    <title>The 8-Bit Guy - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/phreakindee/videos" id="80">
+    <title>LGR - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/AuroraPeachy/videos" id="81">
+    <title>AuroraPeachy - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/c/LorerunnerStreamArchives/playlists" id="82">
+    <title>Lorerunner Stream Archives - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/channel/UCRPdsCVuH53rcbTcEkuY4uQ/videos" id="83">
+    <title>Moore&apos;s Law Is Dead - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/GamerCreator12345/videos" id="84">
+    <title>TREY the Explainer - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/RedEyesTakeWarning/videos" id="85">
+    <title>Overly Sarcastic Productions - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/c/FoldingIdeas/videos" id="86">
+    <title>Folding Ideas - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@integza/videos" id="87">
+    <title>Integza</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/todsstuff1/videos" id="88">
+    <title>Tod&apos;s Workshop - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/monstertalk" id="89">
+    <title>MonsterTalk - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw" id="90">
+    <title>BABYMETALofficial - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/user/TaylorSwiftVEVO/videos" id="91">
+    <title>TaylorSwiftVEVO - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/c/WorldofAntiquity/videos" id="92">
+    <title>World of Antiquity - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@miniminuteman773/videos" id="93">
+    <title>Miniminuteman - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@conniedovermusic/videos" id="94">
+    <title>Connie Dover - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@HistorywithKayleigh/videos" id="95">
+    <title>History with Kayleigh - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@History-Valley/videos" id="96">
+    <title>History Valley - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@AncientAmericas/videos" id="97">
+    <title>Ancient Americas - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@ThePrimeTimeagen/videos" id="98">
+    <title>ThePrimeTime - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@Rosencreutzzz/videos" id="99">
+    <title>Rosencreutz - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@FrankHolt-HistoryTutorials/videos" id="100">
+    <title>Frank Holt&apos;s Ancient World - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@NoclipDocs/videos" id="101">
+    <title>Noclip - Video Game Documentaries - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/c/Skallagrim/videos" id="102">
+    <title>Skallagrim - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@scholagladiatoria/videos" id="103">
+    <title>scholagladiatoria - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@dequitem/videos" id="104">
+    <title>Dequitem - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@robinson-foundry/videos" id="105">
+    <title>Robinson Foundry - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@PravusGaming/playlists" id="106">
+    <title>Pravus - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@MadMorph/videos" id="107">
+    <title>MadMorph - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@Zaknafein/videos" id="108">
+    <title>Zaknafein - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@flawedpeacock/videos" id="109">
+    <title>Flawed Peacock - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@TheVividen/videos" id="110">
+    <title>Vividen: Paleontology Evolved - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@Jess_of_the_Shire/videos" id="111">
+    <title>Jess of the Shire - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@DanielGreeneReviews/videos" id="112">
+    <title>Daniel Greene - YouTube</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>Gaming</title>
+  <folder id="113">
+    <title>Genshin Impact</title>
+    <folder id="265">
+      <title>Guides</title>
+      <bookmark href="https://www.youtube.com/c/takagg/videos" id="655">
+        <title>taka gg - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/c/Zy0xxx/videos" id="656">
+        <title>Zy0x - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="266">
+      <title>Tools</title>
+      <bookmark href="https://frzyc.github.io/genshin-optimizer/#/" id="657">
+        <title>Genshin Optimizer</title>
+      </bookmark>
+      <bookmark href="https://paimon.moe/" id="658">
+        <title>Paimon.moe</title>
+      </bookmark>
+      <bookmark href="https://genshin-center.com/planner" id="659">
+        <title>Genshin Ascension Planner</title>
+      </bookmark>
+      <bookmark href="https://enka.network/" id="660">
+        <title>Genshin Impact build cards | Enka.Network</title>
+      </bookmark>
+      <bookmark href="https://genshin-impact-map.appsample.com/#/" id="661">
+        <title>Genshin Impact Interactive World Map</title>
+      </bookmark>
+      <bookmark href="https://shinshin.moe/" id="662">
+        <title>ShinShin.moe - Genshin Impact build cards</title>
+      </bookmark>
+      <bookmark href="https://artiscan.ninjabay.org/#/artifacts/source" id="663">
+        <title>Artiscan</title>
+      </bookmark>
+      <bookmark href="https://github.com/xenesty/AkashaScanner" id="664">
+        <title>GitHub - xenesty/AkashaScanner: A Genshin Impact tool to export achievements, characters, artifacts, and weapons.</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.hoyolab.com/home" id="267">
+      <title>Home | HoYoLAB</title>
+    </bookmark>
+    <bookmark href="https://genshin.mihoyo.com/en/home" id="268">
+      <title>Genshin Impact – Step Into a Vast Magical World of Adventure</title>
+    </bookmark>
+    <bookmark href="https://gaming.amazon.com/gp/amzn1.adg.product.d2c7b2f1-ee96-465f-a8ac-672568158691" id="269">
+      <title>Prime Gaming</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/channel/UCJsx9l8WXBm2_zD5REgpERA/videos" id="270">
+      <title>Ashikai - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/channel/UCOFQXkOF-MKVRmRQDs2_GlQ/videos" id="271">
+      <title>KlemenTime - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/Genshin_Impact/" id="272">
+      <title>Genshin Impact Official</title>
+    </bookmark>
+    <bookmark href="https://ambr.top/en" id="273">
+      <title>Project Amber | Project Amber — Genshin Impact Database</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/roozeveltfox" id="274">
+      <title>roozevelt</title>
+    </bookmark>
+    <bookmark href="https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki" id="275">
+      <title>Genshin Impact Wiki | Fandom</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/Genshin_Impact_Leaks/" id="276">
+      <title>Genshin Impact Leaks</title>
+    </bookmark>
+    <bookmark href="https://artiscan.ninjabay.org/#/gi-artifacts" id="277">
+      <title>Artiscan</title>
+    </bookmark>
+  </folder>
+  <folder id="114">
+    <title>Honkai Star Rail</title>
+    <bookmark href="https://star-rail-map.appsample.com/" id="278">
+      <title>Honkai: Star Rail Interactive Map</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@guobacertified/videos" id="279">
+      <title>Guoba Certified - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@LilyAquina/videos" id="280">
+      <title>Lily Aquina - YouTube</title>
+    </bookmark>
+    <bookmark href="https://hsr2.hakush.in/char" id="281">
+      <title>Hakush.in</title>
+    </bookmark>
+    <bookmark href="https://hsr.hoyoverse.com/gift" id="282">
+      <title>Honkai: Star Rail | May this journey lead us starward</title>
+    </bookmark>
+    <bookmark href="https://starrailstation.com/en" id="283">
+      <title>Star Rail Station Wiki</title>
+    </bookmark>
+    <bookmark href="https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki" id="284">
+      <title>Honkai: Star Rail Wiki</title>
+    </bookmark>
+    <bookmark href="https://www.prydwen.gg/star-rail/" id="285">
+      <title>Honkai: Star Rail | Prydwen Institute</title>
+    </bookmark>
+    <bookmark href="https://hsr.keqingmains.com/" id="286">
+      <title>KQM Honkai Star Rail Guides and Theorycrafting</title>
+    </bookmark>
+    <bookmark href="https://hsr.seelie.me/" id="287">
+      <title>SEELIE.me • Honkai: Star Rail Planner</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/HonkaiStarRail/" id="288">
+      <title>HonkaiStarRail</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/HonkaiStarRail_leaks/" id="289">
+      <title>HonkaiStarRail_leaks</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRG_cISC2N-_1Lef-GofaydNa-VZ_r9QfnPNnsPNMSw5JHeAu_nLPrOe9ObPM8XmqTMrO5NWGF8L4b3/pubhtml" id="290">
+      <title>Honkai: Star Rail Domain Drop Rates - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://twitter.com/honkaistarrail" id="291">
+      <title>Honkai: Star Rail (@honkaistarrail) / Twitter</title>
+    </bookmark>
+    <bookmark href="https://twitter.com/guobacertified" id="292">
+      <title>guobacertified (@guobacertified) / Twitter</title>
+    </bookmark>
+    <bookmark href="https://www.hsr-showcase.com/u/600495985" id="293">
+      <title>HSR Showcase</title>
+    </bookmark>
+    <bookmark href="https://fribbels.github.io/hsr-optimizer/" id="294">
+      <title>Fribbels HSR Optimizer</title>
+    </bookmark>
+    <bookmark href="https://github.com/kel-z/HSR-Scanner" id="295">
+      <title>kel-z/HSR-Scanner: Scanner for exporting light cone, relic, and character data from Honkai: Star Rail to JSON format.</title>
+    </bookmark>
+    <bookmark href="https://relicharmonizer.com/" id="296">
+      <title>Relic Harmonizer - A Relic Optimization Tool</title>
+    </bookmark>
+    <bookmark href="https://hsr-warp-calculator.vercel.app/" id="297">
+      <title>Warp Calculator</title>
+    </bookmark>
+    <bookmark href="https://stardb.gg/en/achievement-tracker" id="298">
+      <title>Achievement Tracker - Honkai: Star Rail - StarDB.GG</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@LisaraScarlet/videos" id="299">
+      <title>Lisara - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@nakfr0g/videos" id="300">
+      <title>nakfrg. - YouTube</title>
+    </bookmark>
+    <bookmark href="https://enka.network/hsr/600495985/" id="301">
+      <title>Aria&apos;s HSR Character Showcase | Enka.Network</title>
+    </bookmark>
+    <bookmark href="https://github.com/IceDynamix/reliquary-archiver" id="302">
+      <title>IceDynamix/reliquary-archiver: tool to create a relic export from network packets of a certain turn-based anime game</title>
+    </bookmark>
+    <bookmark href="https://github.com/juliuskreutz/stardb-exporter" id="303">
+      <title>juliuskreutz/stardb-exporter</title>
+    </bookmark>
+  </folder>
+  <folder id="115">
+    <title>Reverse 1999</title>
+    <bookmark href="https://www.reddit.com/r/Reverse1999/" id="304">
+      <title>Reverse: 1999</title>
+    </bookmark>
+    <bookmark href="https://www.prydwen.gg/re1999/" id="305">
+      <title>Reverse: 1999 Wiki &amp; Database | Prydwen Institute</title>
+    </bookmark>
+    <bookmark href="https://www.prydwen.gg/re1999/guides/insight-cheat-sheet/" id="306">
+      <title>Insight Materials Cheat Sheet | Reverse: 1999 | Prydwen Institute</title>
+    </bookmark>
+    <bookmark href="https://windbow27.github.io/Kornblume/planner" id="307">
+      <title>Kornblume</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@Jakazin/videos" id="308">
+      <title>Jakazin - YouTube</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/u/0/d/1e46cecjsIb1LO3Ybb6urlVUZKUk8R7yrgG9yXZS8-Ho/htmlview?pli=1#" id="309">
+      <title>Reverse: 1999 Tier List - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdextension/what_is_gdextension.html" id="310">
+      <title>What is GDExtension? — Godot Engine (stable) documentation in English</title>
+    </bookmark>
+    <bookmark href="https://reverse1999-gnomon.pages.dev/characters" id="311">
+      <title>Characters | Reverse:1999 Gnomon</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1ZzkdtMSjffcw2VetHbyqNZ6ime_0JplvDxBKQTD0brA/edit?gid=1586185128#gid=1586185128" id="312">
+      <title>R1999 Units Build Guide: Psychube, Resonance, Portray - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@SteamedBunXReverse1999/videos" id="313">
+      <title>SteamedBunX - Reverse 1999 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@Destr0th/videos" id="314">
+      <title>Destroth - YouTube</title>
+    </bookmark>
+    <bookmark href="https://uttu.merui.net/profiles/" id="315">
+      <title>Profiles</title>
+    </bookmark>
+    <bookmark href="https://r1999logs.neocities.org/MAIN%20STORY/Vereinsamt" id="316">
+      <title>Vereinsamt | R1999 logs</title>
+    </bookmark>
+    <bookmark href="https://uttu.merui.net/story/en/main/chapter-0/6/" id="317">
+      <title>Prologue - This is Tomorrow</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@yatagarasu_merui/videos" id="318">
+      <title>八咫烏_Merui - YouTube</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1Xpd7HKO2CAnsPa40Ho-scMfubGXGKKYaefs0bHkpDpc/edit?gid=1538829356#gid=1538829356" id="319">
+      <title>An Incredibly Scuffed Page of Recommended Character Resonance Layouts and their Corresponding Codes - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1e46cecjsIb1LO3Ybb6urlVUZKUk8R7yrgG9yXZS8-Ho/edit?pli=1&amp;gid=2100126761#gid=2100126761" id="320">
+      <title>Reverse: 1999 Tier List - Google Sheets</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.youtube.com/channel/UC-2O84hJLKm8CqqsZygV-lA/videos" id="116">
+    <title>SevyPlays - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@KamisatoFayato/videos" id="117">
+    <title>Fayato - YouTube</title>
+  </bookmark>
+  <folder id="118">
+    <title>OpenMW</title>
+    <bookmark href="https://en.uesp.net/wiki/Morrowind:Starting_Out" id="321">
+      <title>Morrowind:Starting Out - The Unofficial Elder Scrolls Pages (UESP)</title>
+    </bookmark>
+    <bookmark href="https://openmw.readthedocs.io/en/stable/reference/modding/paths.html" id="322">
+      <title>Paths — OpenMW 0.48.0 documentation</title>
+    </bookmark>
+    <bookmark href="https://modding-openmw.com/tips/portable-install/" id="323">
+      <title>Tips: Portable Install | Modding OpenMW: A guide to modding and modernizing Morrowind with OpenMW</title>
+    </bookmark>
+    <bookmark href="https://beta.modding-openmw.com/guides/auto/" id="324">
+      <title>Automatic Installation Guide | Modding OpenMW: A guide to modding and modernizing Morrowind with OpenMW</title>
+    </bookmark>
+    <bookmark href="https://modding-openmw.gitlab.io/ncgdmw-lua/" id="325">
+      <title>NCGDMW Lua Edition | A leveling mod for OpenMW where your attributes and level grow automatically as your skills increase</title>
+    </bookmark>
+    <bookmark href="https://modding-openmw.gitlab.io/umo/" id="326">
+      <title>umo — An automatic modlist downloader for Modding-OpenMW.com</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/morrowind/mods/48987" id="327">
+      <title>Kezyma&apos;s UI Remastered at Morrowind Nexus - mods and community</title>
+    </bookmark>
+    <bookmark href="https://modding-openmw.gitlab.io/ncgdmw-lua/readme/#how-it-works" id="328">
+      <title>NCGDMW Lua Edition | A leveling mod for OpenMW where your attributes and level grow automatically as your skills increase</title>
+    </bookmark>
+    <bookmark href="https://github.com/DanaePlays/mlox-rules" id="329">
+      <title>DanaePlays/mlox-rules</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/morrowind/mods/54262" id="330">
+      <title>PLOX - Load order sorter at Morrowind Nexus - mods and community</title>
+    </bookmark>
+    <bookmark href="https://modding-openmw.gitlab.io/omw/" id="331">
+      <title>omw — A CLI portable instance manager, patcher, and launcher alternative for OpenMW.</title>
+    </bookmark>
+    <bookmark href="https://github.com/rfuzzo/plox" id="332">
+      <title>rfuzzo/plox: A small app to sort a modlist topologically according to ordering rules, as wall as output warnings and notes.</title>
+    </bookmark>
+    <bookmark href="https://modding-openmw.gitlab.io/momw-tools-pack/" id="333">
+      <title>MOMW Tools Pack — All the tools you need to automatically install and configure Modding-OpenMW.com mod lists in one package</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://github.com/jie65535/awesome-balatro?tab=readme-ov-file#mods-require-steamodded" id="119">
+    <title>jie65535/awesome-balatro: A list of Balatro Mods and Tools</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/WutheringWaves/" id="120">
+    <title>Wuthering Waves Official</title>
+  </bookmark>
+  <bookmark href="https://canvas.playinzoi.com/en-US/category?Preset=AppearanceAllPresetNone&amp;Genders=All&amp;Ages=All&amp;TimePeriodFilter=All&amp;Order=Recent" id="121">
+    <title>inZOI Canvas</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/inZOI/" id="122">
+    <title>inZOI</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@sevyclips/videos" id="123">
+    <title>Sevy Clips &amp; VODS - YouTube</title>
+  </bookmark>
+  <bookmark href="https://wutheringlab.com/#CharacterList" id="124">
+    <title>Wuthering Waves Characters - Wutheringlab</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>Personal</title>
+  <folder id="125">
+    <title>AI</title>
+    <folder id="334">
+      <title>Stable Diffusion</title>
+      <folder id="665">
+        <title>Tutorials</title>
+        <bookmark href="https://stable-diffusion-art.com/" id="991">
+          <title>Stable Diffusion tutorials, prompts and resources - Stable Diffusion Art</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@sebastiankamph/videos" id="992">
+          <title>Sebastian Kamph - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@NerdyRodent/videos" id="993">
+          <title>Nerdy Rodent - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@impactframes/videos" id="994">
+          <title>ImpactFrames - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@drltdata/videos" id="995">
+          <title>Dr.Lt.Data&apos;s ComfyUI Extension - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@latentvision/videos" id="996">
+          <title>Latent Vision - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@KLEEBZTECH/videos" id="997">
+          <title>Kleebz Tech AI - YouTube</title>
+        </bookmark>
+        <bookmark href="https://huggingface.co/xinsir" id="998">
+          <title>xinsir (qi)</title>
+        </bookmark>
+        <bookmark href="https://huggingface.co/TheMistoAI/MistoLine" id="999">
+          <title>TheMistoAI/MistoLine · Hugging Face</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@DataLeveling/videos" id="1000">
+          <title>Data Leveling - YouTube</title>
+        </bookmark>
+        <folder id="1001">
+          <title>Training</title>
+          <bookmark href="https://github.com/Nerogar/OneTrainer/wiki/Onboarding-Guide-for-Newcomers" id="1078">
+            <title>Onboarding Guide for Newcomers · Nerogar/OneTrainer Wiki</title>
+          </bookmark>
+          <bookmark href="https://civitai.com/articles/1891/guide-to-training-lora-sliders-adjusters-scales-leco" id="1079">
+            <title>Guide to training LoRA sliders/ adjusters/ scales (LECO) | Civitai</title>
+          </bookmark>
+          <bookmark href="https://civitai.notion.site/SDXL-1-0-Training-Overview-4fb03d5b4cbf482ebe13ffef7bcb8ead" id="1080">
+            <title>SDXL 1.0 Training Overview</title>
+          </bookmark>
+          <bookmark href="https://github.com/bmaltais/kohya_ss/wiki/LoRA-training-parameters#explaining-lora-learning-settings-using-kohya_ss-for-stable-diffusion-understanding-by-everyone" id="1081">
+            <title>LoRA training parameters · bmaltais/kohya_ss Wiki</title>
+          </bookmark>
+        </folder>
+        <folder id="1002">
+          <title>ComfyUI</title>
+          <bookmark href="https://www.youtube.com/@sedetweiler" id="1082">
+            <title>Scott Detweiler - YouTube</title>
+          </bookmark>
+          <bookmark href="https://github.com/pwillia7/Basic_ComfyUI_Workflows" id="1083">
+            <title>pwillia7/Basic_ComfyUI_Workflows: Basic Stable Diffusion Workflows for ComyUI using minimal custom nodes</title>
+          </bookmark>
+          <bookmark href="https://www.youtube.com/@TheFutureThinker/videos" id="1084">
+            <title>Future Thinker @Benji - YouTube</title>
+          </bookmark>
+          <bookmark href="https://www.youtube.com/@CodeCraftersCorner/videos" id="1085">
+            <title>Code Crafters Corner - YouTube</title>
+          </bookmark>
+          <bookmark href="https://www.youtube.com/@elezetamusic/videos" id="1086">
+            <title>Elezeta - YouTube</title>
+          </bookmark>
+          <bookmark href="https://www.youtube.com/@GrocksterRox/videos" id="1087">
+            <title>Grockster - YouTube</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://www.youtube.com/@IntelligentImage-sl7uf/videos" id="1003">
+          <title>Intelligent Image - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@streamtabulous/videos" id="1004">
+          <title>Streamtabulous - YouTube</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/articles/3105/essential-to-advanced-guide-to-training-a-lora" id="1005">
+          <title>Essential to Advanced Guide to training a LoRA | Civitai</title>
+        </bookmark>
+        <bookmark href="https://github.com/Nerogar/OneTrainer/wiki/Optimizers#prodigy-specific-settings-details" id="1006">
+          <title>Optimizers · Nerogar/OneTrainer Wiki</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/models/339604/how-to-generate-multiple-different-characters-mix-characters-andor-minimize-color-contamination-or-regional-prompt-adetailer-and-inpaint-or-my-workflow" id="1007">
+          <title>How to Generate Multiple Different Characters, Mix Characters, and/or Minimize Color Contamination | Regional Prompt, Adetailer, and Inpaint | My Workflow - 3. Regional Prompt (Mask) | Stable Diffusion Workflows | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/articles/1716/a-fresh-approach-to-sdxl-and-pony-xl-lora-training" id="1008">
+          <title>A Fresh Approach to SDXL &amp; Pony XL Lora Training | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/articles/5672/how-to-train-a-sdxl-style-with-only-12gb-of-vram-rtx-2060-onetrainer" id="1009">
+          <title>How to train a SDXL Style with only 12GB of VRam - RTX 2060 - OneTrainer | Civitai</title>
+        </bookmark>
+        <bookmark href="https://www.daz3d.com/forums/discussion/109146/create-a-depthmap" id="1010">
+          <title>Create a depthmap - Daz 3D Forums</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/articles/6349/280-pony-diffusion-xl-recognized-clothing-list-booru-tags-sfw" id="1011">
+          <title>280+ Pony Diffusion XL Recognized Clothing List - Booru Tags (SFW) | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/articles/6792/flux-captioning-differences-training-diary" id="1012">
+          <title>Flux Style Captioning Differences - Training Diary | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/articles/6868" id="1013">
+          <title>Flux Character Caption Differences - Training Diary | Civitai</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@Aiconomist/videos" id="1014">
+          <title>Aiconomist - YouTube</title>
+        </bookmark>
+        <bookmark href="https://openart.ai/workflows/shark_impolite_31/advanced-flux-captioning-v2-with-gpt4o-and-wd14-joy-caption-or-florence/5AEI2RvUfq4HN8T6Ya0b" id="1015">
+          <title>Advanced Flux Captioning V2 with GPT4O and WD14, Joy Caption or florence | ComfyUI Workflow</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@PixelEasel/videos" id="1016">
+          <title>PixelEasel - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@pixaroma/videos" id="1017">
+          <title>pixaroma - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.reddit.com/r/StableDiffusion/comments/1fiszxb/onetrainer_settings_for_flux1_lora_and_dora/" id="1018">
+          <title>OneTrainer settings for Flux.1 LoRA and DoRA training : r/StableDiffusion</title>
+        </bookmark>
+        <bookmark href="https://gist.github.com/chillpixelfun/d75903e9c44e3705254c23a844a20c78" id="1019">
+          <title>Kohya&apos;s Stable Diffusion Training Guide (English Translation)</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/articles/8505" id="1020">
+          <title>LoRAs and PixelWave FLUX.1-dev 03 | Civitai</title>
+        </bookmark>
+        <bookmark href="https://www.reddit.com/r/StableDiffusion/comments/1gxardc/flux_tools_a_compilation_of_cleaned_up_workflows/" id="1021">
+          <title>Flux Tools - A compilation of cleaned up workflows for beginners : r/StableDiffusion</title>
+        </bookmark>
+        <bookmark href="https://www.reddit.com/r/StableDiffusion/comments/1h4eoai/flux_guide_how_i_train_my_flux_loras/" id="1022">
+          <title>Flux Guide - How I train my flux loras. : r/StableDiffusion</title>
+        </bookmark>
+        <bookmark href="https://drawabox.com/" id="1023">
+          <title>Drawabox | A free, exercise based approach to learning the fundamentals of drawing</title>
+        </bookmark>
+        <bookmark href="https://comfyui.org/en/unlock-hyper-realistic-skin-textures" id="1024">
+          <title>Unlock Hyper-Realistic Skin Textures: A Step-by-Step Guide - ComfyUI.org</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@nodonmai/videos" id="1025">
+          <title>nodonmai - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@icekiubAI" id="1026">
+          <title>IceKiub - YouTube</title>
+        </bookmark>
+      </folder>
+      <folder id="666">
+        <title>WebUI</title>
+        <bookmark href="https://github.com/comfyanonymous/ComfyUI" id="1027">
+          <title>comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.</title>
+        </bookmark>
+        <bookmark href="https://github.com/Acly/krita-ai-diffusion" id="1028">
+          <title>Acly/krita-ai-diffusion: Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.</title>
+        </bookmark>
+        <bookmark href="https://github.com/Nerogar/OneTrainer" id="1029">
+          <title>Issues · Nerogar/OneTrainer</title>
+        </bookmark>
+        <bookmark href="https://github.com/vladmandic/automatic" id="1030">
+          <title>vladmandic/automatic: SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models</title>
+        </bookmark>
+        <bookmark href="https://github.com/Sanster/lama-cleaner" id="1031">
+          <title>Sanster/lama-cleaner: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.</title>
+        </bookmark>
+        <bookmark href="https://github.com/jhc13/taggui" id="1032">
+          <title>jhc13/taggui: Tag manager and captioner for image datasets</title>
+        </bookmark>
+        <bookmark href="https://github.com/cocktailpeanut/fluxgym" id="1033">
+          <title>cocktailpeanut/fluxgym: Dead simple FLUX LoRA training UI with LOW VRAM support</title>
+        </bookmark>
+        <bookmark href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" id="1034">
+          <title>AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI</title>
+        </bookmark>
+        <bookmark href="https://github.com/bmaltais/kohya_ss" id="1035">
+          <title>bmaltais/kohya_ss</title>
+        </bookmark>
+        <bookmark href="https://github.com/lllyasviel/Fooocus" id="1036">
+          <title>lllyasviel/Fooocus: Focus on prompting and generating</title>
+        </bookmark>
+        <bookmark href="https://github.com/osi1880vr/prompt_quill" id="1037">
+          <title>osi1880vr/prompt_quill</title>
+        </bookmark>
+        <bookmark href="https://github.com/hbl917070/Tiefsee4" id="1038">
+          <title>hbl917070/Tiefsee4: An open-source image viewer for Windows with powerful features and ease of use</title>
+        </bookmark>
+        <bookmark href="https://github.com/balazik/ComfyUI-PuLID-Flux" id="1039">
+          <title>balazik/ComfyUI-PuLID-Flux: PuLID-Flux ComfyUI implementation</title>
+        </bookmark>
+        <bookmark href="https://github.com/darkstorm2150/sd-scripts#links-to-usage-documentation" id="1040">
+          <title>darkstorm2150/sd-scripts: This is a A.I Dev Page for English Translations of the original documents by kohya-ss</title>
+        </bookmark>
+        <bookmark href="https://github.com/LykosAI/StabilityMatrix" id="1041">
+          <title>LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion</title>
+        </bookmark>
+        <bookmark href="https://github.com/FennelFetish/qapyq" id="1042">
+          <title>FennelFetish/qapyq: An image viewer and AI-assisted editing tool that helps with curating datasets for generative AI models, finetunes and LoRA.</title>
+        </bookmark>
+        <bookmark href="https://github.com/Jonseed/ComfyUI-Detail-Daemon" id="1043">
+          <title>Jonseed/ComfyUI-Detail-Daemon: A port of muerrilla&apos;s sd-webui-Detail-Daemon as a node for ComfyUI, to adjust sigmas that control detail.</title>
+        </bookmark>
+        <bookmark href="https://huggingface.co/ostris/Flex.1-alpha" id="1044">
+          <title>ostris/Flex.1-alpha · Hugging Face</title>
+        </bookmark>
+        <bookmark href="https://github.com/kohya-ss/musubi-tuner?tab=readme-ov-file#installation" id="1045">
+          <title>kohya-ss/musubi-tuner</title>
+        </bookmark>
+      </folder>
+      <folder id="667">
+        <title>civitai</title>
+        <bookmark href="https://civitai.com/user/reijlita/models?baseModels=Flux.1+D&amp;baseModels=Illustrious&amp;baseModels=NoobAI" id="1046">
+          <title>reijlita Creator Profile | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/models/795765/illustrious-xl" id="1047">
+          <title>Illustrious-XL - v0.1 | Illustrious Checkpoint | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/user/impossiblebearcl4060/models" id="1048">
+          <title>impossiblebearcl4060 Creator Profile | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/user/headupdef/models" id="1049">
+          <title>headupdef Creator Profile | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/models/1116/rpg" id="1050">
+          <title>RPG | Stable Diffusion Checkpoint | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/models/614067/designpixar?modelVersionId=764108" id="1051">
+          <title>design_pixar - v2.0 | Stable Diffusion Checkpoint | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/user/cyberAngel_/models" id="1052">
+          <title>cyberAngel_ Creator Profile | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/articles/9148/illustrious-lora-training-discussion" id="1053">
+          <title>Illustrious-Lora Training Discussion | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/models/646820/rd-pixel-art-lora" id="1054">
+          <title>RD Pixel Art Lora - Flux V3 uncensored | Flux LoRA | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.green/models/914282/expression-helper-20?modelVersionId=1023284" id="1055">
+          <title>Expression Helper 2.0 - 🟣 FLUX | Flux LoRA | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/user/DigitalPastel" id="1056">
+          <title>DigitalPastel Creator Profile | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.com/user/WarmBlood_Aban/models?baseModels=Flux.1+D" id="1057">
+          <title>WarmBlood_Aban Creator Profile | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitai.green/user/NekonoMikeko/models?baseModels=Illustrious" id="1058">
+          <title>NekonoMikeko Creator Profile | Civitai</title>
+        </bookmark>
+        <bookmark href="https://civitaiarchive.com/" id="1059">
+          <title>CivArchive (CivitAI Archive) - AI Model Archive</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.reddit.com/r/comfyui/" id="668">
+        <title>comfyui</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/FluxAI/" id="669">
+        <title>FluxAI</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/StableDiffusion/" id="670">
+        <title>StableDiffusion</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/invokeai/" id="671">
+        <title>InvokeAI: A Stable Diffusion Toolkit</title>
+      </bookmark>
+      <bookmark href="https://github.com/Kim2091/chaiNNer-Templates" id="672">
+        <title>Kim2091/chaiNNer-Templates: Pre-made chains/templates for chaiNNer. Pytorch, NCNN, and ONNX included.</title>
+      </bookmark>
+      <bookmark href="https://openart.ai/workflows/academy" id="673">
+        <title>OpenArt ComfyUI Academy | OpenArt</title>
+      </bookmark>
+      <bookmark href="https://comfyworkflows.com/" id="674">
+        <title>Comfy Workflows</title>
+      </bookmark>
+      <bookmark href="https://www.birme.net/?target_width=896&amp;target_height=1152" id="675">
+        <title>BIRME - Bulk Image Resizing Made Easy 2.0 (Online &amp; Free)</title>
+      </bookmark>
+      <bookmark href="https://www.instagram.com/hellofaerie/" id="676">
+        <title>L Marie (@hellofaerie) • Instagram photos and videos</title>
+      </bookmark>
+      <bookmark href="https://www.shakker.ai/" id="677">
+        <title>Shakker AI - Premium Stable Diffusion Model Hub</title>
+      </bookmark>
+      <bookmark href="https://closetcachete.com/dress/type" id="678">
+        <title>48 Dress Types And What They Mean With Examples &amp; Pictures</title>
+      </bookmark>
+      <bookmark href="https://fashion-era.com/fashion-resources/what-is-a-blouse" id="679">
+        <title>What is a Blouse? The Complete Guide on Different Types</title>
+      </bookmark>
+      <bookmark href="https://github.com/kijai/ComfyUI-SUPIR/tree/main" id="680">
+        <title>kijai/ComfyUI-SUPIR: SUPIR upscaling wrapper for ComfyUI</title>
+      </bookmark>
+      <bookmark href="https://www.color-meanings.com/list-of-colors-names-hex-codes/" id="681">
+        <title>List of Colors: 550 Color Names and Hex Codes | Color Meanings</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/StableDiffusion/comments/1iwwoi4/detail_perfect_recoloring_with_ace_and_flux_fill/" id="682">
+        <title>Detail Perfect Recoloring with Ace++ and Flux Fill : r/StableDiffusion</title>
+      </bookmark>
+      <bookmark href="https://github.com/tdrussell/diffusion-pipe" id="683">
+        <title>tdrussell/diffusion-pipe: A pipeline parallel training script for diffusion models.</title>
+      </bookmark>
+      <bookmark href="https://github.com/kohya-ss/sd-scripts/tree/sd3" id="684">
+        <title>kohya-ss/sd-scripts at sd3</title>
+      </bookmark>
+      <bookmark href="https://docs.interstice.cloud/basics/" id="685">
+        <title>First Steps | Krita AI Handbook</title>
+      </bookmark>
+      <bookmark href="https://danbooru.donmai.us/wiki_pages/tag_groups" id="686">
+        <title>Tag Groups Wiki | Danbooru</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/StableDiffusion/comments/1jz8ula/replace_anything_in_a_video_with_vacewan21_demos/" id="687">
+        <title>Replace Anything in a Video with VACE+Wan2.1! (Demos + Workflow) : r/StableDiffusion</title>
+      </bookmark>
+      <bookmark href="https://github.com/ssitu/ComfyUI_UltimateSDUpscale?tab=readme-ov-file" id="688">
+        <title>ssitu/ComfyUI_UltimateSDUpscale: ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.</title>
+      </bookmark>
+      <bookmark href="https://github.com/qarmin/czkawka" id="689">
+        <title>qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc.</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/lodestones/Chroma" id="690">
+        <title>lodestones/Chroma · Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/ostris/Flex.2-preview" id="691">
+        <title>ostris/Flex.2-preview · Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://github.com/by321/safetensors_util" id="692">
+        <title>by321/safetensors_util: Utility for Safetensors Files</title>
+      </bookmark>
+      <bookmark href="https://comfyui.org/en/flux-1-text-to-image-generation-guide" id="693">
+        <title>Unlock Stunning Images: A Step-by-Step Guide to Flux.1-Based Text-to-Image Generation - ComfyUI.org</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/LocalLLaMA/" id="694">
+        <title>LocalLlama</title>
+      </bookmark>
+      <bookmark href="https://www.packetswitch.co.uk/using-the-continue-vscode-extension-and-local-llms-for-improved-coding/" id="695">
+        <title>How to Use Continue and Local LLMs for Better Coding in VSCode?</title>
+      </bookmark>
+      <bookmark href="https://github.com/nari-labs/dia" id="696">
+        <title>nari-labs/dia: A TTS model capable of generating ultra-realistic dialogue in one pass.</title>
+      </bookmark>
+      <bookmark href="https://github.com/ZenAI-Vietnam/ComfyUI_InfiniteYou" id="697">
+        <title>ZenAI-Vietnam/ComfyUI_InfiniteYou: An implementation for InfiniteYou</title>
+      </bookmark>
+      <bookmark href="https://github.com/bytedance/ComfyUI_InfiniteYou" id="698">
+        <title>bytedance/ComfyUI_InfiniteYou: 🔥 Official ComfyUI native node for InfiniteYou with FLUX</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@EndangeredAI/videos" id="699">
+        <title>Endangered AI - YouTube</title>
+      </bookmark>
+      <bookmark href="https://github.com/tdrussell/diffusion-pipe/blob/main/docs/supported_models.md" id="700">
+        <title>diffusion-pipe/docs/supported_models.md at main · tdrussell/diffusion-pipe</title>
+      </bookmark>
+      <bookmark href="https://github.com/marhensa/kohya-config" id="701">
+        <title>marhensa/kohya-config: This guide provides a recommended setup and workflow for training FLUX LoRA models using Kohya_ss, optimized for GPUs with approximately 12GB VRAM (like an RTX 3060 12GB).</title>
+      </bookmark>
+      <bookmark href="https://github.com/mit-han-lab/ComfyUI-nunchaku" id="702">
+        <title>mit-han-lab/ComfyUI-nunchaku: ComfyUI plugin of Nunchaku</title>
+      </bookmark>
+      <bookmark href="https://github.com/mit-han-lab/ComfyUI-nunchaku/tree/main/example_workflows" id="703">
+        <title>ComfyUI-nunchaku/example_workflows at main · mit-han-lab/ComfyUI-nunchaku</title>
+      </bookmark>
+      <bookmark href="https://github.com/mcmonkeyprojects/SwarmUI/blob/master/docs/README.md" id="704">
+        <title>SwarmUI/docs/README.md at master · mcmonkeyprojects/SwarmUI</title>
+      </bookmark>
+      <bookmark href="https://github.com/ClownsharkBatwing/RES4LYF" id="705">
+        <title>ClownsharkBatwing/RES4LYF</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/StableDiffusion/comments/1fiszxb/onetrainer_settings_for_flux1_lora_and_dora/#lightbox" id="706">
+        <title>OneTrainer settings for Flux.1 LoRA and DoRA training : r/StableDiffusion</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/user/speach1sdef178/models" id="707">
+        <title>speach1sdef178 Creator Profile | Civitai</title>
+      </bookmark>
+      <bookmark href="https://github.com/DavidDragonsage/FooocusPlus" id="708">
+        <title>DavidDragonsage/FooocusPlus: FooocusPlus is an independent fork of Fooocus via SimpleSDXL2, with code restoration directly from mainline Fooocus.</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/fooocus/" id="709">
+        <title>fooocus</title>
+      </bookmark>
+      <bookmark href="https://github.com/derrian-distro/LoRA_Easy_Training_Scripts" id="710">
+        <title>derrian-distro/LoRA_Easy_Training_Scripts: A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy</title>
+      </bookmark>
+      <bookmark href="https://github.com/edenartlab/sd-lora-trainer" id="711">
+        <title>edenartlab/sd-lora-trainer: LoRa trainer for SDXL and SD15</title>
+      </bookmark>
+      <bookmark href="https://github.com/nisaruj/comfyui-daam" id="712">
+        <title>nisaruj/comfyui-daam: ComfyUI custom nodes for Diffusion Attentive Attribution Maps (DAAM)</title>
+      </bookmark>
+      <bookmark href="https://github.com/bghira/SimpleTuner/blob/main/documentation/QUICKSTART.md" id="713">
+        <title>SimpleTuner/documentation/QUICKSTART.md at main · bghira/SimpleTuner</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/articles/10872/training-sdxl-lora-in-kohyass-with-8gb-12gb-or-higher-vram" id="714">
+        <title>Training SDXL LoRA in Kohya_SS with 8GB, 12GB, or Higher VRAM | Civitai</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/articles/3921/this-is-how-i-train-loras-updated-with-flux" id="715">
+        <title>This is how I train LoRAs [Updated with Flux] | Civitai</title>
+      </bookmark>
+      <bookmark href="https://medium.com/@yushantripleseven/kohya-sd-scripts-sdxl-training-with-fused-backpass-optimizer-step-8ce87020b8d7" id="716">
+        <title>Kohya-Sd-Scripts : SDXL Training With Fused BackPass &amp; Optimizer Step | by YushanT7 | Medium</title>
+      </bookmark>
+      <bookmark href="https://github.com/shootthesound/lora-the-explorer" id="717">
+        <title>shootthesound/lora-the-explorer: Advanced FLUX LoRA manipulation toolkit with GUI interface</title>
+      </bookmark>
+      <bookmark href="https://github.com/kohya-ss/musubi-tuner" id="718">
+        <title>kohya-ss/musubi-tuner</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/StableDiffusion/comments/1lzilsv/stepbystep_instructions_to_train_your_own_t2v_wan/" id="719">
+        <title>Step-by-step instructions to train your own T2V WAN LORAs on 16GB VRAM and 32GB RAM : r/StableDiffusion</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/user/alexds9" id="720">
+        <title>alexds9 Creator Profile | Civitai</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/StableDiffusion/comments/1lzilsv/stepbystep_instructions_to_train_your_own_t2v_wan/?share_id=2F140ljKWuLdKF9FYujex&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=1" id="721">
+        <title>Step-by-step instructions to train your own T2V WAN LORAs on 16GB VRAM and 32GB RAM : r/StableDiffusion</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/nyanko7/flux-dev-de-distill/tree/main" id="722">
+        <title>nyanko7/flux-dev-de-distill at main</title>
+      </bookmark>
+      <bookmark href="https://bulkimagecrop.com/" id="723">
+        <title>Bulk Image Crop - Crop and Resize multiple images at once</title>
+      </bookmark>
+      <bookmark href="https://beautycalculator.net/result" id="724">
+        <title>Face Beauty Analysis Result | Beauty Calculator</title>
+      </bookmark>
+      <bookmark href="https://age.toolpie.com/" id="725">
+        <title>Detect age by face photo - How old do i look</title>
+      </bookmark>
+      <bookmark href="https://github.com/elias-gaeros/resize_lora" id="726">
+        <title>elias-gaeros/resize_lora</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/models/2014757?modelVersionId=2280235" id="727">
+        <title>Max quality QWEN Edit 2509 outputs, minimal workflow, and lots of info - v1.0 | Qwen Workflows | Civitai</title>
+      </bookmark>
+      <bookmark href="https://github.com/AHEKOT/ComfyUI_VNCCS" id="728">
+        <title>AHEKOT/ComfyUI_VNCCS: Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.</title>
+      </bookmark>
+      <bookmark href="https://github.com/ostris/ai-toolkit" id="729">
+        <title>ostris/ai-toolkit: The ultimate training toolkit for finetuning diffusion models</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@ostrisai/videos" id="730">
+        <title>Ostris AI - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@promptcrafted" id="731">
+        <title>promptcrafted - YouTube</title>
+      </bookmark>
+      <bookmark href="https://civitai.com/articles/1716/opinionated-guide-to-all-lora-training-2025-update" id="732">
+        <title>Opinionated Guide to All Lora Training (2025 Update) | Civitai</title>
+      </bookmark>
+      <bookmark href="https://github.com/kohya-ss/sd-scripts/blob/sd3/docs/sdxl_train_network.md" id="733">
+        <title>sd-scripts/docs/sdxl_train_network.md at sd3 · kohya-ss/sd-scripts</title>
+      </bookmark>
+      <bookmark href="https://promptmania.site/" id="734">
+        <title>Prompt Mania | Prompt Builder for Flux, Z-Image &amp; More</title>
+      </bookmark>
+      <bookmark href="https://github.com/Acly/krita-vision-tools" id="735">
+        <title>Acly/krita-vision-tools: Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box.</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://github.com/unslothai/unsloth" id="335">
+      <title>unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 &amp; Gemma 3 LLMs 2x faster with 70% less memory! 🦥</title>
+    </bookmark>
+  </folder>
+  <folder id="126">
+    <title>Fiction</title>
+    <bookmark href="https://www.scribblehub.com/series/421879/the-sisters-of-dorley/" id="336">
+      <title>The Sisters of Dorley | Scribble Hub</title>
+    </bookmark>
+    <bookmark href="https://www.scribblehub.com/series/147351/roommates/" id="337">
+      <title>Roommates | Scribble Hub</title>
+    </bookmark>
+    <bookmark href="https://bigclosetr.us/topshelf/" id="338">
+      <title>BigCloset TopShelf | TopShelf TG Fiction in the BigCloset!</title>
+    </bookmark>
+    <bookmark href="https://tgcomics.com/tgc/" id="339">
+      <title>TGComics (and Stories)</title>
+    </bookmark>
+    <bookmark href="https://www.fictionmania.tv/searchdisplay/new7.html" id="340">
+      <title>FictionMania - New Stories Last 7 days</title>
+    </bookmark>
+    <folder id="341">
+      <title>Manga</title>
+      <bookmark href="http://www.mangahere.cc/gender-bender/new/" id="736">
+        <title>Manga List, Read Manga Online at MangaHere</title>
+      </bookmark>
+      <bookmark href="https://sevenseasentertainment.com/series/i-think-i-turned-my-childhood-friend-into-a-girl/" id="737">
+        <title>I Think I Turned My Childhood Friend Into a Girl | Seven Seas Entertainment</title>
+      </bookmark>
+      <bookmark href="https://mangadex.org/title/3bcc56f0-1b71-4542-b7b1-74db4fab2d72" id="738">
+        <title>MangaDex - MangaDex</title>
+      </bookmark>
+      <folder id="739">
+        <title>Cubari</title>
+        <bookmark href="https://cubari.moe/" id="1060">
+          <title>Cubari</title>
+        </bookmark>
+        <bookmark href="https://cubari.moe/read/mangadex/aa6c76f7-5f5f-46b6-a800-911145f81b9b/" id="1061">
+          <title>Read Sono Bisque Doll wa Koi wo Suru | Cubari</title>
+        </bookmark>
+        <bookmark href="https://cubari.moe/read/mangadex/c3557b1c-7523-4de1-9670-cce10f5166d6/" id="1062">
+          <title>Read A Choice of Boyfriend and Girlfriend | Cubari</title>
+        </bookmark>
+        <bookmark href="https://cubari.moe/read/mangadex/398f55e5-e684-471e-b49d-9fb23b00fb87/" id="1063">
+          <title>Read Giniro no Genders | Cubari</title>
+        </bookmark>
+        <bookmark href="https://cubari.moe/read/mangadex/a5b92a8f-eba9-462b-b0ec-ebc84884351d/" id="1064">
+          <title>Read Natsuki-kun wa Kyou mo Kirei | Cubari</title>
+        </bookmark>
+        <bookmark href="https://cubari.moe/read/mangadex/d64138fe-ef4c-4e04-bfd9-6e520850757a/" id="1065">
+          <title>Read Shounen Princess - Putri Harimau Nao | Cubari</title>
+        </bookmark>
+        <bookmark href="https://cubari.moe/read/mangadex/67ca1083-ec62-4f66-a2f5-355a2702f6e3/" id="1066">
+          <title>Read Only Sense Online | Cubari</title>
+        </bookmark>
+        <bookmark href="https://cubari.moe/read/mangadex/3bcc56f0-1b71-4542-b7b1-74db4fab2d72/" id="1067">
+          <title>Read How to Make a &quot;Girl&quot; Fall in Love | Cubari</title>
+        </bookmark>
+        <bookmark href="https://cubari.moe/read/mangadex/bbdf2387-2fa5-44fb-aac1-ceae69fc4eef/" id="1068">
+          <title>Read Mokuyoubi wa Kimi to Nakitai | Cubari</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <bookmark href="https://www.deviantart.com/ducklingstories/gallery" id="342">
+      <title>DucklingStories User Profile | DeviantArt</title>
+    </bookmark>
+  </folder>
+  <folder id="127">
+    <title>Pics</title>
+    <folder id="343">
+      <title>instagram</title>
+      <bookmark href="https://imginn.com/hiitsmyxm/" id="740">
+        <title>Mym Tran(@hiitsmyxm) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/yoshirinrada/" id="741">
+        <title>Rinrada Thurapan(@yoshirinrada) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/book.theerachaya/" id="742">
+        <title>马陈兴(@book.theerachaya) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/veenapraveenar/" id="743">
+        <title>Veena Praveenar Singh(@veenapraveenar) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/zuttijapanese/" id="744">
+        <title>𝙕𝙪𝙩𝙩𝙞 𝙈𝙖𝙩𝙩𝙞𝙖(@zuttijapanese) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/kimgyutae_official/" id="745">
+        <title>𝐆𝐘𝐔𝐓𝐀𝐄(@kimgyutae_official) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/_ginger.nika_/" id="746">
+        <title>• NIKA •(@_ginger.nika_) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/fran.ziska.s/" id="747">
+        <title>Franziska(@fran.ziska.s) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/filipvlasic/" id="748">
+        <title>Filip Vlasic(@filipvlasic) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/gigigorgeous/" id="749">
+        <title>Gigi Gorgeous Getty(@gigigorgeous) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/lubenn29/" id="750">
+        <title>Lu 🤍(@lubenn29) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/ogiaru/" id="751">
+        <title>ʚ gaLLy ɞ(@ogiaru) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/saragramu_cd/" id="752">
+        <title>Sara_❤︎ 𝕔𝕣𝕠𝕤𝕤𝕕𝕣𝕖𝕤𝕤𝕖𝕣(@saragramu_cd) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/farrahrized/" id="753">
+        <title>Farrah Moan(@farrahrized) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/_missbo/" id="754">
+        <title>Bo Abrlic(@_missbo) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/mima2ko/" id="755">
+        <title>MIMARI(@mima2ko) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/lopechante/" id="756">
+        <title>LOPE(@lopechante) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/ala780705/" id="757">
+        <title>小A辣🌶️(@ala780705) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/lizakovalenkoo/" id="758">
+        <title>Yeli Kovalenko(@lizakovalenkoo) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/rachelc00k/" id="759">
+        <title>RACHEL COOK(@rachelc00k) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/noelleleyva/" id="760">
+        <title>NOELLE LEYVA(@noelleleyva) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/anthemika/" id="761">
+        <title>Anthemika Whittle(@anthemika) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/deannaritter98/" id="762">
+        <title>Deanna Ritter(@deannaritter98) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/daphneromeofficial/" id="763">
+        <title>Daphne Rome 💋(@daphneromeofficial) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/kassidy.46/" id="764">
+        <title>Kassidy Davis(@kassidy.46) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/harmony_decourcy/" id="765">
+        <title>Harmony Decourcy(@harmony_decourcy) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/aureliafoxx1/" id="766">
+        <title>Aurelia Fox(@aureliafoxx1) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/itsvickimaier/" id="767">
+        <title>Vicki(@itsvickimaier) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/afy612/" id="768">
+        <title>劉薰愛(@afy612) instagram photos and videos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/hellofaerie/" id="769">
+        <title>L Marie(@hellofaerie) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/marcorocchhaa/" id="770">
+        <title>Marco Rocha makeup(@marcorocchhaa) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/binababe/" id="771">
+        <title>岩祐(@binababe) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/rio_kbys2/" id="772">
+        <title>Rio@gender division(@rio_kbys2) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/jorgechaconh/" id="773">
+        <title>Jorge Chacón(@jorgechaconh) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/azkhategar/" id="774">
+        <title>Azkha Tegar(@azkhategar) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/cutiepiesensei/" id="775">
+        <title>CutiePieSensei(@cutiepiesensei) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/mikoesjay/" id="776">
+        <title>mikoella ㅤᵕ̈(@mikoesjay) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/lukeslyfe/" id="777">
+        <title>Luke Lewis⭐️(@lukeslyfe) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/alexxbadilla/" id="778">
+        <title>Alex Badilla(@alexxbadilla) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/j.meldwin/" id="779">
+        <title>Pabski ✨(@j.meldwin) instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/sugimoto_rin/" id="780">
+        <title>Sugimoto Rin (@sugimoto_rin) Instagram photos and stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/brunet_trap/" id="781">
+        <title>Brunet(@brunet_trap) instagram stories download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/arkham_acho/" id="782">
+        <title>🥀acho🦇(@arkham_acho) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/rock_kwanlada/" id="783">
+        <title>rock kwanlada(@rock_kwanlada) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/oliviacastabunny/" id="784">
+        <title>Olivia Casta(@oliviacastabunny) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/oliviacastaxx/" id="785">
+        <title>Olivia Cláudia Motta Casta(@oliviacastaxx) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/seshi_smile/" id="786">
+        <title>seshi_smile(@seshi_smile) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/sena.__jiluka/" id="787">
+        <title>SENA Sena(@sena.__jiluka) Instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/jiluka_sena/" id="788">
+        <title>jiluka_sena(@jiluka_sena) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/valentivitell/" id="789">
+        <title>V❤️(@valentivitell) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/sladkoslava/" id="790">
+        <title>ILONA BUGAEVA COSPLAY ✨ MAKEUP(@sladkoslava) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/hong_s.eol/" id="791">
+        <title>홍설(@hong_s.eol) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/kattslade/" id="792">
+        <title>♱ 𝔈𝔳𝔞 𝔏𝔢𝔷𝔞 ♱(@kattslade) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/akire_moonless/" id="793">
+        <title>Erika(@akire_moonless) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/cathrynli/" id="794">
+        <title>李元玲(@cathrynli) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/h0pelessly.dev0ted/" id="795">
+        <title>Tara Blossom Johnson(@h0pelessly.dev0ted) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/p/DQfN72qDFI4/" id="796">
+        <title>tara_martino7 (@tara_martino7): Look who I found in the manor. instagram post download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/tara_martino7/" id="797">
+        <title>Tara(@tara_martino7) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/zienamorales/" id="798">
+        <title>Ziena Morales(@zienamorales) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/querenuk/" id="799">
+        <title>Quéren(@querenuk) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/esmeisokay/" id="800">
+        <title>Esme(@esmeisokay) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/valerietnt/" id="801">
+        <title>𝑽𝒂𝒍𝒆𝒓𝒊𝒆🦋(@valerietnt) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/romeebaaby/" id="802">
+        <title>Romee(@romeebaaby) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/alexandraadavies1996/" id="803">
+        <title>Alexandra Valerie Davies ☮(@alexandraadavies1996) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/lyfeasluke/" id="804">
+        <title>Luke Lewis 🌴💕(@lyfeasluke) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/notteletypewriterqq/" id="805">
+        <title>notteletypewriterqq(@notteletypewriterqq) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/1shinegowns_official/" id="806">
+        <title>1shine_ig ห้องเสื้อวันชายน์(@1shinegowns_official) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/pam_suchanooch/" id="807">
+        <title>Suchanooch Supathammawong(@pam_suchanooch) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/futuaner_ikaros.real/" id="808">
+        <title>腐团儿(@futuaner_ikaros.real) instagram stories and photos download - imginn.com</title>
+      </bookmark>
+    </folder>
+    <folder id="344">
+      <title>Bilibili</title>
+      <bookmark href="https://space.bilibili.com/128629" id="809">
+        <title>Sola酱也要成为双马尾的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/220025605" id="810">
+        <title>Nanzhi ZC</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/661794217" id="811">
+        <title>Putu kri&apos;s personal space_bilibili_bilibili</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/503128464" id="812">
+        <title>Tiffany&apos;s personal space in Wuhan</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/94659267#!/" id="813">
+        <title>Hani9</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/1999455" id="814">
+        <title>Alice Cosplay</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/814517" id="815">
+        <title>kira AC</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/65602457/" id="816">
+        <title>Yangyang&apos;s bad personal space_哔哩哔哩_bilibili</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/457476869" id="817">
+        <title>Farewell Fireworks&apos; personal space - Farewell Fireworks personal homepage - Bilibili Video</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/109153985" id="818">
+        <title>Xiaoyinya-&apos;s personal space-Xiaoyinya-personal homepage-Bilibili Video</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/109153985/video?tid=0&amp;pn=4&amp;keyword=&amp;order=pubdate" id="819">
+        <title>小银呀-投稿视频-小银呀-视频分享-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/523303403" id="820">
+        <title>金刚教授的个人空间-金刚教授个人主页-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/29881527/upload/video" id="821">
+        <title>Guchengqinqin&apos;s personal space - Guchengqinqin&apos;s personal homepage - Bilibili video</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/3493290362014061/upload/video" id="822">
+        <title>French Fries Girl Eating French Fries Submission Video - French Fries Girl Eating French Fries Video Sharing - Bilibili Video</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/318850266/upload/video" id="823">
+        <title>媛野家的夏小白投稿视频-媛野家的夏小白视频分享-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/14020283" id="824">
+        <title>Quanjiang Senior Xia Xiaobai&apos;s personal space - Quanjiang Senior Xia Xiaobai&apos;s personal homepage - Bilibili video</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/28410839/upload/video" id="825">
+        <title>嘴里吸AD钙奶投稿视频-嘴里吸AD钙奶视频分享-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/287987464" id="826">
+        <title>LiamJDS Personal Space - LiamJDS Personal Home Page - Bip-Beep Video</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/432658367/upload/video" id="827">
+        <title>唯一的钙奶投稿视频-唯一的钙奶视频分享-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/281126595/upload/video" id="828">
+        <title>雾雨菜菜投稿视频-雾雨菜菜视频分享-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/3546566956681315/upload/video" id="829">
+        <title>Ts Chen Weiwei Posting Video - Ts Chen Weiwei Video Sharing - Beeping Bip</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/168193950/upload/video" id="830">
+        <title>Bat sauce submission video - Bat sauce video sharing - Bip Bip Video</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/244204035?spm_id_from=333.788.upinfo.detail.click" id="831">
+        <title>Nanmei Yiyi Yiyi nayee&apos;s personal space - Nanmei Yiyi nayee personal homepage - Bip-Beep-Beep Video</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/518676936?spm_id_from=333.788.upinfo.detail.click" id="832">
+        <title>恬酱宝贝的个人空间-恬酱宝贝个人主页-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/3546722240301816?spm_id_from=333.788.upinfo.detail.click" id="833">
+        <title>- Mom&apos;s personal space - Mommy&apos;s personal home page - Bip-Beep-Beep-Beep-Mile-Beep-Beep-Beep-Bee-Bee-Beep-Beep-Mip-Miao-Bin-Bin-Bin-Bin-B</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/425561435/upload/video" id="834">
+        <title>Ts北北美人鱼投稿视频-Ts北北美人鱼视频分享-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/3546855017286336?spm_id_from=333.788.upinfo.detail.click" id="835">
+        <title>爆炒尤里酱的个人空间-爆炒尤里酱个人主页-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/3546626863926058/upload/video" id="836">
+        <title>Taozhi Yaoyao</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/3537109847641031/upload/video" id="837">
+        <title>Xi Xi has arrived!</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/3493127566395881/upload/video" id="838">
+        <title>Fox Apricot</title>
+      </bookmark>
+    </folder>
+    <folder id="345">
+      <title>Weibo</title>
+      <bookmark href="https://weibo.com/solaco?refer_flag=1005055014_&amp;is_hot=1#_rnd1513553832445" id="839">
+        <title>Sola酱也要成为双马尾的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://weibo.com/7502095346?refer_flag=1001030103_" id="840">
+        <title>@Y-SNOW-yingqi&apos;s personal homepage - Weibo</title>
+      </bookmark>
+      <bookmark href="https://weibo.com/p/1005055541046800/home?from=page_100505&amp;mod=TAB&amp;is_all=1&amp;ssl_rnd=1605795613.2685#place" id="841">
+        <title>南执zc的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://www.weibo.com/234127671?is_hot=1#_rnd1580381540983" id="842">
+        <title>Brother Xu Yan</title>
+      </bookmark>
+      <bookmark href="https://www.weibo.com/tyafutuan?is_hot=1" id="843">
+        <title>腐团儿Ikaros的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://www.weibo.com/Abbily123?refer_flag=1005055014_&amp;is_hot=1" id="844">
+        <title>我叫Abbily的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://weibo.com/alicehaoge?is_all=1" id="845">
+        <title>AC爱丽丝伪娘团_豪歌的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://www.weibo.com/809001232?is_hot=1" id="846">
+        <title>AC爱丽丝_小花的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://www.weibo.com/u/1870023155?is_hot=1" id="847">
+        <title>AC爱丽丝_泉酱夏小白的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://www.weibo.com/u/2165416944?refer_flag=1005055013_" id="848">
+        <title>AC爱丽丝_唐伯猫的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://www.weibo.com/209373131?refer_flag=1005055014_&amp;is_hot=1" id="849">
+        <title>HENTAI狩子的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://weibo.com/u/2667595283" id="850">
+        <title>昭君TOUCH的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://weibo.com/u/7398668905" id="851">
+        <title>@纯洁的凌一酱 的个人主页 - 微博</title>
+      </bookmark>
+      <bookmark href="https://weibo.com/u/1746623303" id="852">
+        <title>@Arisa Guiguiying&apos;s personal homepage - Weibo</title>
+      </bookmark>
+      <bookmark href="https://weibo.com/u/1828867190?is_hot=1#_rnd1505909715068" id="853">
+        <title>CROME拉面猫就是星空萌的微博_微博</title>
+      </bookmark>
+      <bookmark href="https://weibo.com/u/5857391181" id="854">
+        <title>@是污咪酱 的个人主页 - 微博</title>
+      </bookmark>
+      <bookmark href="https://www.weibo.com/u/7414455649" id="855">
+        <title>@Sharing Vega&apos;s Personal Page - Weibo</title>
+      </bookmark>
+      <bookmark href="https://www.weibo.com/u/2139358713" id="856">
+        <title>@AC Alice COS Artistic Home Page - Weibo</title>
+      </bookmark>
+    </folder>
+    <folder id="346">
+      <title>Twitter</title>
+      <bookmark href="https://xcancel.com/toitooi_12/media" id="857">
+        <title>ちちゃん💜🤍 (@toitooi_12) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/chichan_no_chi/media" id="858">
+        <title>ちちゃんのち (@chichan_no_chi) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/SoladayoLA/media" id="859">
+        <title>Sola酱也要成为双马尾 (@SoladayoLA) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/maturipon/media" id="860">
+        <title>神楽坂まつり (@maturipon) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/soyokazenooto/media" id="861">
+        <title>宮沢まい🐍 (@soyokazenooto) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/X27E57/media" id="862">
+        <title>RuBeR🍓2/8東京生誕祭 (@X27E57) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/yu_iboy/media" id="863">
+        <title>ゆーゐ (@yu_iboy) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/F1NN5TER/media" id="864">
+        <title>F1NN5TER (@F1NN5TER) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/TaiGa_ioridono/media" id="865">
+        <title>女◯研究家TaiGa (@TaiGa_ioridono) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/tonoM6devil/media" id="866">
+        <title>✵ ✟ TONO ✟ ✵ (@tonoM6devil) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/A_d185a/media" id="867">
+        <title>🥀あーちょ🦇 (@A_d185a) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/cherrycrushTV" id="868">
+        <title>Cherry Crush 🍒 (@cherrycrushTV) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/makoto_memory/media" id="869">
+        <title>まこと🏥 (@makoto_memory) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/mima2ko/media" id="870">
+        <title>MIMARIⓂ️🧬 (@mima2ko) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/taylorswift13" id="871">
+        <title>Taylor Swift (@taylorswift13) | X Cancelled</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/monicalovecd" id="872">
+        <title>_Monica_ (@monicalovecd) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/unique_sora" id="873">
+        <title>UniqueSora (@unique_sora) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/hinana_xx" id="874">
+        <title>Hina🐣 (@hinana_xx) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/luka_mb2500/media?cursor=DAABCgABGn7U4TN___QKAAIaTzpjx9oAIAgAAwAAAAIAAA" id="875">
+        <title>皐月ヒロ (@luka_mb2500) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/sienna_moon_" id="876">
+        <title>𝔖𝔦𝔢𝔫𝔫𝔞 𝔐𝔬𝔬𝔫 (@sienna_moon_) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/_Riyuyu_" id="877">
+        <title>Riyuyu🌺🎀 (@_Riyuyu_) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/BatBatBatj" id="878">
+        <title>Bat Sauce (@BatBatBatj) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/kitune_ponpoko/media" id="879">
+        <title>Sena♂@Daily Account (@kitune_ponpoko) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/Brunet_Trap" id="880">
+        <title>Brunette (@Brunet_Trap) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/cutiepiesensei" id="881">
+        <title>CutiePieSensei (@cutiepiesensei) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/tore_zuchan/media" id="882">
+        <title>Torezu-chan (@tore_zuchan) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/Nanzhizzc1" id="883">
+        <title>Nanzhizc (@Nanzhizzc1) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/Sena_JILUKA" id="884">
+        <title>⚜️JILUKA_Sena⚜️ (@Sena_JILUKA) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/ioririyui" id="885">
+        <title>Ioriyui (@ioririyui) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/mizupochan88/media?cursor=DAABCgABG4fLhpH___MKAAIbgIXxppcR0AgAAwAAAAIAAA" id="886">
+        <title>Mizupo♂ (@mizupochan88) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/jam_pan_suki/media" id="887">
+        <title>Jam Pan (@jam_pan_suki) | XCancel</title>
+      </bookmark>
+      <bookmark href="https://xcancel.com/hagamight" id="888">
+        <title>haga@AIart AI Illustration (@hagamight) | XCancel</title>
+      </bookmark>
+    </folder>
+    <folder id="347">
+      <title>DeviantArt</title>
+      <bookmark href="https://www.deviantart.com/kannelart/gallery" id="889">
+        <title>KannelArt - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/celebritygenderswap/gallery/all" id="890">
+        <title>CelebrityGenderSwap User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/themirrorsotherside/gallery" id="891">
+        <title>TheMirrorsOtherSide User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/lizschnabel/gallery" id="892">
+        <title>lizschnabel User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/drabinib/gallery" id="893">
+        <title>DrabiniB - Professional, Interface Designer | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/jhoanngil696/gallery" id="894">
+        <title>jhoanngil696 - Student, Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/johngate2014/gallery" id="895">
+        <title>johngate2014 - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/misssimone/gallery" id="896">
+        <title>Misssimone - Hobbyist, Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/ultrasynthetica/gallery" id="897">
+        <title>My New Life by Ultrasynthetica on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/lyebethd/gallery" id="898">
+        <title>LyebethD - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/love-of-arts/gallery/all" id="899">
+        <title>Love-of-arts User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/logancure/gallery" id="900">
+        <title>logancure - Professional, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/sciamano240/gallery" id="901">
+        <title>Sciamano240 - Professional, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/mikonotai/gallery" id="902">
+        <title>mikonotai - Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/haacha/gallery" id="903">
+        <title>HaaCha - Hobbyist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/thealphega/gallery" id="904">
+        <title>TheAlphega - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/sippy69/gallery" id="905">
+        <title>sippy69 User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/cathrynedelamort/gallery" id="906">
+        <title>CathryneDelamort - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/noeskape/gallery" id="907">
+        <title>NoEskape - Hobbyist, Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/namakxin/gallery" id="908">
+        <title>namakxin - Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/ryokosan07/gallery" id="909">
+        <title>RyokoSan07 - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/yutanineoneural/gallery" id="910">
+        <title>YutaniNeoNeural - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/incongit-ai/gallery" id="911">
+        <title>Incongit-AI User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/eapcrusader/gallery/all" id="912">
+        <title>EAPCrusader - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/0binobi/gallery" id="913">
+        <title>0binobi - Hobbyist, General Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/alluring-artwork/gallery/90557665/sfw" id="914">
+        <title>alluring-artwork User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/gryephon/gallery" id="915">
+        <title>Zatanna #24 by Gryephon on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/ksanastankevich/gallery" id="916">
+        <title>KsanaStankevich - Hobbyist, Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/endoflineart/gallery" id="917">
+        <title>EndOfLineArt User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/sherrysweet/gallery" id="918">
+        <title>SherrySweet User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/delavestra/gallery" id="919">
+        <title>Ariana Female Wet SFW 32 by Delavestra on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/ttb2112-ai/gallery" id="920">
+        <title>ttb2112-ai - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/klodi14024/gallery" id="921">
+        <title>Klodi14024 User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/noelletg/gallery" id="922">
+        <title>NoelleTG User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/femfactory/gallery/95445228/tsunade-s-special-training" id="923">
+        <title>Certifiably Cooked 1/119+ by FemFactory on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/pidgewidgeon69/gallery/93762839/kim-possible" id="924">
+        <title>Pidgewidgeon69 User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/virtualvixenai/gallery/all" id="925">
+        <title>VirtualVixenAi - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/omegajvn1/favourites/83089700/final-fantasy#content" id="926">
+        <title>omegajvn1 User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/michal1970/gallery" id="927">
+        <title>Stair challenge by Michal1970 on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/bortall/gallery/90595653/cheer-squad-collection" id="928">
+        <title>Pool Collection by Bortall on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/bionicninjasprinkles/gallery/95184875/mannequins" id="929">
+        <title>My Ai generated work enjoy by BionicNinjaSprinkles on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/ducklingstories/gallery#content" id="930">
+        <title>Maintenance of the professional Office Look by DucklingStories on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/dopamine80/gallery#content" id="931">
+        <title>Dopamine80 User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/skyedigitaltales/gallery/94510994/she-hulk" id="932">
+        <title>SkyeDigitalTales - Hobbyist, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/bartnix/favourites/97266373/flapsky" id="933">
+        <title>Bartnix User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/kraftfullai/gallery#content" id="934">
+        <title>kraftfullai User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/hagr11d/gallery#content" id="935">
+        <title>Hagr11d User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/emoryahlberg-neo/gallery" id="936">
+        <title>emoryahlberg-neo - Professional, Digital Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/mm153/favourites/101558588/beautiful-just-standing-2#content" id="937">
+        <title>MM153 User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/parkleggykorean/gallery" id="938">
+        <title>ParkLeggyKorean User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/mm153/favourites/100133224/captivating-sitting-women" id="939">
+        <title>Cinderella by ruizmachuca on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/fatal-cookies/gallery" id="940">
+        <title>crossdress by Fatal-cookies on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/kawaiianimecuties/gallery?deviationid=1259531101#content" id="941">
+        <title>KawaiiAnimeCuties User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/roguemai/gallery/all?order=newest" id="942">
+        <title>RogueMai User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/petiteblond/gallery/all?order=newest" id="943">
+        <title>PetiteBlond - Hobbyist, Photographer | DeviantArt</title>
+      </bookmark>
+    </folder>
+    <folder id="348">
+      <title>flickr</title>
+      <bookmark href="https://www.flickr.com/photos/trans_kyoko/" id="944">
+        <title>Kyoko Matsushita    松下恭子</title>
+      </bookmark>
+      <bookmark href="https://www.flickr.com/photos/monicalovecd/" id="945">
+        <title>MONICALOVECD | Flickr</title>
+      </bookmark>
+      <bookmark href="https://www.flickr.com/photos/92908857@N06/" id="946">
+        <title>Lana Lane | Flickr</title>
+      </bookmark>
+      <bookmark href="https://www.flickr.com/photos/199418201@N07/" id="947">
+        <title>Jennie Spice | Flickr</title>
+      </bookmark>
+      <bookmark href="https://www.flickr.com/photos/fotomanufaktur-hertzsch/with/38566081016" id="948">
+        <title>Markus Hertzsch | Flickr</title>
+      </bookmark>
+      <bookmark href="https://www.flickr.com/photos/111725425@N05/with/54258587544" id="949">
+        <title>Andrew Holloway | Flickr</title>
+      </bookmark>
+      <bookmark href="https://www.flickr.com/photos/fotoabstracta/with/54229381695" id="950">
+        <title>__Zumi__ | Flickr</title>
+      </bookmark>
+      <bookmark href="https://www.flickr.com/photos/190173596@N07/" id="951">
+        <title>Flora 秘密花園 | Flickr</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.youtube.com/@makeupgyutae" id="349">
+      <title>Make up GYUTAE - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@baiweiyang/videos" id="350">
+      <title>漾漾不好吃 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@xiaoyinjiang/videos" id="351">
+      <title>小银酱QAQ - YouTube</title>
+    </bookmark>
+    <bookmark href="https://fansly.com/Novelchef/posts" id="352">
+      <title>Fansly - @Novelchef</title>
+    </bookmark>
+    <bookmark href="https://jkontumblr.tumblr.com/archive" id="353">
+      <title>a gender game for gifted guys: Archive</title>
+    </bookmark>
+    <bookmark href="https://www.pornpics.com/channels/playboy-plus/" id="354">
+      <title>Playboy Plus Nude Porn Pics - PornPics.com</title>
+    </bookmark>
+    <bookmark href="https://www.pornpics.com/galleries/sarina-valentina-official-performed-by-sarina-valentina-hot-pics-21886887/" id="355">
+      <title>Sarina Valentina Official performed by Sarina Valentina Hot Pics - PornPics.com</title>
+    </bookmark>
+  </folder>
+  <folder id="128">
+    <title>Daz Blender</title>
+    <bookmark href="https://www.daz3d.com/shop/" id="356">
+      <title>Daz 3D</title>
+    </bookmark>
+    <bookmark href="https://diffeomorphic.blogspot.com/" id="357">
+      <title>Diffeomorphic</title>
+    </bookmark>
+    <bookmark href="https://render-state.to/" id="358">
+      <title>Render-State – 3D Models</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="6">
+  <title>Misc</title>
+  <bookmark href="https://www.bellsirishlyrics.com/ned-of-the-hill.html" id="129">
+    <title>Ned Of The Hill Lyrics - 2 versions | BellsIrishLyrics.com</title>
+  </bookmark>
+  <bookmark href="https://github.com/tildearrow/furnace" id="130">
+    <title>tildearrow/furnace: a multi-system chiptune tracker compatible with DefleMask modules</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.com/" id="131">
+    <title>Amazon.com. Spend less. Smile more.</title>
+  </bookmark>
+  <bookmark href="https://www.walmart.com/" id="132">
+    <title>Walmart.com | Save Money. Live Better</title>
+  </bookmark>
+  <bookmark href="https://foodlion.com/" id="133">
+    <title>Food Lion | Online Grocery Delivery and Pickup | Pharmacy</title>
+  </bookmark>
+  <bookmark href="https://openweathermap.org/city/4498899" id="134">
+    <title>Weather forecast - OpenWeatherMap</title>
+  </bookmark>
+  <bookmark href="https://www.accuweather.com/en/us/whiteville/28472/weather-forecast/334807" id="135">
+    <title>Whiteville, NC Weather Forecast | AccuWeather</title>
+  </bookmark>
+  <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="136">
+    <title>Inbox - tconley2019@gmail.com - Gmail</title>
+  </bookmark>
+  <bookmark href="https://outlook.live.com/mail/0/" id="137">
+    <title>Mail - Aria Conley - Outlook</title>
+  </bookmark>
+  <bookmark href="https://calendar.google.com/calendar/u/0/r/month" id="138">
+    <title>Google Calendar</title>
+  </bookmark>
+  <bookmark href="https://discord.com/channels/@me" id="139">
+    <title>Discord</title>
+  </bookmark>
+  <bookmark href="https://www.spectrum.net/login/?ReferringPartner=TWC" id="140">
+    <title>Spectrum.net</title>
+  </bookmark>
+  <bookmark href="https://docs.google.com/document/u/0/" id="141">
+    <title>Google Docs</title>
+  </bookmark>
+  <bookmark href="https://wego.here.com/?map=34.33096,-78.69024,19,satellite" id="142">
+    <title>HERE WeGo</title>
+  </bookmark>
+  <bookmark href="https://sealevel.climatecentral.org/maps/" id="143">
+    <title>Maps &amp; Tools | Surging Seas: Sea level rise analysis by Climate Central</title>
+  </bookmark>
+  <bookmark href="http://flood.firetree.net/" id="144">
+    <title>Flood Maps</title>
+  </bookmark>
+  <bookmark href="https://atlasoficeandfireblog.wordpress.com/" id="145">
+    <title>Atlas of Ice and Fire | The geography and maps of George R.R. Martin&apos;s A Song of Ice and Fire and other fantasy worlds</title>
+  </bookmark>
+  <bookmark href="http://bitsavers.org/" id="146">
+    <title>bitsavers.org</title>
+  </bookmark>
+  <bookmark href="https://github.com/sgrimm/lurkers-guide" id="147">
+    <title>sgrimm/lurkers-guide: The Lurker&apos;s Guide to Babylon 5</title>
+  </bookmark>
+  <bookmark href="https://www.righto.com/2023/02/bendix-central-air-data-computer-cadc.html" id="148">
+    <title>Inside the amazingly mechanical Bendix Central Air Data Computer</title>
+  </bookmark>
+  <bookmark href="http://www.radio-browser.info/gui/#!/topvote" id="149">
+    <title>Community Radio Station Board</title>
+  </bookmark>
+  <bookmark href="https://theprancingponypodcast.com/" id="150">
+    <title>The Prancing Pony Podcast – The best Tolkien podcast this side of Bree!</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=bxMVtnBeC2o" id="151">
+    <title>Easily Apply Windows Folder View to all Subfolders</title>
+  </bookmark>
+  <bookmark href="https://titoki.net/files/books/" id="152">
+    <title>books - files &gt; books</title>
+  </bookmark>
+  <bookmark href="https://the-eye.eu/public/" id="153">
+    <title>Index of /public/</title>
+  </bookmark>
+  <bookmark href="https://partialhistorians.com/category/podcast/" id="154">
+    <title>Podcast Archives - The Partial Historians</title>
+  </bookmark>
+  <bookmark href="https://podfollow.com/the-ancients/view" id="155">
+    <title>The Ancients | Podfollow</title>
+  </bookmark>
+  <bookmark href="https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/" id="156">
+    <title>The Moral Economy of the Shire | Goldwag&apos;s Journal on Civilization</title>
+  </bookmark>
+  <bookmark href="https://peterraleigh.substack.com/" id="157">
+    <title>Long Library | Peter Raleigh | Substack</title>
+  </bookmark>
+  <bookmark href="https://gemmanagement.securecafe.com/residentservices/apartmentsforrent/payments.aspx#tab_MakePayments" id="158">
+    <title>https://gemmanagement.securecafe.com/residentservices/apartmentsforrent/payments.aspx#tab_MakePayments</title>
+  </bookmark>
+  <bookmark href="https://edgeofmidnight.weebly.com/" id="159">
+    <title>The Edge of Midnight - Home</title>
+  </bookmark>
+  <bookmark href="https://lotr.fandom.com/wiki/Main_Page" id="160">
+    <title>The One Wiki to Rule Them All | Fandom</title>
+  </bookmark>
+  <bookmark href="https://edgeofmidnight.weebly.com/the-business-of-risk.html" id="161">
+    <title>The Business of Risk - The Edge of Midnight</title>
+  </bookmark>
+  <bookmark href="https://maps.metager.de/en/[[-79.11247142858991,34.158935927254745],[-78.29372857140929,34.518664072744684]]" id="162">
+    <title>Maps - MetaGer</title>
+  </bookmark>
+  <bookmark href="https://www.openstreetmap.org/#map=5/51.90/30.03" id="163">
+    <title>OpenStreetMap</title>
+  </bookmark>
+  <bookmark href="https://archive.org/search?query=tosec" id="164">
+    <title>Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies, Music &amp; Wayback Machine</title>
+  </bookmark>
+  <bookmark href="https://www.osmap.us/#3/41.97/-99.49" id="165">
+    <title>osMap Worldmap online | OpenStreetMap in English | Map in English based on OpenStreetMap data | osMap</title>
+  </bookmark>
+  <bookmark href="https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#pro" id="166">
+    <title>hagezi/dns-blocklists: DNS-Blocklists: For a better internet - keep the internet clean!</title>
+  </bookmark>
+</folder>
+<folder id="7">
+  <title>Linux</title>
+  <folder id="167">
+    <title>CLI</title>
+    <bookmark href="https://github.com/ibraheemdev/modern-unix" id="359">
+      <title>ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.</title>
+    </bookmark>
+    <bookmark href="https://remysharp.com/2018/08/23/cli-improved" id="360">
+      <title>CLI: improved</title>
+    </bookmark>
+    <bookmark href="https://github.com/jlevy/the-art-of-command-line" id="361">
+      <title>jlevy/the-art-of-command-line: Master the command line, in one page</title>
+    </bookmark>
+    <bookmark href="https://en.wikibooks.org/wiki/Bash_Shell_Scripting" id="362">
+      <title>Bash Shell Scripting - Wikibooks, open books for an open world</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/1224766/how-do-i-rename-the-extension-for-a-bunch-of-files" id="363">
+      <title>bash - How do I rename the extension for a bunch of files? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://github.com/charmbracelet/gum" id="364">
+      <title>charmbracelet/gum: A tool for glamorous shell scripts 🎀</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://www.graphicsmagick.org/utilities.html" id="168">
+    <title>GraphicsMagick Utilities</title>
+  </bookmark>
+  <bookmark href="https://github.com/bayandin/awesome-awesomeness" id="169">
+    <title>bayandin/awesome-awesomeness: A curated list of awesome awesomeness</title>
+  </bookmark>
+  <bookmark href="https://git.herrbischoff.com/awesome-command-line-apps/about/" id="170">
+    <title>awesome-command-line-apps - Use your terminal shell to do awesome things.</title>
+  </bookmark>
+  <bookmark href="https://github.com/awesome-lists/awesome-bash" id="171">
+    <title>awesome-lists/awesome-bash: A curated list of delightful Bash scripts and resources.</title>
+  </bookmark>
+  <bookmark href="https://github.com/awesome-selfhosted/awesome-selfhosted" id="172">
+    <title>awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers</title>
+  </bookmark>
+  <bookmark href="https://firebog.net/" id="173">
+    <title>Blocklist Collection ¦ Firebog</title>
+  </bookmark>
+  <bookmark href="https://www.phoronix.com/scan.php?page=home" id="174">
+    <title>Linux Hardware Reviews, Open-Source Benchmarks &amp; Linux Performance - Phoronix</title>
+  </bookmark>
+  <bookmark href="https://forum.level1techs.com/" id="175">
+    <title>Level1Techs Forums</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN" id="176">
+    <title>Ansible 101 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://networkupstools.org/" id="177">
+    <title>Network UPS Tools - Welcome</title>
+  </bookmark>
+  <bookmark href="https://github.com/DoTheEvo/selfhosted-apps-docker" id="178">
+    <title>selfhosted-apps-docker/prometheus_grafana_loki at master · DoTheEvo/selfhosted-apps-docker</title>
+  </bookmark>
+  <bookmark href="https://github.com/walkxcode/dashboard-icons" id="179">
+    <title>walkxcode/dashboard-icons: ❤️ The best icons for your personal dashboard.</title>
+  </bookmark>
+  <bookmark href="https://github.com/FilipePS/Traduzir-paginas-web/releases" id="180">
+    <title>Releases · FilipePS/Traduzir-paginas-web</title>
+  </bookmark>
+  <bookmark href="https://www.composerize.com/" id="181">
+    <title>Composerize</title>
+  </bookmark>
+  <bookmark href="https://geek-cookbook.funkypenguin.co.nz/" id="182">
+    <title>Make docker swarm HA with keepalived - Funky Penguin&apos;s Geek Cookbook</title>
+  </bookmark>
+  <bookmark href="https://technitium.com/" id="183">
+    <title>Technitium | Push The Limits</title>
+  </bookmark>
+  <bookmark href="https://ultra.cc/#plan-pricing" id="184">
+    <title>Premium apps hosting that just works</title>
+  </bookmark>
+  <bookmark href="https://whatbox.ca/plans" id="185">
+    <title>Plans · Whatbox</title>
+  </bookmark>
+  <bookmark href="https://github.com/Palleri/DCW" id="186">
+    <title>GitHub - Palleri/DCW</title>
+  </bookmark>
+  <bookmark href="https://github.com/pyenv-win/pyenv-win" id="187">
+    <title>pyenv-win/pyenv-win: pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It&apos;s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.</title>
+  </bookmark>
+  <bookmark href="https://python-poetry.org/" id="188">
+    <title>Poetry - Python dependency management and packaging made easy</title>
+  </bookmark>
+  <bookmark href="https://pypa.github.io/pipx/" id="189">
+    <title>pipx</title>
+  </bookmark>
+  <bookmark href="https://pictogrammers.com/library/mdi/" id="190">
+    <title>Material Design Icons - Icon Library - Pictogrammers</title>
+  </bookmark>
+  <bookmark href="https://github.com/zhiyiYo/PyQt-Fluent-Widgets/tree/PyQt6" id="191">
+    <title>zhiyiYo/PyQt-Fluent-Widgets at PyQt6</title>
+  </bookmark>
+  <bookmark href="https://pyqt-fluent-widgets.readthedocs.io/en/latest/quick-start.html" id="192">
+    <title>Quick start - PyQt-Fluent-Widgets</title>
+  </bookmark>
+  <bookmark href="https://code.adonline.id.au/folder-file-browser-dialogues-powershell/" id="193">
+    <title>Folder or file browser dialogues in PowerShell | Adam Dimech&apos;s Coding Blog</title>
+  </bookmark>
+  <bookmark href="https://linuxhint.com/create-a-shortcut-using-powershell/" id="194">
+    <title>How to Create a Shortcut Using PowerShell</title>
+  </bookmark>
+  <bookmark href="https://unix.stackexchange.com/questions/48994/how-to-run-a-program-in-a-clean-environment-in-bash" id="195">
+    <title>How to run a program in a clean environment in bash? - Unix &amp; Linux Stack Exchange</title>
+  </bookmark>
+  <bookmark href="https://rayagainstthemachine.net/linux%20administration/systemd-automount/" id="196">
+    <title>On-Demand NFS and Samba Connections in Linux with Systemd Automount - Ray Against the Machine</title>
+  </bookmark>
+  <bookmark href="https://github.com/noDRM/DeDRM_tools" id="197">
+    <title>noDRM/DeDRM_tools: DeDRM tools for ebooks</title>
+  </bookmark>
+  <bookmark href="https://www.baeldung.com/linux/systemd-create-user-services" id="198">
+    <title>Creating User’s Services With systemd | Baeldung on Linux</title>
+  </bookmark>
+  <bookmark href="https://www.makeuseof.com/tag/remove-drm-every-ebook-own/" id="199">
+    <title>How to Remove the DRM on Any Ebook You Own</title>
+  </bookmark>
+  <bookmark href="https://github.com/troglobit/inadyn" id="200">
+    <title>troglobit/inadyn: In-a-Dyn is a dynamic DNS client with multiple SSL/TLS library support</title>
+  </bookmark>
+  <bookmark href="https://github.com/tecnativa/docker-socket-proxy/pkgs/container/docker-socket-proxy" id="201">
+    <title>Package docker-socket-proxy</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=30GrY9ZnWvA" id="202">
+    <title>Removing &amp; Replacing Parts | HP ProDesk 400 G4 Desktop Mini PC | HP Computer Service | @HPSupport - YouTube</title>
+  </bookmark>
+  <bookmark href="https://github.com/vmstan/gravity-sync" id="203">
+    <title>vmstan/gravity-sync: 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@TechnoTim/videos" id="204">
+    <title>Techno Tim - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@AwesomeOpenSource/videos" id="205">
+    <title>Awesome Open Source - YouTube</title>
+  </bookmark>
+  <bookmark href="https://hub.docker.com/r/jwetzell/guacamole" id="206">
+    <title>jwetzell/guacamole - Docker Image | Docker Hub</title>
+  </bookmark>
+  <bookmark href="https://fmartinou.github.io/whats-up-docker/#/" id="207">
+    <title>What&apos;s up Docker?</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=liV3c9m_OX8" id="208">
+    <title>Put Wildcard Certificates and SSL on EVERYTHING - Traefik Tutorial - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.nithinbose.com/posts/traefik-with-lets-encrypt-wildcard-ssl-certificate-using-docker-compose/" id="209">
+    <title>Traefik With Let&apos;s Encrypt Wildcard SSL Certificate Using Docker Compose - My tech journal</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/linux_gaming/" id="210">
+    <title>GNU/Linux Gaming on Reddit</title>
+  </bookmark>
+  <bookmark href="https://github.com/probonopd/go-appimage/blob/master/src/appimaged/README.md" id="211">
+    <title>go-appimage/src/appimaged/README.md at master · probonopd/go-appimage</title>
+  </bookmark>
+  <bookmark href="https://forum.endeavouros.com/" id="212">
+    <title>EndeavourOS - A terminal-centric distro with a vibrant and friendly community at its core.</title>
+  </bookmark>
+  <bookmark href="https://github.com/limo-app/limo/tree/main?tab=readme-ov-file" id="213">
+    <title>limo-app/limo: A simple Qt based mod manager</title>
+  </bookmark>
+  <bookmark href="https://unix.stackexchange.com/questions/321448/how-to-replace-the-spaces-in-filenames-with-underscore" id="214">
+    <title>bash - How to replace the spaces in filenames with underscore - Unix &amp; Linux Stack Exchange</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/questions/9533679/how-to-insert-a-text-at-the-beginning-of-a-file" id="215">
+    <title>linux - How to insert a text at the beginning of a file? - Stack Overflow</title>
+  </bookmark>
+  <bookmark href="https://github.com/Faugus/faugus-launcher" id="216">
+    <title>Faugus/faugus-launcher: A simple and lightweight app for running Windows games using UMU-Launcher</title>
+  </bookmark>
+  <bookmark href="https://www.baeldung.com/linux/ffmpeg-extract-video-frames" id="217">
+    <title>Extracting Frames From a Video Using FFmpeg | Baeldung on Linux</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/linux_gaming/comments/1k44ok7/how_do_you_mod_skyrim_on_linux_with_all_the/" id="218">
+    <title>How do you mod Skyrim on Linux with all the corresponding programs you need to use like LOOT, SSEEdit, ParallaxGen etc.? : r/linux_gaming</title>
+  </bookmark>
+  <bookmark href="https://github.com/lordhippo/odin-vscode/tree/main" id="219">
+    <title>lordhippo/odin-vscode: Config files for Odin in VS Code</title>
+  </bookmark>
+  <bookmark href="https://makefiletutorial.com/" id="220">
+    <title>Makefile Tutorial By Example</title>
+  </bookmark>
+  <bookmark href="https://almeidapaulopt.github.io/tsdproxy/docs/" id="221">
+    <title>Introduction – TSDProxy</title>
+  </bookmark>
+  <bookmark href="https://beszel.dev/" id="222">
+    <title>Beszel | Simple, lightweight server monitoring</title>
+  </bookmark>
+  <bookmark href="https://selfh.st/icons/" id="223">
+    <title>Self-Hosted Dashboard Icons</title>
+  </bookmark>
+  <bookmark href="https://docs.astral.sh/uv/reference/cli/#uv-venv" id="224">
+    <title>Commands | uv</title>
+  </bookmark>
+  <bookmark href="https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html" id="225">
+    <title>Migrating configuration from 0.4 — WirePlumber 0.5.10 documentation</title>
+  </bookmark>
+  <bookmark href="https://gist.github.com/jctosta/b968a6edc592ad7d06d9c91bd0796024" id="226">
+    <title>Nvidia GPU Power Limits for Linux System</title>
+  </bookmark>
+  <bookmark href="https://forum.endeavouros.com/t/howto-fix-incorrect-missing-or-blurry-icons-on-plasma-wayland/73560/2" id="227">
+    <title>[HowTo] Fix Incorrect, Missing, or Blurry Icons on Plasma Wayland - General system / Community contributions - EndeavourOS</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/kde/comments/1c447nc/anything_like_xprop_in_wayland_to_get_window/" id="228">
+    <title>Anything like xprop in Wayland to get window class names? : r/kde</title>
+  </bookmark>
+  <bookmark href="https://gitlab.com/1O/vaultwarden-backup" id="229">
+    <title>1O / Vaultwarden Backup · GitLab</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>Writing</title>
+  <folder id="230">
+    <title>Twine</title>
+    <bookmark href="https://twinery.org/cookbook/index.html" id="365">
+      <title>Twine Cookbook</title>
+    </bookmark>
+    <bookmark href="https://twinery.org/reference/en/" id="366">
+      <title>Introduction</title>
+    </bookmark>
+    <bookmark href="https://www.motoslave.net/sugarcube/2/docs/#introduction" id="367">
+      <title>SugarCube v2 Documentation</title>
+    </bookmark>
+    <bookmark href="https://www.motoslave.net/tweego/docs/#introduction" id="368">
+      <title>Tweego Documentation</title>
+    </bookmark>
+    <bookmark href="https://hiev-heavy-ind.com/Sample_Code/Sample_Code.html#Main%20Menu" id="369">
+      <title>Sample Code</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/twinegames/" id="370">
+      <title>The home of Twine games on Reddit.</title>
+    </bookmark>
+    <bookmark href="https://goctionni.github.io/SugarValidator/index.html" id="371">
+      <title>sugarValidator</title>
+    </bookmark>
+    <bookmark href="https://manonamora.itch.io/twine-sugarcube-guide" id="372">
+      <title>100% Good Twine Sugarcube Guide by manonamora</title>
+    </bookmark>
+    <bookmark href="https://hiev-heavy-ind.com/Sample_Code/Sample_Code.html#SugarCube%20Icons" id="373">
+      <title>Sample Code</title>
+    </bookmark>
+    <bookmark href="https://github.com/hituro/hituro-makes-macros?tab=readme-ov-file" id="374">
+      <title>hituro/hituro-makes-macros: Twine Macros</title>
+    </bookmark>
+    <bookmark href="https://twinelab.net/custom-macros-for-sugarcube-2/#/" id="375">
+      <title>Custom Macros</title>
+    </bookmark>
+    <bookmark href="https://vroid.com/en/studio" id="376">
+      <title>VRoid Studio</title>
+    </bookmark>
+    <bookmark href="https://picrew.blog/en/" id="377">
+      <title>Picrewブログ</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.youtube.com/@EllenBrock/videos" id="231">
+    <title>Ellen Brock - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@AbbieEmmons/videos" id="232">
+    <title>Abbie Emmons - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@story_marc/videos" id="233">
+    <title>Story Marc - YouTube</title>
+  </bookmark>
+  <bookmark href="https://archiveofourown.org/faq/formatting-content-on-ao3-with-html?language_id=en#canihtml" id="234">
+    <title>Formatting content on AO3 with HTML FAQ | Archive of Our Own</title>
+  </bookmark>
+  <bookmark href="https://onestopforwriters.com/" id="235">
+    <title>One Stop for Writers Creative Tools and Resources</title>
+  </bookmark>
+  <bookmark href="https://writingexcuses.com/post-archive/" id="236">
+    <title>Post Archive | Writing Excuses</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/writing/comments/1cw6dmz/resources_a_list_of_cool_websites_that_might_save/" id="237">
+    <title>[Resources] A list of cool websites that might save the day : writing</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@HelloFutureMe/videos" id="238">
+    <title>Hello Future Me - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@TheCloserLook/videos" id="239">
+    <title>The Closer Look - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@TheTaleFoundry/videos" id="240">
+    <title>Tale Foundry - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.w3schools.io/file/markdown-styles/" id="241">
+    <title>How to add color, font size to Markdown content</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/writers/" id="242">
+    <title>r/writers: Writers Helping Writers</title>
+  </bookmark>
+  <bookmark href="https://rpg.hamsterrepublic.com/ohrrpgce/Main_Page" id="243">
+    <title>OHRRPGCE-Wiki</title>
+  </bookmark>
+  <bookmark href="https://www.renpy.org/" id="244">
+    <title>The Ren&apos;Py Visual Novel Engine</title>
+  </bookmark>
+  <bookmark href="https://rpg-paper-maker.gitbook.io/rpg-paper-maker" id="245">
+    <title>Getting started | RPG Paper Maker</title>
+  </bookmark>
+  <bookmark href="https://github.com/fbcosentino/godot-madtalk/blob/main/docs/help.md" id="246">
+    <title>godot-madtalk/docs/help.md at main · fbcosentino/godot-madtalk</title>
+  </bookmark>
+  <bookmark href="https://docs.dialogic.pro/getting-started.html" id="247">
+    <title>Getting Started - Dialogic 2 Documentation</title>
+  </bookmark>
+  <bookmark href="https://github.com/bitbrain/beehave" id="248">
+    <title>bitbrain/beehave: 🐝 behavior tree AI for Godot Engine</title>
+  </bookmark>
+  <bookmark href="https://en.wikipedia.org/wiki/Toki_Pona" id="249">
+    <title>Toki Pona - Wikipedia</title>
+  </bookmark>
+  <bookmark href="https://nimi.li/" id="250">
+    <title>nimi.li | Toki Pona Dictionary</title>
+  </bookmark>
+  <bookmark href="https://en.wikipedia.org/wiki/Sitelen_Pona" id="251">
+    <title>Sitelen Pona - Wikipedia</title>
+  </bookmark>
+  <bookmark href="https://jonathangabel.com/toki-pona/" id="252">
+    <title>sitelen sitelen</title>
+  </bookmark>
+  <bookmark href="https://nimi.li/ilo-ku" id="253">
+    <title>ilo ku – nimi.li | Toki Pona Dictionary</title>
+  </bookmark>
+  <bookmark href="https://fontsource.org/?category=handwriting" id="254">
+    <title>Fontsource</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>Programming</title>
+  <folder id="255">
+    <title>Pascal</title>
+    <bookmark href="https://www.freepascal-meets-sdl.net/" id="378">
+      <title>Free Pascal meets SDL - Your Resource on Pascal and SDL | SDL2 | SDL3 since 2005!</title>
+    </bookmark>
+    <bookmark href="https://castle-engine.io/modern_pascal" id="379">
+      <title>Modern Object Pascal Introduction for Programmers | Castle Game Engine</title>
+    </bookmark>
+    <bookmark href="https://wiki.freepascal.org/Lazarus_Tutorial" id="380">
+      <title>Lazarus Tutorial - Free Pascal wiki</title>
+    </bookmark>
+    <bookmark href="https://forum.lazarus.freepascal.org/index.php/board,61.0.html" id="381">
+      <title>Beginners (Lazarus Forum)</title>
+    </bookmark>
+    <bookmark href="https://github.com/GuvaCode/Ray4Laz" id="382">
+      <title>GuvaCode/ray4laz: A complete header translation (binding) of the raylib 5.6-dev to Pascal. Without any funky helper functions for memory alignment issues. Inspired and partially based on the drezgames/raylib-pascal binding, however a little cleaner and more recent, with FPC 3.2.0 and up support.</title>
+    </bookmark>
+    <bookmark href="https://www.freepascal.org/docs-html/ref/ref.html" id="383">
+      <title>Free Pascal Reference guide</title>
+    </bookmark>
+    <bookmark href="https://www.freepascal.org/docs.html" id="384">
+      <title>Free Pascal - Online documentation</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/freepascal/" id="385">
+      <title>For all us programmers using Freepascal</title>
+    </bookmark>
+    <bookmark href="https://wiki.freepascal.org/Main_Page" id="386">
+      <title>Free Pascal wiki</title>
+    </bookmark>
+    <bookmark href="https://wiki.freepascal.org/Object_Oriented_Programming_with_Free_Pascal_and_Lazarus" id="387">
+      <title>Object Oriented Programming with Free Pascal and Lazarus - Free Pascal wiki</title>
+    </bookmark>
+    <bookmark href="https://wiki.freepascal.org/FPTest" id="388">
+      <title>FPTest - Free Pascal wiki</title>
+    </bookmark>
+    <bookmark href="https://github.com/PascalGameDevelopment/SDL3-for-Pascal" id="389">
+      <title>PascalGameDevelopment/SDL3-for-Pascal: Pascal Units for SDL3 (Simple DirectMedia Layer)</title>
+    </bookmark>
+    <bookmark href="https://wiki.lazarus.freepascal.org/UserSuppliedSchemeSettings" id="390">
+      <title>UserSuppliedSchemeSettings - Free Pascal wiki</title>
+    </bookmark>
+    <bookmark href="https://github.com/modern-pascal/modern-pascal-course" id="391">
+      <title>modern-pascal/modern-pascal-course: Code samples for modern Pascal course</title>
+    </bookmark>
+    <bookmark href="https://programming-idioms.org/cheatsheet/Pascal" id="392">
+      <title>Pascal cheat sheet</title>
+    </bookmark>
+    <bookmark href="https://ikelaiah.github.io/free-pascal-cookbook/docs/resources/docs-sites/#articles-and-ebooks-suitable-for-beginners" id="393">
+      <title>Documents &amp; Sites - Free Pascal Cookbook</title>
+    </bookmark>
+    <bookmark href="https://github.com/Coldzer0/ImGui-Pascal" id="394">
+      <title>Coldzer0/ImGui-Pascal: ImGui Binding for FreePascal / Delphi with the latest version &amp; docking</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@silvercoder70/videos" id="395">
+      <title>The Silver Pascal Coder - YouTube</title>
+    </bookmark>
+    <bookmark href="https://github.com/coolchyni/fpctoolkit" id="396">
+      <title>coolchyni/fpctoolkit</title>
+    </bookmark>
+    <bookmark href="https://wiki.freepascal.org/Conditional_compilation" id="397">
+      <title>Conditional compilation - Free Pascal wiki</title>
+    </bookmark>
+    <bookmark href="https://lazarus.bg-lazarus.com/en/categories/books/book3.html" id="398">
+      <title>Book: Introduction to the Lazarus IDE - 2024.</title>
+    </bookmark>
+  </folder>
+  <folder id="256">
+    <title>Vlang</title>
+    <bookmark href="https://vlang.io/" id="400">
+      <title>The V Programming Language</title>
+    </bookmark>
+    <bookmark href="https://github.com/vlang/v/discussions" id="401">
+      <title>vlang/v · Discussions · GitHub</title>
+    </bookmark>
+    <bookmark href="https://docs.vlang.io/introduction.html" id="402">
+      <title>V Documentation</title>
+    </bookmark>
+    <bookmark href="https://modules.vlang.io/" id="403">
+      <title>index | vdoc</title>
+    </bookmark>
+    <bookmark href="https://docs.vlang.io/debugger.html" id="404">
+      <title>V Debugger</title>
+    </bookmark>
+    <bookmark href="https://vpm.vlang.io/" id="405">
+      <title>vpm</title>
+    </bookmark>
+    <bookmark href="https://github.com/vlang/awesome-v?tab=readme-ov-file#books" id="406">
+      <title>vlang/awesome-v: A curated list of awesome V frameworks, libraries, software and resources.</title>
+    </bookmark>
+    <bookmark href="https://github.com/PacktPublishing/Getting-Started-with-V-Programming" id="407">
+      <title>PacktPublishing/Getting-Started-with-V-Programming: Getting Started with V Programming, published by Packt</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/vlang/" id="408">
+      <title>V Programming Language</title>
+    </bookmark>
+    <bookmark href="https://github.com/felipensp/vtcc" id="409">
+      <title>felipensp/vtcc: TCC compiler translated to V lang</title>
+    </bookmark>
+  </folder>
+  <folder id="257">
+    <title>Odin</title>
+    <bookmark href="https://odin-lang.org/" id="411">
+      <title>Odin Programming Language</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/odinlang/" id="412">
+      <title>Odin Programming Language</title>
+    </bookmark>
+    <bookmark href="https://github.com/jakubtomsu/awesome-odin" id="413">
+      <title>jakubtomsu/awesome-odin: A collection of awesome Odin libraries, bindings, software and resources 🧙‍♂️✨</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@karl_zylinski/videos" id="414">
+      <title>Zylinski Games - YouTube</title>
+    </bookmark>
+    <bookmark href="https://codapi.org/odin/" id="415">
+      <title>Odin playground</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/RednibCoding/0c2258213a293a606542be2035846a7d" id="416">
+      <title>Odin debugging on windows with vscode. See: readme</title>
+    </bookmark>
+    <bookmark href="https://yakvi.github.io/handmade-hero-notes/index.md.html" id="417">
+      <title>Handmade Hero Notes</title>
+    </bookmark>
+    <bookmark href="https://pkg.odin-lang.org/core/fmt/" id="418">
+      <title>package fmt - pkg.odin-lang.org</title>
+    </bookmark>
+    <bookmark href="https://odin-lang.org/news/read-a-file-line-by-line/" id="419">
+      <title>Reading a File Line by Line | Odin Programming Language</title>
+    </bookmark>
+    <bookmark href="https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator" id="420">
+      <title>Untangling Lifetimes: The Arena Allocator - by Ryan Fleury</title>
+    </bookmark>
+    <bookmark href="https://www.gingerbill.org/article/2021/12/02/memory-allocation-strategies-006/" id="421">
+      <title>Memory Allocation Strategies - Part 6 - gingerBill</title>
+    </bookmark>
+    <bookmark href="https://github.com/sidbhatt11/odin-vscode-template/blob/main/.vscode/tasks.json" id="422">
+      <title>odin-vscode-template/.vscode/tasks.json at main · sidbhatt11/odin-vscode-template</title>
+    </bookmark>
+    <bookmark href="https://zylinski.se/posts/introduction-to-odin/" id="423">
+      <title>Introduction to the Odin Programming Language | Karl Zylinski</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@DanKorostelev/videos" id="424">
+      <title>nadako - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/playlist?list=PLI3kBEQ3yd-CbQfRchF70BPLF9G1HEzhy" id="425">
+      <title>Odin SDL3 GPU Tutorial - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@mccGoNZooo/videos" id="426">
+      <title>Rickard Andersson (gonz) - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="258">
+    <title>Go</title>
+    <bookmark href="https://go.dev/" id="466">
+      <title>The Go Programming Language</title>
+    </bookmark>
+    <bookmark href="https://github.com/fyne-io/fyne" id="467">
+      <title>GitHub - fyne-io/fyne: Cross platform GUI toolkit in Go inspired by Material Design</title>
+    </bookmark>
+    <bookmark href="https://pkg.go.dev/fyne.io/fyne/v2" id="468">
+      <title>fyne package - fyne.io/fyne/v2 - Go Packages</title>
+    </bookmark>
+    <bookmark href="https://docs.fyne.io/started/demo" id="469">
+      <title>Run Fyne Demo | Fyne.io</title>
+    </bookmark>
+    <bookmark href="https://gobyexample.com/" id="470">
+      <title>Go by Example</title>
+    </bookmark>
+    <bookmark href="https://leg100.github.io/en/posts/building-bubbletea-programs/" id="471">
+      <title>Building Bubbletea Programs</title>
+    </bookmark>
+    <bookmark href="https://github.com/avelino/awesome-go" id="472">
+      <title>avelino/awesome-go: A curated list of awesome Go frameworks, libraries and software</title>
+    </bookmark>
+    <bookmark href="https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet/" id="473">
+      <title>fmt.Printf formatting tutorial and cheat sheet · YourBasic Go</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/news/learn-golang-handbook/" id="474">
+      <title>The Golang Handbook – A Beginner&apos;s Guide to Learning Go</title>
+    </bookmark>
+    <bookmark href="https://app.gitter.im/#/room/#thewhitetulip_web-dev-golang-anti-textbook:gitter.im" id="475">
+      <title>Gitter | thewhitetulip/web-dev-golang-anti-textbook</title>
+    </bookmark>
+    <bookmark href="https://www.learn-golang.org/" id="476">
+      <title>Learn Go - Free Interactive Go Tutorial</title>
+    </bookmark>
+    <bookmark href="https://go.dev/play/" id="477">
+      <title>Go Playground - The Go Programming Language</title>
+    </bookmark>
+    <bookmark href="https://github.com/gen2brain/raylib-go" id="478">
+      <title>gen2brain/raylib-go: Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming.</title>
+    </bookmark>
+    <bookmark href="https://github.com/gopxl/pixel" id="479">
+      <title>gopxl/pixel</title>
+    </bookmark>
+    <bookmark href="https://ebitengine.org/" id="480">
+      <title>Ebitengine - A dead simple 2D game engine for Go</title>
+    </bookmark>
+    <bookmark href="https://code.rocket9labs.com/tslocum/etk" id="481">
+      <title>tslocum/etk: Ebitengine tool kit for creating graphical user interfaces - Rocket 9 Labs</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/ebitengine/" id="482">
+      <title>Ebitengine - A dead simple 2D game engine for Go</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/golang/" id="483">
+      <title>The Go Programming Language</title>
+    </bookmark>
+    <bookmark href="https://quii.gitbook.io/learn-go-with-tests" id="484">
+      <title>Learn Go with Tests - Learn Go with tests</title>
+    </bookmark>
+    <bookmark href="https://github.com/mauricioabreu/golings" id="485">
+      <title>mauricioabreu/golings: rustlings but for golang this time</title>
+    </bookmark>
+    <bookmark href="https://thewhitetulip.gitbook.io/bo/" id="486">
+      <title>Introduction - books</title>
+    </bookmark>
+    <bookmark href="https://github.com/ardanlabs/gotraining/blob/master/topics/go/README.md#design-guidelines" id="487">
+      <title>gotraining/topics/go/README.md at master · ardanlabs/gotraining</title>
+    </bookmark>
+    <bookmark href="https://go.dev/doc/modules/layout" id="488">
+      <title>Organizing a Go module - The Go Programming Language</title>
+    </bookmark>
+    <bookmark href="https://fyne.io/" id="489">
+      <title>Fyne.io | Website for the Fyne app development framework.</title>
+    </bookmark>
+    <bookmark href="https://github.com/barasher/go-exiftool" id="490">
+      <title>GitHub - barasher/go-exiftool: Golang wrapper for Exiftool : extract as much metadata as possible (EXIF, ...) from files (pictures, pdf, office documents, ...)</title>
+    </bookmark>
+    <bookmark href="https://www.practical-go-lessons.com/" id="491">
+      <title>Home - Practical Go Lessons Book</title>
+    </bookmark>
+    <bookmark href="https://blasrodri.github.io/spaceship-go-gh-pages/cover.html" id="492">
+      <title>Cover - Spaceship Go</title>
+    </bookmark>
+    <bookmark href="https://go101.org/" id="493">
+      <title>Go 101 -Go 101</title>
+    </bookmark>
+    <bookmark href="https://github.com/BotRandomness/GO-8080" id="494">
+      <title>BotRandomness/GO-8080: GO-8080, a Intel 8080 emulator, running Space Invaders, written in Go.</title>
+    </bookmark>
+    <bookmark href="https://fysion.app/" id="495">
+      <title>Fyne Labs : Fysion</title>
+    </bookmark>
+    <bookmark href="https://www.practical-go-lessons.com/chap-1-programming-a-computer" id="496">
+      <title>Programming A Computer - Practical Go Lessons</title>
+    </bookmark>
+    <bookmark href="https://github.com/alecthomas/kong" id="497">
+      <title>alecthomas/kong: Kong is a command-line parser for Go</title>
+    </bookmark>
+    <bookmark href="https://blasrodri.github.io/spaceship-go-gh-pages/preface.html" id="498">
+      <title>Preface - Spaceship Go</title>
+    </bookmark>
+    <bookmark href="https://checkmarx.gitbooks.io/go-scp/content/" id="499">
+      <title>Introduction · Go-SCP</title>
+    </bookmark>
+    <bookmark href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook" id="500">
+      <title>thewhitetulip/web-dev-golang-anti-textbook: Learn how to write webapps without a framework in Go.</title>
+    </bookmark>
+    <bookmark href="https://codegangsta.gitbooks.io/building-web-apps-with-go/content/" id="501">
+      <title>Introduction | Building Web Apps with Go</title>
+    </bookmark>
+    <bookmark href="https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html" id="502">
+      <title>Introduction · Build web application with Golang</title>
+    </bookmark>
+    <bookmark href="https://github.com/dariubs/GoBooks" id="503">
+      <title>dariubs/GoBooks: List of Golang books</title>
+    </bookmark>
+    <bookmark href="https://github.com/alexflint/go-arg" id="504">
+      <title>alexflint/go-arg: Struct-based argument parsing in Go</title>
+    </bookmark>
+    <bookmark href="https://pkg.go.dev/github.com/gen2brain/raylib-go/raylib?utm_source=godoc" id="505">
+      <title>rl package - github.com/gen2brain/raylib-go/raylib - Go Packages</title>
+    </bookmark>
+  </folder>
+  <folder id="259">
+    <title>pyside6</title>
+    <bookmark href="https://doc.qt.io/qt-6/qt.html#KeyboardModifier-enum" id="506">
+      <title>Qt Keyboard Modifier Names</title>
+    </bookmark>
+    <bookmark href="https://doc.qt.io/qt-6/qt.html#Key-enum" id="507">
+      <title>Qt Key Names</title>
+    </bookmark>
+    <bookmark href="https://www.pythonguis.com/tutorials/pyside6-first-steps-qt-designer/" id="508">
+      <title>Create your first PySide app in Qt Designer</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/74050466/pyside6-respond-to-keyboard-input" id="509">
+      <title>python - Pyside6 respond to keyboard input - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/playlist?list=PL3JVwFmb_BnSOj_OtnKlsc2c7Jcs6boyB" id="510">
+      <title>Python PyQt6 Tutorials - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/playlist?list=PL3JVwFmb_BnRpvOeIh_To4YSiebiggyXS" id="511">
+      <title>Python PyQt5 Tutorial Videos - YouTube</title>
+    </bookmark>
+    <bookmark href="https://doc.qt.io/qtforpython-6.2/PySide6/QtWidgets/QCheckBox.html?highlight=qcheckbox#PySide6.QtWidgets.PySide6.QtWidgets.QCheckBox.setCheckState" id="512">
+      <title>QCheckBox — Qt for Python</title>
+    </bookmark>
+    <bookmark href="https://wiki.qt.io/PySide_Internationalization" id="513">
+      <title>PySide Internationalization - Qt Wiki</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/21041941/how-to-autoresize-qlabel-pixmap-keeping-ratio-without-using-classes/21053898#21053898" id="514">
+      <title>python - How to Autoresize QLabel pixmap keeping ratio without using classes? - Stack Overflow</title>
+    </bookmark>
+  </folder>
+  <folder id="260">
+    <title>8080_Emulation</title>
+    <bookmark href="https://skilldrick.github.io/easy6502/" id="515">
+      <title>Easy 6502 by skilldrick</title>
+    </bookmark>
+    <bookmark href="https://retrocomputing.stackexchange.com/questions/9361/test-emulated-8080-cpu-without-an-os" id="516">
+      <title>Test emulated 8080 CPU without an OS? - Retrocomputing Stack Exchange</title>
+    </bookmark>
+    <bookmark href="https://altairclone.com/downloads/cpu_tests/" id="517">
+      <title>altairclone.com</title>
+    </bookmark>
+    <bookmark href="http://www.emulator101.com/" id="518">
+      <title>Emulator 101 - Welcome</title>
+    </bookmark>
+    <bookmark href="https://pastraiser.com/cpu/i8080/i8080_opcodes.html" id="519">
+      <title>Intel 8080 OPCODES</title>
+    </bookmark>
+    <bookmark href="http://computerarcheology.com/Arcade/SpaceInvaders/" id="520">
+      <title>Space Invaders</title>
+    </bookmark>
+    <bookmark href="https://walkofmind.com/programming/side/hardware.htm" id="521">
+      <title>Space Invaders - Hardware map</title>
+    </bookmark>
+    <bookmark href="https://web.archive.org/web/20151006085348/http://www.idb.me.uk/sunhillow/8080.html" id="522">
+      <title>8080/8085 CPU Exerciser</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/EmuDev/" id="523">
+      <title>Developing Emulators</title>
+    </bookmark>
+    <bookmark href="https://emulation.gametechwiki.com/index.php/Main_Page" id="524">
+      <title>Emulation General Wiki</title>
+    </bookmark>
+    <bookmark href="https://clrhome.org/table/" id="525">
+      <title>Z80 Opcode Table</title>
+    </bookmark>
+    <bookmark href="http://www.z80.info/index.htm" id="526">
+      <title>Thomas Scherrer Z80-Family Official Support Page</title>
+    </bookmark>
+    <bookmark href="https://retrocomputing.stackexchange.com/questions/1610/how-did-the-z80-instruction-set-differ-from-the-8080/1612#1612" id="527">
+      <title>How did the Z80 instruction set differ from the 8080? - Retrocomputing Stack Exchange</title>
+    </bookmark>
+    <bookmark href="https://nicolasallemand.com/2019/12/12/let-there-be-sound/" id="528">
+      <title>Nicolas Allemand</title>
+    </bookmark>
+    <bookmark href="https://github.com/tomm/ez80" id="529">
+      <title>tomm/ez80: Zilog eZ80, Z80 and Intel 8080 emulator library for Rust that passes all ZEXALL tests</title>
+    </bookmark>
+    <bookmark href="https://github.com/begoon/i8080-core" id="530">
+      <title>begoon/i8080-core: Intel 8080 (KR580VM80A) microprocessor core model</title>
+    </bookmark>
+    <bookmark href="https://r-roms.github.io/" id="531">
+      <title>/r/Roms Megathread</title>
+    </bookmark>
+    <bookmark href="https://github.com/hlorenzi/customasm" id="532">
+      <title>hlorenzi/customasm: 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/</title>
+    </bookmark>
+    <bookmark href="https://int10h.org/oldschool-pc-fonts/fontlist/?4" id="533">
+      <title>The Ultimate Oldschool PC Font Pack: Font Index</title>
+    </bookmark>
+    <bookmark href="https://github.com/robhagemans/monobit" id="534">
+      <title>robhagemans/monobit: Tools for working with monochrome bitmap fonts</title>
+    </bookmark>
+    <bookmark href="https://github.com/robhagemans/hoard-of-bitfonts/tree/master" id="535">
+      <title>robhagemans/hoard-of-bitfonts: turns out I like bitmap fonts</title>
+    </bookmark>
+    <bookmark href="https://github.com/spacerace/romfont" id="536">
+      <title>spacerace/romfont: VGA and BIOS rom font extraction</title>
+    </bookmark>
+    <bookmark href="https://github.com/tuhdo/os01/tree/master" id="537">
+      <title>tuhdo/os01: Bootstrap yourself to write an OS from scratch. A book for self-learner.</title>
+    </bookmark>
+    <bookmark href="https://obsolescence.wixsite.com/obsolescence/cpm-internals" id="538">
+      <title>CPM Operating System Internals</title>
+    </bookmark>
+    <bookmark href="https://tobiasvl.github.io/blog/write-a-chip-8-emulator/" id="539">
+      <title>Guide to making a CHIP-8 emulator - Tobias V. Langhoff</title>
+    </bookmark>
+    <bookmark href="https://github.com/loktar00/chip8/tree/master/roms" id="540">
+      <title>chip8/roms at master · loktar00/chip8</title>
+    </bookmark>
+    <bookmark href="https://github.com/mattmikolay/chip-8/wiki" id="541">
+      <title>Home · mattmikolay/chip-8 Wiki</title>
+    </bookmark>
+    <bookmark href="https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Technical-Reference" id="542">
+      <title>CHIP‐8 Technical Reference · mattmikolay/chip-8 Wiki</title>
+    </bookmark>
+    <bookmark href="https://github.com/Timendus/chip8-test-suite" id="543">
+      <title>Timendus/chip8-test-suite: A collection of ROM images with tests that will aid you in developing your own CHIP-8, SUPER-CHIP or XO-CHIP interpreter (or &quot;emulator&quot;)</title>
+    </bookmark>
+    <bookmark href="https://chip8.gulrak.net/" id="544">
+      <title>CHIP-8 Variant Opcode Table</title>
+    </bookmark>
+    <bookmark href="https://rylev.github.io/DMG-01/public/book/" id="545">
+      <title>Introduction - DMG-01: How to Emulate a Game Boy</title>
+    </bookmark>
+    <bookmark href="https://gbdev.io/" id="546">
+      <title>Projects | gbdev.io</title>
+    </bookmark>
+    <bookmark href="https://www.inspiredpython.com/course/game-boy-emulator/let-s-write-a-game-boy-emulator-in-python" id="547">
+      <title>Let’s Write a Game Boy Emulator in Python • Inspired Python</title>
+    </bookmark>
+    <bookmark href="https://musical-artifacts.com/" id="548">
+      <title>Musical Artifacts | Libre resources for music making</title>
+    </bookmark>
+    <bookmark href="https://suite8080.readthedocs.io/en/latest/usage.html" id="549">
+      <title>Using the Suite8080 tools — Suite8080</title>
+    </bookmark>
+    <bookmark href="https://github.com/pamoroso/suite8080" id="550">
+      <title>pamoroso/suite8080: A suite of Intel 8080 Assembly tools</title>
+    </bookmark>
+    <bookmark href="https://www.pcjs.org/machines/pcx80/exerciser/" id="551">
+      <title>8080 Exerciser Test Machine | PCjs Machines</title>
+    </bookmark>
+    <bookmark href="https://forum.vcfed.org/index.php?threads/intel-8080-cpu-emulator-need-help-finding-bug-s.64038/page-2" id="552">
+      <title>Intel 8080 CPU emulator: need help finding bug(s) | Page 2 | Vintage Computer Federation Forums</title>
+    </bookmark>
+    <bookmark href="https://github.com/640-KB/GLaBIOS" id="553">
+      <title>640-KB/GLaBIOS: A modern, scratch-built, open-source (GPLv3) alternative ROM BIOS for PC, XT, 8088 Clone or Turbo PCs.</title>
+    </bookmark>
+    <bookmark href="https://github.com/SingleStepTests" id="554">
+      <title>SingleStepTests</title>
+    </bookmark>
+    <bookmark href="http://svardos.org/" id="555">
+      <title>SvarDOS</title>
+    </bookmark>
+    <bookmark href="https://github.com/86Box/86Box" id="556">
+      <title>86Box/86Box: Emulator of x86-based machines.</title>
+    </bookmark>
+    <bookmark href="https://www.legroom.net/howto/msdos#network" id="557">
+      <title>How to Install and Configure MS-DOS 6.22 | LegRoom.net</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@weirdboyjim/playlists" id="558">
+      <title>James Sharman - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@beneater" id="559">
+      <title>Ben Eater - YouTube</title>
+    </bookmark>
+    <bookmark href="https://github.com/JanNeuendorf/SVC16" id="560">
+      <title>GitHub - JanNeuendorf/SVC16: A Simple Virtual Computer</title>
+    </bookmark>
+    <bookmark href="https://hackaday.io/project/11460-fpgated" id="561">
+      <title>FPGATED | Hackaday.io</title>
+    </bookmark>
+    <bookmark href="https://github.com/Jim-Booth/SpaceInvaders" id="562">
+      <title>GitHub - Jim-Booth/SpaceInvaders</title>
+    </bookmark>
+    <bookmark href="https://www.nesdev.org/wiki/Nesdev_Wiki" id="563">
+      <title>NESdev Wiki</title>
+    </bookmark>
+    <bookmark href="https://emudev.org/system_resources" id="564">
+      <title>emudev.org</title>
+    </bookmark>
+    <bookmark href="https://winniewjeng.github.io/organization%20&amp;%20programming/2020/06/09/Instruction-Set-Architecture/" id="565">
+      <title>LC3 Instruction Set Architecture · winnie jeng</title>
+    </bookmark>
+    <bookmark href="http://www.z80.info/" id="566">
+      <title>Thomas Scherrer Z80-Family Official Support Page</title>
+    </bookmark>
+    <bookmark href="https://github.com/Klaus2m5/6502_65C02_functional_tests" id="567">
+      <title>GitHub - Klaus2m5/6502_65C02_functional_tests: Tests for all valid opcodes of the 6502 and 65C02 processor</title>
+    </bookmark>
+    <bookmark href="https://codebase64.org/doku.php?id=base:vic" id="568">
+      <title>base:vic [Codebase64 wiki]</title>
+    </bookmark>
+    <bookmark href="http://www.zimmers.net/anonftp/pub/cbm/plus4/programming/manual/manual.html" id="569">
+      <title>Commodore plus/4 Hardware Manual</title>
+    </bookmark>
+    <bookmark href="http://www.seasip.info/Cpm/index.html" id="570">
+      <title>CP/M Main Page</title>
+    </bookmark>
+    <bookmark href="https://github.com/davidgiven/cpmish" id="571">
+      <title>GitHub - davidgiven/cpmish: An open source sort-of CP/M 2.2 distribution.</title>
+    </bookmark>
+    <bookmark href="http://www.herne.com/cpm.htm" id="572">
+      <title>CP/M Utilities - Product Information</title>
+    </bookmark>
+    <bookmark href="https://linux.die.net/man/5/cpm" id="573">
+      <title>cpm(5): CP/M disk/file system format - Linux man page</title>
+    </bookmark>
+    <bookmark href="https://github.com/ldkraemer/CPM-Floppy-Definitions" id="574">
+      <title>GitHub - ldkraemer/CPM-Floppy-Definitions: A listing of CP/M Floppy Definitions to access CP/M Images</title>
+    </bookmark>
+    <bookmark href="http://48k.ca/zmac.html" id="575">
+      <title>zmac - Z-80 Macro Cross Assembler</title>
+    </bookmark>
+    <bookmark href="https://web.archive.org/web/20240718053956/http://emulator101.com/" id="576">
+      <title>Emulator 101</title>
+    </bookmark>
+    <bookmark href="http://www.bbcbasic.co.uk/index.html" id="577">
+      <title>R. T. Russell: The home of BBC BASIC</title>
+    </bookmark>
+    <bookmark href="https://github.com/envenomator/agon-ez80asm" id="578">
+      <title>GitHub - envenomator/agon-ez80asm: ez80 assembler, running natively on the Agon platform</title>
+    </bookmark>
+    <bookmark href="https://ezce.github.io/ez80-docs/instructions/flags/" id="579">
+      <title>Flags | eZ80 docs</title>
+    </bookmark>
+    <bookmark href="https://github.com/marethyu/awesome-emu-resources" id="580">
+      <title>GitHub - marethyu/awesome-emu-resources: A curated list of emulator development resources</title>
+    </bookmark>
+    <bookmark href="https://users.ece.utexas.edu/~ryerraballi/ConLC3.html" id="581">
+      <title>C Programming on LC3</title>
+    </bookmark>
+    <bookmark href="https://github.com/chiragsakhuja/lc3tools/tree/v2.0.2" id="582">
+      <title>chiragsakhuja/lc3tools at v2.0.2</title>
+    </bookmark>
+    <bookmark href="https://github.com/irmen/prog8" id="583">
+      <title>irmen/prog8: high level programming language and compiler targeting 6502 machines such as the C-64 and CommanderX16</title>
+    </bookmark>
+    <bookmark href="http://lc3tutor.org/" id="584">
+      <title>LC3 Tutor | Simulator, Help, &amp; Examples for LC3 Assembly Language</title>
+    </bookmark>
+    <bookmark href="https://github.com/chiragsakhuja/lc3tools" id="585">
+      <title>chiragsakhuja/lc3tools: A complete overhaul of the LC-3 simulator used in EE 306 at The University of Texas at Austin.</title>
+    </bookmark>
+    <bookmark href="https://lc3tutor.com/the-pennsim-gui" id="586">
+      <title>The PennSim GUI · LC3Tutor</title>
+    </bookmark>
+    <bookmark href="https://lc3tutor.com/" id="587">
+      <title>LC3Tutor</title>
+    </bookmark>
+    <bookmark href="https://www.jmeiners.com/lc3-vm/#trap-routine-cheat-sheet" id="588">
+      <title>Write your Own Virtual Machine</title>
+    </bookmark>
+    <bookmark href="https://www.bbcbasic.net/bbcwin/manual/bbcwin4.html#intro4" id="589">
+      <title>R.T.Russell: BBC BASIC for Windows</title>
+    </bookmark>
+    <bookmark href="https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html" id="590">
+      <title>Introduction to Computing Systems | LC-3 Simulator</title>
+    </bookmark>
+    <bookmark href="https://www.c64-wiki.com/wiki/TEDMON" id="591">
+      <title>TEDMON - C64-Wiki</title>
+    </bookmark>
+    <bookmark href="https://github.com/cellularmitosis/awesome-lc3" id="592">
+      <title>cellularmitosis/awesome-lc3: Resources related to the fictitious &quot;Little Computer 3&quot; (LC-3) ISA.</title>
+    </bookmark>
+    <bookmark href="https://users.ece.utexas.edu/~patt/21s.460n/handouts.html" id="593">
+      <title>EE 460N: Handouts</title>
+    </bookmark>
+    <bookmark href="https://github.com/PaperFanz/laser" id="594">
+      <title>PaperFanz/laser: An LC3 assembler created over winter break to practice C.</title>
+    </bookmark>
+    <bookmark href="https://www.cs.colostate.edu/~fsieker/TestSemester/assignments/LC3CSU/doc/index.html" id="595">
+      <title>LC3 Tools at Colorado State University</title>
+    </bookmark>
+    <bookmark href="https://github.com/RiccardoCuccu/DLX-project" id="596">
+      <title>RiccardoCuccu/DLX-project: DLX processor from RTL down to physical design</title>
+    </bookmark>
+    <bookmark href="http://primrosebank.net/computers/cpm/cpm_structure.htm" id="597">
+      <title>CP/M Structure</title>
+    </bookmark>
+    <bookmark href="https://teaching.idallen.com/dat2343/10f/notes/040_overflow.txt" id="598">
+      <title>https://teaching.idallen.com/dat2343/10f/notes/040_overflow.txt</title>
+    </bookmark>
+    <bookmark href="http://www.6502.org/tutorials/vflag.html" id="599">
+      <title>6502.org Tutorials: The Overflow (V) Flag Explained</title>
+    </bookmark>
+    <bookmark href="https://www.righto.com/2012/12/the-6502-overflow-flag-explained.html" id="600">
+      <title>The 6502 overflow flag explained mathematically</title>
+    </bookmark>
+    <bookmark href="https://classicwb.abime.net/classicweb/instructionsuae.htm" id="601">
+      <title>Instructions UAE</title>
+    </bookmark>
+    <bookmark href="https://eab.abime.net/showthread.php?t=38299" id="602">
+      <title>ClassicWB WHDLoad support and Kickstart requirements - English Amiga Board</title>
+    </bookmark>
+    <bookmark href="https://wiki.abime.net/games/whdload/advanced" id="603">
+      <title>games:whdload:advanced [Amiga FAQ]</title>
+    </bookmark>
+    <bookmark href="https://eab.abime.net/forumdisplay.php?f=63" id="604">
+      <title>project.WHDLoad - English Amiga Board</title>
+    </bookmark>
+    <bookmark href="https://www.whdownload.com/" id="605">
+      <title>WHDownLoad</title>
+    </bookmark>
+    <bookmark href="https://www.whdownload.com/index.php" id="606">
+      <title>WHDownLoad</title>
+    </bookmark>
+    <bookmark href="https://github.com/BatoceraPLUS/Batocera.PLUS-bios/tree/main" id="607">
+      <title>BatoceraPLUS/Batocera.PLUS-bios: Batocera.PLUS all bios files</title>
+    </bookmark>
+    <bookmark href="https://betawiki.net/wiki/Draft:Recommended_VM_configurations/OS/2" id="608">
+      <title>Draft:Recommended VM configurations/OS/2 - BetaWiki</title>
+    </bookmark>
+    <bookmark href="https://github.com/gmorales08/i8080emu/blob/main/doc/intel8080.md" id="609">
+      <title>i8080emu/doc/intel8080.md at main · gmorales08/i8080emu</title>
+    </bookmark>
+    <bookmark href="https://blogs.oregonstate.edu/ettucode/2022/04/07/disambiguating-and-disassembling-the-space-invaders-rom/" id="610">
+      <title>Disambiguating and Disassembling the Space Invaders ROM – Et tu, code?</title>
+    </bookmark>
+  </folder>
+  <folder id="261">
+    <title>Godot</title>
+    <bookmark href="https://docs.godotengine.org/en/stable/" id="611">
+      <title>Godot Docs – 4.2 branch — Godot Engine (stable) documentation in English</title>
+    </bookmark>
+    <bookmark href="https://docs.godotengine.org/en/stable/getting_started/step_by_step/scripting_first_script.html" id="612">
+      <title>Creating your first script — Godot Engine (stable) documentation in English</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/godot/comments/1levrez/how_i_made_the_juicy_windows_in_go_up/" id="613">
+      <title>How I Made the Juicy Windows in Go Up : r/godot</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@Brackeys/videos" id="614">
+      <title>Brackeys - YouTube</title>
+    </bookmark>
+    <bookmark href="https://friction.graphics/" id="615">
+      <title>Friction</title>
+    </bookmark>
+    <bookmark href="https://github.com/fbcosentino/godot-madtalk" id="616">
+      <title>fbcosentino/godot-madtalk: MadTalk - A Feature-Rich Dialog System for Godot</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@ClearCode/videos" id="617">
+      <title>Clear Code - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/godot/" id="618">
+      <title>Godot: your free, open-source Game Engine</title>
+    </bookmark>
+    <bookmark href="https://github.com/adalinesimonian/gdvm" id="619">
+      <title>adalinesimonian/gdvm: Godot Version Manager</title>
+    </bookmark>
+    <bookmark href="https://github.com/geegaz/Multiple-Windows-tutorial" id="620">
+      <title>geegaz/Multiple-Windows-tutorial: Godot 4 tutorial for making a character that moves outside of the game window</title>
+    </bookmark>
+    <bookmark href="https://github.com/afska/emudevz" id="621">
+      <title>afska/emudevz: 🕹️ A game about coding emulators!</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@VariableInteractive/videos" id="622">
+      <title>Variable - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@dev-worm/videos" id="623">
+      <title>DevWorm - YouTube</title>
+    </bookmark>
+    <bookmark href="https://incompetech.com/" id="624">
+      <title>incompetech – Music and also Graph Paper</title>
+    </bookmark>
+    <bookmark href="https://popcar.bearblog.dev/how-to-minify-godots-build-size/" id="625">
+      <title>How to Minify Godot&apos;s Build Size (93MB -&gt; 6.4MB exe) | Popcar&apos;s Blog</title>
+    </bookmark>
+  </folder>
+  <folder id="262">
+    <title>Compiler</title>
+    <bookmark href="https://compilers.iecc.com/crenshaw/" id="626">
+      <title>Let&apos;s Build a Compiler</title>
+    </bookmark>
+    <bookmark href="https://bernsteinbear.com/pl-resources/" id="627">
+      <title>Programming languages resources | Max Bernstein</title>
+    </bookmark>
+    <bookmark href="https://craftinginterpreters.com/contents.html" id="628">
+      <title>Table of Contents · Crafting Interpreters</title>
+    </bookmark>
+    <bookmark href="https://bernsteinbear.com/blog/compiling-a-lisp-0/" id="629">
+      <title>Compiling a Lisp: Overture | Max Bernstein</title>
+    </bookmark>
+    <bookmark href="https://github.com/codecrafters-io/build-your-own-x#build-your-own-programming-language" id="630">
+      <title>codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.</title>
+    </bookmark>
+    <bookmark href="https://github.com/aalhour/awesome-compilers" id="631">
+      <title>aalhour/awesome-compilers: :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes</title>
+    </bookmark>
+    <bookmark href="https://wubingzheng.github.io/build-lua-in-rust/en/" id="632">
+      <title>Preface - Build a Lua Interpreter in Rust</title>
+    </bookmark>
+    <bookmark href="https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html" id="633">
+      <title>Simple but Powerful Pratt Parsing</title>
+    </bookmark>
+  </folder>
+  <folder id="263">
+    <title>Zig</title>
+    <bookmark href="https://ziggit.dev/" id="634">
+      <title>Ziggit - A Zig community</title>
+    </bookmark>
+    <bookmark href="https://ziglang.org/learn/build-system/" id="635">
+      <title>Zig Build System ⚡ Zig Programming Language</title>
+    </bookmark>
+    <bookmark href="https://ziglang.org/learn/" id="636">
+      <title>Learn ⚡ Zig Programming Language</title>
+    </bookmark>
+    <bookmark href="https://codeberg.org/ziglings/exercises/" id="637">
+      <title>ziglings/exercises: Learn the ⚡Zig programming language by fixing tiny broken programs. - Codeberg.org</title>
+    </bookmark>
+    <bookmark href="https://exercism.org/tracks/zig" id="638">
+      <title>Zig on Exercism</title>
+    </bookmark>
+    <bookmark href="https://github.com/ryupold/raylib.zig" id="639">
+      <title>GitHub - ryupold/raylib.zig: Idiomatic Zig bindings for raylib utilizing raylib_parser</title>
+    </bookmark>
+    <bookmark href="https://github.com/zig-gamedev/zig-gamedev" id="640">
+      <title>GitHub - zig-gamedev/zig-gamedev: Building game development ecosystem for @ziglang!</title>
+    </bookmark>
+    <bookmark href="https://zigcc.github.io/zig-cookbook/" id="641">
+      <title>Introduction - Zig cookbook</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50" id="642">
+      <title>Zig in 30 minutes · GitHub</title>
+    </bookmark>
+    <bookmark href="https://github.com/zigcc/awesome-zig" id="643">
+      <title>GitHub - zigcc/awesome-zig: A collection of some awesome public Zig programming language projects.</title>
+    </bookmark>
+    <bookmark href="https://github.com/zig-gamedev/zig-gamedev/tree/main/libs/zgui" id="644">
+      <title>zig-gamedev/libs/zgui at main · zig-gamedev/zig-gamedev · GitHub</title>
+    </bookmark>
+    <bookmark href="https://github.com/kapricorn-media/raylib-sample" id="645">
+      <title>kapricorn-media/raylib-sample</title>
+    </bookmark>
+    <bookmark href="https://zig-by-example.com/" id="646">
+      <title>Zig by Example</title>
+    </bookmark>
+    <bookmark href="https://zig.guide/" id="647">
+      <title>Welcome | zig.guide</title>
+    </bookmark>
+    <bookmark href="https://github.com/pedropark99/zig-book" id="648">
+      <title>pedropark99/zig-book: An open, technical and introductory book for the Zig programming language</title>
+    </bookmark>
+    <bookmark href="https://pedropark99.github.io/zig-book/" id="649">
+      <title>Introduction to Zig</title>
+    </bookmark>
+    <bookmark href="https://github.com/rabinnh/zig-vscode-linux" id="650">
+      <title>rabinnh/zig-vscode-linux: Instructions on setting up VSCode to debug Zig on Linux</title>
+    </bookmark>
+    <bookmark href="https://github.com/raylib-zig/raylib-zig" id="651">
+      <title>raylib-zig/raylib-zig: Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib</title>
+    </bookmark>
+  </folder>
+  <folder id="264">
+    <title>c#</title>
+    <bookmark href="http://rbwhitaker.wikidot.com/c-sharp-tutorials" id="652">
+      <title>A C# Crash Course - RB Whitaker&apos;s Wiki</title>
+    </bookmark>
+    <bookmark href="https://play.avaloniaui.net/" id="653">
+      <title>Avalonia UI Playground: Code.Xaml.Live</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/dotnet/core/tools/" id="654">
+      <title>.NET CLI | Microsoft Learn</title>
+    </bookmark>
+  </folder>
+  <folder id="399">
+    <title>C++</title>
+    <bookmark href="https://en.cppreference.com/w/cpp/utility/functional/ref" id="952">
+      <title>std::ref, std::cref - cppreference.com</title>
+    </bookmark>
+    <bookmark href="https://www.learncpp.com/" id="953">
+      <title>Learn C++ – Skill up with our free tutorials</title>
+    </bookmark>
+    <bookmark href="https://xmake.io/#/guide/quickstart" id="954">
+      <title>Quick Start - xmake</title>
+    </bookmark>
+    <bookmark href="https://github.com/robloach/raylib-cpp" id="955">
+      <title>RobLoach/raylib-cpp: C++ Object Oriented Wrapper for raylib</title>
+    </bookmark>
+    <bookmark href="https://github.com/raysan5/raylib/tree/5.0" id="956">
+      <title>raysan5/raylib at 5.0</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/raylib/" id="957">
+      <title>raylib - enjoy videogames programming</title>
+    </bookmark>
+    <bookmark href="https://github.com/raylib-extras/examples-cpp" id="958">
+      <title>raylib-extras/examples-cpp: Examples and simple games using raylib and C++</title>
+    </bookmark>
+    <bookmark href="https://github.com/raylib-extras/extras-cpp" id="959">
+      <title>raylib-extras/extras-cpp: Useful components for raylib using the C++ programming language</title>
+    </bookmark>
+    <bookmark href="https://github.com/ocornut/imgui" id="960">
+      <title>ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</title>
+    </bookmark>
+    <bookmark href="https://github.com/raylib-extras/rlImGui" id="961">
+      <title>raylib-extras/rlImGui: A Raylib integration with DearImGui</title>
+    </bookmark>
+    <bookmark href="https://github.com/raysan5/raylib/wiki/Working-on-Windows" id="962">
+      <title>Working on Windows · raysan5/raylib Wiki</title>
+    </bookmark>
+    <bookmark href="https://www.raylib.com/index.html" id="963">
+      <title>raylib | A simple and easy-to-use library to enjoy videogames programming</title>
+    </bookmark>
+    <bookmark href="https://github.com/raylib-extras/game-premake" id="964">
+      <title>raylib-extras/game-premake: premake system for use in making raylib game projects</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@gamedevtutorials2935/videos" id="965">
+      <title>GameDevTutorials - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@rukiwang7212/videos" id="966">
+      <title>Ruki Wang - YouTube</title>
+    </bookmark>
+    <bookmark href="https://cpp.sh/" id="967">
+      <title>C++ Shell</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@SwedenCpp/videos" id="968">
+      <title>SwedenCpp - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@CppClubUK/videos" id="969">
+      <title>CppClubUK - YouTube</title>
+    </bookmark>
+    <bookmark href="https://exercism.org/" id="970">
+      <title>Exercism</title>
+    </bookmark>
+  </folder>
+  <folder id="410">
+    <title>Rust</title>
+    <bookmark href="https://doc.rust-lang.org/book/title-page.html" id="971">
+      <title>The Rust Programming Language - The Rust Programming Language</title>
+    </bookmark>
+    <bookmark href="https://rust-lang.github.io/mdBook/index.html" id="972">
+      <title>Introduction - mdBook Documentation</title>
+    </bookmark>
+    <bookmark href="https://doc.rust-lang.org/rust-by-example/index.html" id="973">
+      <title>Introduction - Rust By Example</title>
+    </bookmark>
+    <folder id="974">
+      <title>crates</title>
+      <bookmark href="https://crates.io/crates/miniserde/0.1.34" id="1069">
+        <title>miniserde - crates.io: Rust Package Registry</title>
+      </bookmark>
+      <bookmark href="https://crates.io/crates/pixels" id="1070">
+        <title>pixels - crates.io: Rust Package Registry</title>
+      </bookmark>
+      <bookmark href="https://crates.io/crates/macroquad-canvas" id="1071">
+        <title>macroquad-canvas - crates.io: Rust Package Registry</title>
+      </bookmark>
+      <bookmark href="https://crates.io/crates/macroquad" id="1072">
+        <title>macroquad - crates.io: Rust Package Registry</title>
+      </bookmark>
+      <bookmark href="https://crates.io/crates/notan" id="1073">
+        <title>notan - crates.io: Rust Package Registry</title>
+      </bookmark>
+      <bookmark href="https://docs.rs/comfy/latest/comfy/" id="1074">
+        <title>comfy - Rust</title>
+      </bookmark>
+      <bookmark href="https://comfyengine.org/" id="1075">
+        <title>Comfy Engine</title>
+      </bookmark>
+      <bookmark href="https://crates.io/crates/kira" id="1076">
+        <title>kira - crates.io: Rust Package Registry</title>
+      </bookmark>
+      <bookmark href="https://blessed.rs/crates" id="1077">
+        <title>Crate List - Blessed.rs</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://bfnightly.bracketproductions.com/" id="975">
+      <title>Introduction - Roguelike Tutorial - In Rust</title>
+    </bookmark>
+    <bookmark href="https://bfnightly.bracketproductions.com/chapter_1.html" id="976">
+      <title>Section 1 - Hello Rust - Roguelike Tutorial - In Rust</title>
+    </bookmark>
+    <bookmark href="https://ratatui.rs/" id="977">
+      <title>Introduction to Ratatui - Ratatui Book</title>
+    </bookmark>
+    <bookmark href="https://bugzmanov.github.io/nes_ebook/chapter_1.html" id="978">
+      <title>Introduction - Writing NES Emulator in Rust</title>
+    </bookmark>
+    <bookmark href="https://rust-unofficial.github.io/too-many-lists/" id="979">
+      <title>Introduction - Learning Rust With Entirely Too Many Linked Lists</title>
+    </bookmark>
+    <bookmark href="https://rust-book.cs.brown.edu/" id="980">
+      <title>Experiment Introduction - The Rust Programming Language</title>
+    </bookmark>
+    <bookmark href="https://cheats.rs/" id="981">
+      <title>Rust Language Cheat Sheet</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@ZymartuGames" id="982">
+      <title>Zymartu Games - YouTube</title>
+    </bookmark>
+    <bookmark href="https://github.com/godot-rust/gdext" id="983">
+      <title>godot-rust/gdext: Rust bindings for Godot 4</title>
+    </bookmark>
+    <bookmark href="https://www.shuttle.rs/blog/2023/12/08/clap-rust" id="984">
+      <title>Writing a CLI Tool in Rust with Clap</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/gilrs-project/gilrs" id="985">
+      <title>gilrs / gilrs · GitLab</title>
+    </bookmark>
+    <bookmark href="https://rust-unofficial.github.io/patterns/" id="986">
+      <title>Introduction - Rust Design Patterns</title>
+    </bookmark>
+    <bookmark href="https://firedbg.sea-ql.org/blog/2023-12-13-getting-started/" id="987">
+      <title>Getting Started | FireDBG - 🔥 Time Travel Visual Debugger for Rust</title>
+    </bookmark>
+    <bookmark href="https://crates.io/crates/wasmer/" id="988">
+      <title>wasmer - crates.io: Rust Package Registry</title>
+    </bookmark>
+    <bookmark href="https://crates.io/crates/minifb" id="989">
+      <title>minifb - crates.io: Rust Package Registry</title>
+    </bookmark>
+    <bookmark href="https://nexte.st/book/running.html" id="990">
+      <title>Running tests - cargo-nextest</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://gameprogrammingpatterns.com/" id="427">
+    <title>Game Programming Patterns</title>
+  </bookmark>
+  <bookmark href="https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github" id="428">
+    <title>Adding locally hosted code to GitHub - GitHub Docs</title>
+  </bookmark>
+  <bookmark href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" id="429">
+    <title>Basic writing and formatting syntax - GitHub Docs</title>
+  </bookmark>
+  <bookmark href="https://codeberg.org/" id="430">
+    <title>aria_forgetful - Dashboard - Forgejo: Beyond coding. We Forge.</title>
+  </bookmark>
+  <bookmark href="https://rust-lang.github.io/mdBook/guide/creating.html" id="431">
+    <title>Creating a Book - mdBook Documentation</title>
+  </bookmark>
+  <bookmark href="https://www.hello-algo.com/en/" id="432">
+    <title>Hello Algo</title>
+  </bookmark>
+  <bookmark href="http://www.cse.yorku.ca/~oz/hash.html" id="433">
+    <title>http://www.cse.yorku.ca/~oz/hash.html</title>
+  </bookmark>
+  <bookmark href="https://gameprogrammingpatterns.com/contents.html" id="434">
+    <title>Table of Contents · Game Programming Patterns</title>
+  </bookmark>
+  <bookmark href="https://github.com/codecrafters-io/build-your-own-x" id="435">
+    <title>codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.</title>
+  </bookmark>
+  <bookmark href="https://github.com/ssloy/tinyraycaster/wiki" id="436">
+    <title>Home · ssloy/tinyraycaster Wiki</title>
+  </bookmark>
+  <bookmark href="https://fabiensanglard.net/" id="437">
+    <title>Fabien Sanglard&apos;s Website</title>
+  </bookmark>
+  <bookmark href="http://homepage.cs.uiowa.edu/~jones/bcd/" id="438">
+    <title>Jones on Arithmetic</title>
+  </bookmark>
+  <bookmark href="https://graphics.stanford.edu/~seander/bithacks.html" id="439">
+    <title>Bit Twiddling Hacks</title>
+  </bookmark>
+  <bookmark href="https://qb64.com/" id="440">
+    <title>QB64.com | QB64 is a modern extended BASIC programming language that retains QBasic/QuickBASIC 4.5 compatibility and compiles native binaries for Windows, Linux, and macOS.</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@LowByteProductions/videos" id="441">
+    <title>Low Byte Productions - YouTube</title>
+  </bookmark>
+  <bookmark href="https://qb64phoenix.com/qb64wiki/index.php/Main_Page" id="442">
+    <title>QB64 Phoenix Edition Wiki</title>
+  </bookmark>
+  <bookmark href="https://www.bbcbasic.org/" id="443">
+    <title>R. T. Russell: The home of BBC BASIC</title>
+  </bookmark>
+  <bookmark href="https://elite.bbcelite.com/" id="444">
+    <title>Fully documented source code for Elite on the 6502 (BBC Micro, Acorn Electron, Commodore 64, NES)</title>
+  </bookmark>
+  <bookmark href="https://winworldpc.com/library/operating-systems" id="445">
+    <title>WinWorld: Library</title>
+  </bookmark>
+  <bookmark href="https://int10h.org/blog/2019/05/fontraption-vga-text-mode-font-editor/" id="446">
+    <title>Fontraption (a VGA Text Mode Font Editor)</title>
+  </bookmark>
+  <bookmark href="https://dosbox-x.com/wiki/#Home" id="447">
+    <title>Home - DOSBox-X Wiki</title>
+  </bookmark>
+  <bookmark href="https://github.com/juanitogan/mkwinfont" id="448">
+    <title>juanitogan/mkwinfont: Update to Simon Tatham&apos;s font utilities for working with Windows FNT and FON font files.</title>
+  </bookmark>
+  <bookmark href="https://github.com/nukeykt/Nuked-SC55" id="449">
+    <title>nukeykt/Nuked-SC55: Roland SC-55 series emulation</title>
+  </bookmark>
+  <bookmark href="https://www.jmeiners.com/lc3-vm/" id="450">
+    <title>Write your Own Virtual Machine</title>
+  </bookmark>
+  <bookmark href="https://beej.us/guide/bgc/html/split-wide/index.html" id="451">
+    <title>Beej&apos;s Guide to C Programming</title>
+  </bookmark>
+  <bookmark href="https://www.forth.com/starting-forth/0-starting-forth/" id="452">
+    <title>Starting Forth</title>
+  </bookmark>
+  <bookmark href="https://forth-standard.org/standard/words" id="453">
+    <title>Forth Standard</title>
+  </bookmark>
+  <bookmark href="https://github.com/nornagon/jonesforth/blob/master/jonesforth.S" id="454">
+    <title>jonesforth/jonesforth.S at master · nornagon/jonesforth</title>
+  </bookmark>
+  <bookmark href="http://www.bradrodriguez.com/papers/index.html" id="455">
+    <title>Publications - Bradford J. Rodriguez</title>
+  </bookmark>
+  <bookmark href="https://notes.burke.libbey.me/ansi-escape-codes/" id="456">
+    <title>Everything you never wanted to know about ANSI escape codes</title>
+  </bookmark>
+  <bookmark href="https://zylinski.itch.io/odinbook" id="457">
+    <title>Understanding the Odin Programming Language by Karl Zylinski</title>
+  </bookmark>
+  <bookmark href="https://chadnauseam.com/coding/random/calculator-app" id="458">
+    <title>calculator-app - Chad Nauseam Home</title>
+  </bookmark>
+  <bookmark href="https://hyperbook.openpatch.org/" id="459">
+    <title>Getting Started - Hyperbook Documentation</title>
+  </bookmark>
+  <bookmark href="https://raddad772.github.io/2023/12/13/oops-i-jitd.html" id="460">
+    <title>Oops, I JIT’d | RadDad772 blog</title>
+  </bookmark>
+  <bookmark href="https://littleosbook.github.io/" id="461">
+    <title>The little book about OS development</title>
+  </bookmark>
+  <bookmark href="https://www.mkdocs.org/user-guide/writing-your-docs/" id="462">
+    <title>Writing Your Docs - MkDocs</title>
+  </bookmark>
+  <bookmark href="https://afska.github.io/emudevz/#/" id="463">
+    <title>EmuDevz</title>
+  </bookmark>
+  <bookmark href="https://github.com/historicalsource?tab=repositories" id="464">
+    <title>historicalsource (historicalsource) / Repositories</title>
+  </bookmark>
+  <bookmark href="https://github.com/hlorenzi/customasm/" id="465">
+    <title>hlorenzi/customasm: 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/</title>
+  </bookmark>
+</folder>
+</xbel>
