@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1087: for Floccus bookmark sync browser extension -->
+<!--- highestId :1088: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1424,6 +1424,9 @@
       </bookmark>
       <bookmark href="https://space.bilibili.com/3493127566395881/upload/video" id="838">
         <title>Fox Apricot</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/27017796/upload/video" id="1088">
+        <title>野芳花泽类投稿视频-野芳花泽类视频分享-哔哩哔哩视频</title>
       </bookmark>
     </folder>
     <folder id="345">
