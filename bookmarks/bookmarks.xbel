@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1101: for Floccus bookmark sync browser extension -->
+<!--- highestId :1103: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1370,6 +1370,12 @@
       </bookmark>
       <bookmark href="https://imginn.com/amyxrose005/" id="1101">
         <title>View Amelia Rose(@amyxrose005) Instagram Profile, Stories &amp; Posts Anonymously - Imginn</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/clairemcdowell.ai/" id="1102">
+        <title>View Claire McDowell AI(@clairemcdowell.ai) Instagram Profile, Stories &amp; Posts Anonymously - Imginn</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/p/DThinYSDur_/" id="1103">
+        <title>Alison Hearthbloom (@alisonh_codecrazy): This is going to be an out-of- instagram post download - imginn.com</title>
       </bookmark>
     </folder>
     <folder id="344">
