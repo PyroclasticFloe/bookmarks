@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1095: for Floccus bookmark sync browser extension -->
+<!--- highestId :1096: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1352,6 +1352,9 @@
       </bookmark>
       <bookmark href="https://imginn.com/mmeepoohh/" id="1095">
         <title>View Meepooh Wasita 🐻(@mmeepoohh) Instagram Profile, Stories &amp; Posts Anonymously - Imginn</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/seagamesis/" id="1096">
+        <title>View Seagames Minthita(@seagamesis) Instagram Profile, Stories &amp; Posts Anonymously - Imginn</title>
       </bookmark>
     </folder>
     <folder id="344">
