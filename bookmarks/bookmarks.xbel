@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1104: for Floccus bookmark sync browser extension -->
+<!--- highestId :1105: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -802,6 +802,9 @@
         </bookmark>
         <bookmark href="https://github.com/kohya-ss/musubi-tuner?tab=readme-ov-file#installation" id="1045">
           <title>kohya-ss/musubi-tuner</title>
+        </bookmark>
+        <bookmark href="https://github.com/biagiomaf/smart-comfyui-gallery" id="1105">
+          <title>biagiomaf/smart-comfyui-gallery: SmartGallery for ComfyUI is a fast, standalone, browser-based gallery that remembers how every image or video was generated. Workflow-aware search, prompt &amp; model filtering, node summary, mobile-friendly and Docker-ready.</title>
         </bookmark>
       </folder>
       <folder id="667">
