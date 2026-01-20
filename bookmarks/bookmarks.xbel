@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1105: for Floccus bookmark sync browser extension -->
+<!--- highestId :1107: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1056,6 +1056,9 @@
       <bookmark href="https://github.com/Acly/krita-vision-tools" id="735">
         <title>Acly/krita-vision-tools: Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box.</title>
       </bookmark>
+      <bookmark href="https://huggingface.co/collections/unsloth/unsloth-diffusion-ggufs" id="1106">
+        <title>Unsloth Diffusion GGUFs - a unsloth Collection</title>
+      </bookmark>
     </folder>
     <bookmark href="https://github.com/unslothai/unsloth" id="335">
       <title>unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 &amp; Gemma 3 LLMs 2x faster with 70% less memory! 🦥</title>
@@ -1972,6 +1975,9 @@
   </bookmark>
   <bookmark href="https://www.openstreetmap.org/#map=5/51.90/30.03" id="163">
     <title>OpenStreetMap</title>
+  </bookmark>
+  <bookmark href="moz-extension://0d5f0a7a-cacb-466e-8935-956a2444c828/installPage/installPage.html" id="1107">
+    <title>2FAS Browser Extension | Configuration</title>
   </bookmark>
   <bookmark href="https://archive.org/search?query=tosec" id="164">
     <title>Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies, Music &amp; Wayback Machine</title>
