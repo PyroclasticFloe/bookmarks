@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1108: for Floccus bookmark sync browser extension -->
+<!--- highestId :1109: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -477,6 +477,9 @@
     </bookmark>
     <bookmark href="https://fribbels.github.io/hsr-optimizer#main" id="1108">
       <title>Fribbels Star Rail Optimizer</title>
+    </bookmark>
+    <bookmark href="https://hsr.seelie.me/planner" id="1109">
+      <title>SEELIE.me • Honkai: Star Rail Planner</title>
     </bookmark>
   </folder>
   <folder id="115">
