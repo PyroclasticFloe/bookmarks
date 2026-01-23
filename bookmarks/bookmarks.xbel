@@ -957,9 +957,6 @@
       <bookmark href="https://github.com/marhensa/kohya-config" id="701">
         <title>marhensa/kohya-config: This guide provides a recommended setup and workflow for training FLUX LoRA models using Kohya_ss, optimized for GPUs with approximately 12GB VRAM (like an RTX 3060 12GB).</title>
       </bookmark>
-      <bookmark href="https://github.com/mit-han-lab/ComfyUI-nunchaku" id="702">
-        <title>mit-han-lab/ComfyUI-nunchaku: ComfyUI plugin of Nunchaku</title>
-      </bookmark>
       <bookmark href="https://github.com/mit-han-lab/ComfyUI-nunchaku/tree/main/example_workflows" id="703">
         <title>ComfyUI-nunchaku/example_workflows at main · mit-han-lab/ComfyUI-nunchaku</title>
       </bookmark>
