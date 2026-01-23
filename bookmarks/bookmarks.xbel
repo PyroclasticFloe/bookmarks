@@ -984,9 +984,6 @@
       <bookmark href="https://github.com/derrian-distro/LoRA_Easy_Training_Scripts" id="710">
         <title>derrian-distro/LoRA_Easy_Training_Scripts: A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy</title>
       </bookmark>
-      <bookmark href="https://github.com/edenartlab/sd-lora-trainer" id="711">
-        <title>edenartlab/sd-lora-trainer: LoRa trainer for SDXL and SD15</title>
-      </bookmark>
       <bookmark href="https://github.com/nisaruj/comfyui-daam" id="712">
         <title>nisaruj/comfyui-daam: ComfyUI custom nodes for Diffusion Attentive Attribution Maps (DAAM)</title>
       </bookmark>
