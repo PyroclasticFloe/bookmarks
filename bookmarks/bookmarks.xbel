@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1109: for Floccus bookmark sync browser extension -->
+<!--- highestId :1110: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -995,6 +995,9 @@
       </bookmark>
       <bookmark href="https://huggingface.co/collections/unsloth/unsloth-diffusion-ggufs" id="1106">
         <title>Unsloth Diffusion GGUFs - a unsloth Collection</title>
+      </bookmark>
+      <bookmark href="https://github.com/Tavris1/ComfyUI-Easy-Install/tree/MAC-Linux" id="1110">
+        <title>Tavris1/ComfyUI-Easy-Install at MAC-Linux</title>
       </bookmark>
     </folder>
     <bookmark href="https://github.com/unslothai/unsloth" id="335">
