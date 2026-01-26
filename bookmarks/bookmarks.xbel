@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1118: for Floccus bookmark sync browser extension -->
+<!--- highestId :1119: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1001,6 +1001,9 @@
       </bookmark>
       <bookmark href="https://huggingface.co/ModelsLab/Sage_2_plus_plus_build/tree/main" id="1118">
         <title>ModelsLab/Sage_2_plus_plus_build at main</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/Kijai/PrecompiledWheels/tree/main" id="1119">
+        <title>Kijai/PrecompiledWheels at main</title>
       </bookmark>
     </folder>
     <bookmark href="https://github.com/unslothai/unsloth" id="335">
