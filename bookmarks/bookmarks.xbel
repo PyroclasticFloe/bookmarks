@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1119: for Floccus bookmark sync browser extension -->
+<!--- highestId :1120: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -319,6 +319,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/@DanielGreeneReviews/videos" id="112">
     <title>Daniel Greene - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@broadcaststsatic" id="1120">
+    <title>Noah Caldwell-Gervais - YouTube</title>
   </bookmark>
 </folder>
 <folder id="4">
