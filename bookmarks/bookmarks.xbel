@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1120: for Floccus bookmark sync browser extension -->
+<!--- highestId :1135: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -169,6 +169,9 @@
   </bookmark>
   <bookmark href="https://talesoftimesforgotten.com/spencer-alexander-mcdaniel/" id="63">
     <title>Spencer McDaniel - Tales of Times Forgotten</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/eleanor.lockhart.contact" id="1121">
+    <title>ellie lockhart (she/they) (@eleanor.lockhart.contact) — Bluesky</title>
   </bookmark>
 </folder>
 <folder id="3">
@@ -602,6 +605,9 @@
   <bookmark href="https://wutheringlab.com/#CharacterList" id="124">
     <title>Wuthering Waves Characters - Wutheringlab</title>
   </bookmark>
+  <bookmark href="https://payment.kurogame-service.com/pay/wutheringwaves/cashier" id="1122">
+    <title>Wuthering Waves Top-up Center</title>
+  </bookmark>
 </folder>
 <folder id="5">
   <title>Personal</title>
@@ -1008,6 +1014,18 @@
       <bookmark href="https://huggingface.co/Kijai/PrecompiledWheels/tree/main" id="1119">
         <title>Kijai/PrecompiledWheels at main</title>
       </bookmark>
+      <bookmark href="https://docs.bfl.ai/guides/prompting_guide_flux2_klein" id="1123">
+        <title>Prompting Guide - FLUX.2 [klein] - Black Forest Labs</title>
+      </bookmark>
+      <bookmark href="https://docs.bfl.ai/flux_2/flux2_image_editing" id="1124">
+        <title>FLUX.2 Image Editing - Black Forest Labs</title>
+      </bookmark>
+      <bookmark href="https://github.com/stavsap/comfyui-ollama" id="1125">
+        <title>stavsap/comfyui-ollama</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@broadcaststsatic/videos" id="1126">
+        <title>Noah Caldwell-Gervais - YouTube</title>
+      </bookmark>
     </folder>
     <bookmark href="https://github.com/unslothai/unsloth" id="335">
       <title>unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 &amp; Gemma 3 LLMs 2x faster with 70% less memory! 🦥</title>
@@ -1352,6 +1370,9 @@
       </bookmark>
       <bookmark href="https://imginn.com/anewanewanewanew/" id="1117">
         <title>View เอนิว(@anewanewanewanew) Instagram Profile, Stories &amp; Posts Anonymously - Imginn</title>
+      </bookmark>
+      <bookmark href="https://imginn.com/juanmiserrano_/" id="1127">
+        <title>View Juanmi Serrano(@juanmiserrano_) Instagram Profile, Stories &amp; Posts Anonymously - Imginn</title>
       </bookmark>
     </folder>
     <folder id="344">
@@ -1772,6 +1793,30 @@
       </bookmark>
       <bookmark href="https://www.deviantart.com/petiteblond/gallery/all?order=newest" id="943">
         <title>PetiteBlond - Hobbyist, Photographer | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/maksimshitov/gallery/all?order=newest" id="1128">
+        <title>MaksimShitov User Profile | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/arlette2009/art/Pageboy-s-Adventures-1294023503" id="1129">
+        <title>Pageboy&apos;s Adventures by Arlette2009 on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/tanit-isis-stock/gallery" id="1130">
+        <title>tanit-isis-stock - Professional, Photographer | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/ophelia-overdose/gallery?deviationid=125201452#content" id="1131">
+        <title>Ophelia-Overdose - Professional, Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/mariaamanda/gallery" id="1132">
+        <title>MariaAmanda - Hobbyist, General Artist | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/mjranum-stock/gallery?deviationid=83129155#content" id="1133">
+        <title>mjranum-stock - Hobbyist, Photographer | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/tanit-isis-stock/favourites/10667790/models" id="1134">
+        <title>tanit-isis-stock - Professional, Photographer | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/ladymelamor1/gallery/81897949/cyberpunk-2077" id="1135">
+        <title>LadyMelamor1 - Professional, Photographer | DeviantArt</title>
       </bookmark>
     </folder>
     <folder id="348">
