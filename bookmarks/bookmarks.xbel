@@ -752,6 +752,9 @@
         <bookmark href="https://www.youtube.com/@nodonmai/videos" id="1025">
           <title>nodonmai - YouTube</title>
         </bookmark>
+        <bookmark href="https://www.youtube.com/@EndangeredAI/videos" id="699">
+          <title>Endangered AI - YouTube</title>
+        </bookmark>
         <bookmark href="https://www.youtube.com/@icekiubAI" id="1026">
           <title>IceKiub - YouTube</title>
         </bookmark>
@@ -923,9 +926,6 @@
       </bookmark>
       <bookmark href="https://github.com/nari-labs/dia" id="696">
         <title>nari-labs/dia: A TTS model capable of generating ultra-realistic dialogue in one pass.</title>
-      </bookmark>
-      <bookmark href="https://www.youtube.com/@EndangeredAI/videos" id="699">
-        <title>Endangered AI - YouTube</title>
       </bookmark>
       <bookmark href="https://github.com/tdrussell/diffusion-pipe/blob/main/docs/supported_models.md" id="700">
         <title>diffusion-pipe/docs/supported_models.md at main · tdrussell/diffusion-pipe</title>
