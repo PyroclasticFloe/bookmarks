@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1136: for Floccus bookmark sync browser extension -->
+<!--- highestId :1138: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1466,6 +1466,12 @@
       </bookmark>
       <bookmark href="https://space.bilibili.com/27017796/upload/video" id="1088">
         <title>野芳花泽类投稿视频-野芳花泽类视频分享-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/271756246?spm_id_from=333.788.upinfo.detail.click" id="1137">
+        <title>橘子吃了没的个人空间-橘子吃了没个人主页-哔哩哔哩视频</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/3546659799697851/upload/video" id="1138">
+        <title>雌堕师sissy投稿视频-雌堕师sissy视频分享-哔哩哔哩视频</title>
       </bookmark>
     </folder>
     <folder id="345">
