@@ -634,12 +634,6 @@
           <bookmark href="https://www.youtube.com/@sedetweiler" id="1082">
             <title>Scott Detweiler - YouTube</title>
           </bookmark>
-          <bookmark href="https://github.com/pwillia7/Basic_ComfyUI_Workflows" id="1083">
-            <title>pwillia7/Basic_ComfyUI_Workflows: Basic Stable Diffusion Workflows for ComyUI using minimal custom nodes</title>
-          </bookmark>
-          <bookmark href="https://www.youtube.com/@GrocksterRox/videos" id="1087">
-            <title>Grockster - YouTube</title>
-          </bookmark>
         </folder>
         <bookmark href="https://www.youtube.com/@IntelligentImage-sl7uf/videos" id="1003">
           <title>Intelligent Image - YouTube</title>
@@ -983,6 +977,9 @@
       </bookmark>
       <bookmark href="https://huggingface.co/Kijai/LTXV2_comfy/discussions/44" id="1136">
         <title>Kijai/LTXV2_comfy · Workflow - Talking Avatar (voice cloning with Qwen-TTS)</title>
+      </bookmark>
+      <bookmark href="https://github.com/pwillia7/Basic_ComfyUI_Workflows" id="1083">
+        <title>pwillia7/Basic_ComfyUI_Workflows: Basic Stable Diffusion Workflows for ComyUI using minimal custom nodes</title>
       </bookmark>
     </folder>
     <bookmark href="https://github.com/unslothai/unsloth" id="335">
