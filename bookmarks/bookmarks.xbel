@@ -628,12 +628,6 @@
         </bookmark>
         <folder id="1001">
           <title>Training</title>
-          <bookmark href="https://github.com/Nerogar/OneTrainer/wiki/Onboarding-Guide-for-Newcomers" id="1078">
-            <title>Onboarding Guide for Newcomers · Nerogar/OneTrainer Wiki</title>
-          </bookmark>
-          <bookmark href="https://github.com/bmaltais/kohya_ss/wiki/LoRA-training-parameters#explaining-lora-learning-settings-using-kohya_ss-for-stable-diffusion-understanding-by-everyone" id="1081">
-            <title>LoRA training parameters · bmaltais/kohya_ss Wiki</title>
-          </bookmark>
         </folder>
         <folder id="1002">
           <title>ComfyUI</title>
