@@ -626,19 +626,10 @@
         <bookmark href="https://www.youtube.com/@impactframes/videos" id="994">
           <title>ImpactFrames - YouTube</title>
         </bookmark>
-        <bookmark href="https://www.youtube.com/@latentvision/videos" id="996">
-          <title>Latent Vision - YouTube</title>
-        </bookmark>
         <folder id="1001">
           <title>Training</title>
           <bookmark href="https://github.com/Nerogar/OneTrainer/wiki/Onboarding-Guide-for-Newcomers" id="1078">
             <title>Onboarding Guide for Newcomers · Nerogar/OneTrainer Wiki</title>
-          </bookmark>
-          <bookmark href="https://civitai.com/articles/1891/guide-to-training-lora-sliders-adjusters-scales-leco" id="1079">
-            <title>Guide to training LoRA sliders/ adjusters/ scales (LECO) | Civitai</title>
-          </bookmark>
-          <bookmark href="https://civitai.notion.site/SDXL-1-0-Training-Overview-4fb03d5b4cbf482ebe13ffef7bcb8ead" id="1080">
-            <title>SDXL 1.0 Training Overview</title>
           </bookmark>
           <bookmark href="https://github.com/bmaltais/kohya_ss/wiki/LoRA-training-parameters#explaining-lora-learning-settings-using-kohya_ss-for-stable-diffusion-understanding-by-everyone" id="1081">
             <title>LoRA training parameters · bmaltais/kohya_ss Wiki</title>
