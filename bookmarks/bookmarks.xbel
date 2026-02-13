@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1138: for Floccus bookmark sync browser extension -->
+<!--- highestId :1139: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -169,6 +169,9 @@
   </bookmark>
   <bookmark href="https://talesoftimesforgotten.com/spencer-alexander-mcdaniel/" id="63">
     <title>Spencer McDaniel - Tales of Times Forgotten</title>
+  </bookmark>
+  <bookmark href="https://bsky.app/profile/dailybunnies.bsky.social" id="1139">
+    <title>daily bunnies 🐇✨ (@dailybunnies.bsky.social) — Bluesky</title>
   </bookmark>
 </folder>
 <folder id="3">
