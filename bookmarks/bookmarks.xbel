@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1143: for Floccus bookmark sync browser extension -->
+<!--- highestId :1144: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -2112,6 +2112,9 @@
     </bookmark>
     <bookmark href="https://github.com/hituro/hituro-makes-macros/tree/main" id="1143">
       <title>hituro/hituro-makes-macros: Twine Macros</title>
+    </bookmark>
+    <bookmark href="https://emshort.blog/category/quality-based-narrative/" id="1144">
+      <title>quality-based narrative – Emily Short&apos;s Interactive Storytelling</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.youtube.com/@EllenBrock/videos" id="231">
