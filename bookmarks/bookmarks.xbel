@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1145: for Floccus bookmark sync browser extension -->
+<!--- highestId :1146: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -769,6 +769,9 @@
         </bookmark>
         <bookmark href="https://civitaiarchive.com/" id="1059">
           <title>CivArchive (CivitAI Archive) - AI Model Archive</title>
+        </bookmark>
+        <bookmark href="https://huggingface.co/spaces/malcolmrey/browser" id="1146">
+          <title>Browser - a Hugging Face Space by malcolmrey</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.reddit.com/r/comfyui/" id="668">
