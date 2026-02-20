@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1146: for Floccus bookmark sync browser extension -->
+<!--- highestId :1147: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -2496,6 +2496,9 @@
     </bookmark>
     <bookmark href="https://stackoverflow.com/questions/21041941/how-to-autoresize-qlabel-pixmap-keeping-ratio-without-using-classes/21053898#21053898" id="514">
       <title>python - How to Autoresize QLabel pixmap keeping ratio without using classes? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://qtcustomwidgets.spinncode.com/Advanced/Plugins" id="1147">
+      <title>Plugins | Qt Custom Widgets</title>
     </bookmark>
   </folder>
   <folder id="260">
