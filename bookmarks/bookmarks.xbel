@@ -170,9 +170,6 @@
   <bookmark href="https://talesoftimesforgotten.com/spencer-alexander-mcdaniel/" id="63">
     <title>Spencer McDaniel - Tales of Times Forgotten</title>
   </bookmark>
-  <bookmark href="https://bsky.app/profile/dailybunnies.bsky.social" id="1139">
-    <title>daily bunnies 🐇✨ (@dailybunnies.bsky.social) — Bluesky</title>
-  </bookmark>
 </folder>
 <folder id="3">
   <title>Youtube</title>
@@ -614,6 +611,9 @@
 </folder>
 <folder id="5">
   <title>Personal</title>
+  <bookmark href="https://bsky.app/profile/dailybunnies.bsky.social" id="1139">
+    <title>daily bunnies 🐇✨ (@dailybunnies.bsky.social) — Bluesky</title>
+  </bookmark>
   <folder id="125">
     <title>AI</title>
     <folder id="334">
