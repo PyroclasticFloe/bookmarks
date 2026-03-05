@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1148: for Floccus bookmark sync browser extension -->
+<!--- highestId :1149: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -537,6 +537,9 @@
     </bookmark>
     <bookmark href="https://docs.google.com/spreadsheets/d/1e46cecjsIb1LO3Ybb6urlVUZKUk8R7yrgG9yXZS8-Ho/edit?pli=1&amp;gid=2100126761#gid=2100126761" id="320">
       <title>Reverse: 1999 Tier List - Google Sheets</title>
+    </bookmark>
+    <bookmark href="https://re1999.bluepoch.com/en/home/" id="1149">
+      <title>Reverse: 1999 | Off to the Next Era</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.youtube.com/channel/UC-2O84hJLKm8CqqsZygV-lA/videos" id="116">
