@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1149: for Floccus bookmark sync browser extension -->
+<!--- highestId :1150: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -3190,6 +3190,9 @@
   </bookmark>
   <bookmark href="https://github.com/hlorenzi/customasm/" id="465">
     <title>hlorenzi/customasm: 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/chat/7df08154-6c09-48a2-914b-382c23334784" id="1150">
+    <title>Claude&apos;s programming language support - Claude</title>
   </bookmark>
 </folder>
 </xbel>
