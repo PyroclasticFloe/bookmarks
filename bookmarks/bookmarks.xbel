@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1150: for Floccus bookmark sync browser extension -->
+<!--- highestId :1151: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -2053,6 +2053,9 @@
   </bookmark>
   <bookmark href="https://gitlab.com/1O/vaultwarden-backup" id="229">
     <title>1O / Vaultwarden Backup · GitLab</title>
+  </bookmark>
+  <bookmark href="https://github.com/9001/copyparty" id="1151">
+    <title>9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file</title>
   </bookmark>
 </folder>
 <folder id="8">
