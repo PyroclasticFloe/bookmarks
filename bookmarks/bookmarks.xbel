@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1152: for Floccus bookmark sync browser extension -->
+<!--- highestId :1153: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1664,6 +1664,9 @@
       </bookmark>
       <bookmark href="https://www.deviantart.com/ladymelamor1/gallery/81897949/cyberpunk-2077" id="1135">
         <title>LadyMelamor1 - Professional, Photographer | DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/kzvegas/gallery/all?order=newest" id="1153">
+        <title>kzVegas User Profile | DeviantArt</title>
       </bookmark>
     </folder>
     <folder id="348">
