@@ -801,26 +801,11 @@
       <bookmark href="https://www.reddit.com/r/LocalLLaMA/" id="694">
         <title>LocalLlama</title>
       </bookmark>
-      <bookmark href="https://github.com/marhensa/kohya-config" id="701">
-        <title>marhensa/kohya-config: This guide provides a recommended setup and workflow for training FLUX LoRA models using Kohya_ss, optimized for GPUs with approximately 12GB VRAM (like an RTX 3060 12GB).</title>
-      </bookmark>
-      <bookmark href="https://github.com/mit-han-lab/ComfyUI-nunchaku/tree/main/example_workflows" id="703">
-        <title>ComfyUI-nunchaku/example_workflows at main · mit-han-lab/ComfyUI-nunchaku</title>
-      </bookmark>
-      <bookmark href="https://github.com/mcmonkeyprojects/SwarmUI/blob/master/docs/README.md" id="704">
-        <title>SwarmUI/docs/README.md at master · mcmonkeyprojects/SwarmUI</title>
-      </bookmark>
       <bookmark href="https://github.com/ClownsharkBatwing/RES4LYF" id="705">
         <title>ClownsharkBatwing/RES4LYF</title>
       </bookmark>
       <bookmark href="https://github.com/DavidDragonsage/FooocusPlus" id="708">
         <title>DavidDragonsage/FooocusPlus: FooocusPlus is an independent fork of Fooocus via SimpleSDXL2, with code restoration directly from mainline Fooocus.</title>
-      </bookmark>
-      <bookmark href="https://github.com/derrian-distro/LoRA_Easy_Training_Scripts" id="710">
-        <title>derrian-distro/LoRA_Easy_Training_Scripts: A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy</title>
-      </bookmark>
-      <bookmark href="https://github.com/nisaruj/comfyui-daam" id="712">
-        <title>nisaruj/comfyui-daam: ComfyUI custom nodes for Diffusion Attentive Attribution Maps (DAAM)</title>
       </bookmark>
       <bookmark href="https://github.com/bghira/SimpleTuner/blob/main/documentation/QUICKSTART.md" id="713">
         <title>SimpleTuner/documentation/QUICKSTART.md at main · bghira/SimpleTuner</title>
