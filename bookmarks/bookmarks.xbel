@@ -792,9 +792,6 @@
       <bookmark href="https://danbooru.donmai.us/wiki_pages/tag_groups" id="686">
         <title>Tag Groups Wiki | Danbooru</title>
       </bookmark>
-      <bookmark href="https://github.com/ssitu/ComfyUI_UltimateSDUpscale?tab=readme-ov-file" id="688">
-        <title>ssitu/ComfyUI_UltimateSDUpscale: ComfyUI nodes for the Ultimate Stable Diffusion Upscale script by Coyote-A.</title>
-      </bookmark>
       <bookmark href="https://github.com/qarmin/czkawka" id="689">
         <title>qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc.</title>
       </bookmark>
@@ -803,15 +800,6 @@
       </bookmark>
       <bookmark href="https://www.reddit.com/r/LocalLLaMA/" id="694">
         <title>LocalLlama</title>
-      </bookmark>
-      <bookmark href="https://www.packetswitch.co.uk/using-the-continue-vscode-extension-and-local-llms-for-improved-coding/" id="695">
-        <title>How to Use Continue and Local LLMs for Better Coding in VSCode?</title>
-      </bookmark>
-      <bookmark href="https://github.com/nari-labs/dia" id="696">
-        <title>nari-labs/dia: A TTS model capable of generating ultra-realistic dialogue in one pass.</title>
-      </bookmark>
-      <bookmark href="https://github.com/tdrussell/diffusion-pipe/blob/main/docs/supported_models.md" id="700">
-        <title>diffusion-pipe/docs/supported_models.md at main · tdrussell/diffusion-pipe</title>
       </bookmark>
       <bookmark href="https://github.com/marhensa/kohya-config" id="701">
         <title>marhensa/kohya-config: This guide provides a recommended setup and workflow for training FLUX LoRA models using Kohya_ss, optimized for GPUs with approximately 12GB VRAM (like an RTX 3060 12GB).</title>
