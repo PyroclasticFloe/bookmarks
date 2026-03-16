@@ -695,9 +695,6 @@
         <bookmark href="https://github.com/Jonseed/ComfyUI-Detail-Daemon" id="1043">
           <title>Jonseed/ComfyUI-Detail-Daemon: A port of muerrilla&apos;s sd-webui-Detail-Daemon as a node for ComfyUI, to adjust sigmas that control detail.</title>
         </bookmark>
-        <bookmark href="https://huggingface.co/ostris/Flex.1-alpha" id="1044">
-          <title>ostris/Flex.1-alpha · Hugging Face</title>
-        </bookmark>
         <bookmark href="https://github.com/kohya-ss/musubi-tuner?tab=readme-ov-file#installation" id="1045">
           <title>kohya-ss/musubi-tuner</title>
         </bookmark>
@@ -776,9 +773,6 @@
       </bookmark>
       <bookmark href="https://github.com/DavidDragonsage/FooocusPlus" id="708">
         <title>DavidDragonsage/FooocusPlus: FooocusPlus is an independent fork of Fooocus via SimpleSDXL2, with code restoration directly from mainline Fooocus.</title>
-      </bookmark>
-      <bookmark href="https://github.com/kohya-ss/musubi-tuner" id="718">
-        <title>kohya-ss/musubi-tuner</title>
       </bookmark>
       <bookmark href="https://github.com/AHEKOT/ComfyUI_VNCCS" id="728">
         <title>AHEKOT/ComfyUI_VNCCS: Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks.</title>
