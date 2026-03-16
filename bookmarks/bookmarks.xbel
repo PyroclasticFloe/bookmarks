@@ -692,9 +692,6 @@
         <bookmark href="https://github.com/LykosAI/StabilityMatrix" id="1041">
           <title>LykosAI/StabilityMatrix: Multi-Platform Package Manager for Stable Diffusion</title>
         </bookmark>
-        <bookmark href="https://github.com/FennelFetish/qapyq" id="1042">
-          <title>FennelFetish/qapyq: An image viewer and AI-assisted editing tool that helps with curating datasets for generative AI models, finetunes and LoRA.</title>
-        </bookmark>
         <bookmark href="https://github.com/Jonseed/ComfyUI-Detail-Daemon" id="1043">
           <title>Jonseed/ComfyUI-Detail-Daemon: A port of muerrilla&apos;s sd-webui-Detail-Daemon as a node for ComfyUI, to adjust sigmas that control detail.</title>
         </bookmark>
