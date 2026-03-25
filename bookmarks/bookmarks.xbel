@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1156: for Floccus bookmark sync browser extension -->
+<!--- highestId :1159: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -328,6 +328,15 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/@DogmaForever/videos" id="1156">
     <title>Dogma - YouTube</title>
+  </bookmark>
+  <bookmark href="https://imginn.com/vladigalagan/" id="1157">
+    <title>View Vladislava Galagan(@vladigalagan) Instagram Profile, Stories &amp; Posts Anonymously Last updated 2 days ago - Imginn</title>
+  </bookmark>
+  <bookmark href="https://imginn.com/erica.cordie/" id="1158">
+    <title>View Erica Cordie(@erica.cordie) Instagram Profile, Stories &amp; Posts Anonymously Last updated 19 days ago - Imginn</title>
+  </bookmark>
+  <bookmark href="https://imginn.com/sarahjbackman/" id="1159">
+    <title>View Sarah Bäckman(@sarahjbackman) Instagram Profile, Stories &amp; Posts Anonymously Last updated 13 hours ago - Imginn</title>
   </bookmark>
 </folder>
 <folder id="4">
