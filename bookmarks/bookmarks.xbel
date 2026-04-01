@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1160: for Floccus bookmark sync browser extension -->
+<!--- highestId :1161: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -779,6 +779,9 @@
       </bookmark>
       <bookmark href="https://github.com/pwillia7/Basic_ComfyUI_Workflows" id="1083">
         <title>pwillia7/Basic_ComfyUI_Workflows: Basic Stable Diffusion Workflows for ComyUI using minimal custom nodes</title>
+      </bookmark>
+      <bookmark href="https://github.com/1038lab/ComfyUI-QwenVL/issues/168" id="1161">
+        <title>This fixed model list is so awful it&apos;s made the entire repo useless · Issue #168 · 1038lab/ComfyUI-QwenVL</title>
       </bookmark>
     </folder>
     <bookmark href="https://github.com/unslothai/unsloth" id="335">
