@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1162: for Floccus bookmark sync browser extension -->
+<!--- highestId :1164: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -2053,6 +2053,12 @@
   </bookmark>
   <bookmark href="https://fontsource.org/?category=handwriting" id="254">
     <title>Fontsource</title>
+  </bookmark>
+  <bookmark href="https://2e.aonprd.com/Rules.aspx?ID=2027&amp;Redirected=1" id="1163">
+    <title>Character Creation - Rules - Archives of Nethys: Pathfinder 2nd Edition Database</title>
+  </bookmark>
+  <bookmark href="https://github.com/OriginalMadman/Ars-Magica-Open-License/tree/main/reviewed" id="1164">
+    <title>Ars-Magica-Open-License/reviewed at main · OriginalMadman/Ars-Magica-Open-License</title>
   </bookmark>
 </folder>
 <folder id="9">
