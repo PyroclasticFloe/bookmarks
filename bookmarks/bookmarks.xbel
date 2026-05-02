@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1166: for Floccus bookmark sync browser extension -->
+<!--- highestId :1167: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -593,7 +593,7 @@
   <bookmark href="https://github.com/jie65535/awesome-balatro?tab=readme-ov-file#mods-require-steamodded" id="119">
     <title>jie65535/awesome-balatro: A list of Balatro Mods and Tools</title>
   </bookmark>
-  <bookmark href="https://www.reddit.com/r/WutheringWaves/" id="120">
+  <bookmark href="https://www.reddit.com/r/WutheringWaves/new/" id="1167">
     <title>Wuthering Waves Official</title>
   </bookmark>
   <bookmark href="https://canvas.playinzoi.com/en-US/category?Preset=AppearanceAllPresetNone&amp;Genders=All&amp;Ages=All&amp;TimePeriodFilter=All&amp;Order=Recent" id="121">
