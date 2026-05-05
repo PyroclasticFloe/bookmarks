@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1168: for Floccus bookmark sync browser extension -->
+<!--- highestId :1169: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -741,7 +741,7 @@
       <bookmark href="https://github.com/by321/safetensors_util" id="692">
         <title>by321/safetensors_util: Utility for Safetensors Files</title>
       </bookmark>
-      <bookmark href="https://www.reddit.com/r/LocalLLaMA/" id="694">
+      <bookmark href="https://www.reddit.com/r/LocalLLaMA/new/" id="1169">
         <title>LocalLlama</title>
       </bookmark>
       <bookmark href="https://github.com/ClownsharkBatwing/RES4LYF" id="705">
