@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1170: for Floccus bookmark sync browser extension -->
+<!--- highestId :1171: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -490,7 +490,7 @@
   </folder>
   <folder id="115">
     <title>Reverse 1999</title>
-    <bookmark href="https://www.reddit.com/r/Reverse1999/" id="304">
+    <bookmark href="https://www.reddit.com/r/Reverse1999/new/" id="1171">
       <title>Reverse: 1999</title>
     </bookmark>
     <bookmark href="https://www.prydwen.gg/re1999/" id="305">
