@@ -619,6 +619,15 @@
   <title>Personal</title>
   <folder id="125">
     <title>AI</title>
+    <bookmark href="https://www.reddit.com/r/LocalLLaMA/new/" id="1169">
+      <title>LocalLlama</title>
+    </bookmark>
+    <bookmark href="https://huggingface.co/collections/unsloth/unsloth-diffusion-ggufs" id="1106">
+      <title>Unsloth Diffusion GGUFs - a unsloth Collection</title>
+    </bookmark>
+    <bookmark href="https://huggingface.co/bartowski/Qwen_Qwen3.6-27B-GGUF" id="1166">
+      <title>bartowski/Qwen_Qwen3.6-27B-GGUF · Hugging Face</title>
+    </bookmark>
     <folder id="334">
       <title>Stable Diffusion</title>
       <folder id="665">
@@ -741,9 +750,6 @@
       <bookmark href="https://github.com/by321/safetensors_util" id="692">
         <title>by321/safetensors_util: Utility for Safetensors Files</title>
       </bookmark>
-      <bookmark href="https://www.reddit.com/r/LocalLLaMA/new/" id="1169">
-        <title>LocalLlama</title>
-      </bookmark>
       <bookmark href="https://github.com/ClownsharkBatwing/RES4LYF" id="705">
         <title>ClownsharkBatwing/RES4LYF</title>
       </bookmark>
@@ -758,9 +764,6 @@
       </bookmark>
       <bookmark href="https://github.com/Acly/krita-vision-tools" id="735">
         <title>Acly/krita-vision-tools: Krita plugin which adds selection tools to mask objects with a single click, or by drawing a bounding box.</title>
-      </bookmark>
-      <bookmark href="https://huggingface.co/collections/unsloth/unsloth-diffusion-ggufs" id="1106">
-        <title>Unsloth Diffusion GGUFs - a unsloth Collection</title>
       </bookmark>
       <bookmark href="https://github.com/Tavris1/ComfyUI-Easy-Install/tree/MAC-Linux" id="1110">
         <title>Tavris1/ComfyUI-Easy-Install at MAC-Linux</title>
@@ -782,9 +785,6 @@
       <title>unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 &amp; Gemma 3 LLMs 2x faster with 70% less memory! 🦥</title>
     </bookmark>
   </folder>
-  <bookmark href="https://huggingface.co/bartowski/Qwen_Qwen3.6-27B-GGUF" id="1166">
-    <title>bartowski/Qwen_Qwen3.6-27B-GGUF · Hugging Face</title>
-  </bookmark>
   <folder id="126">
     <title>Fiction</title>
     <bookmark href="https://www.scribblehub.com/series/421879/the-sisters-of-dorley/" id="336">
