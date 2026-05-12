@@ -1607,6 +1607,9 @@
   <bookmark href="https://foodlion.com/" id="133">
     <title>Food Lion | Online Grocery Delivery and Pickup | Pharmacy</title>
   </bookmark>
+  <bookmark href="https://openweathermap.org/" id="1172">
+    <title>OpenWeather APIs for Weather, Energy, and Environment</title>
+  </bookmark>
   <bookmark href="https://openweathermap.org/city/4498899" id="134">
     <title>Weather forecast - OpenWeatherMap</title>
   </bookmark>
@@ -1708,9 +1711,6 @@
   </bookmark>
   <bookmark href="https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#pro" id="166">
     <title>hagezi/dns-blocklists: DNS-Blocklists: For a better internet - keep the internet clean!</title>
-  </bookmark>
-  <bookmark href="https://openweathermap.org/" id="1172">
-    <title>OpenWeather APIs for Weather, Energy, and Environment</title>
   </bookmark>
 </folder>
 <folder id="7">
