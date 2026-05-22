@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1173: for Floccus bookmark sync browser extension -->
+<!--- highestId :1174: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -2640,6 +2640,9 @@
     </bookmark>
     <bookmark href="https://blogs.oregonstate.edu/ettucode/2022/04/07/disambiguating-and-disassembling-the-space-invaders-rom/" id="610">
       <title>Disambiguating and Disassembling the Space Invaders ROM – Et tu, code?</title>
+    </bookmark>
+    <bookmark href="https://github.com/superzazu/8080" id="1174">
+      <title>superzazu/8080: A complete emulation of the Intel 8080 processor written in C99.</title>
     </bookmark>
   </folder>
   <folder id="261">
