@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1174: for Floccus bookmark sync browser extension -->
+<!--- highestId :1176: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -2643,6 +2643,12 @@
     </bookmark>
     <bookmark href="https://github.com/superzazu/8080" id="1174">
       <title>superzazu/8080: A complete emulation of the Intel 8080 processor written in C99.</title>
+    </bookmark>
+    <bookmark href="https://github.com/redcode/Z80" id="1175">
+      <title>redcode/Z80: Highly portable Zilog Z80 CPU emulator written in ANSI C</title>
+    </bookmark>
+    <bookmark href="https://floooh.github.io/2016/06/27/first-steps-in-rust.html" id="1176">
+      <title>First Steps in Rust</title>
     </bookmark>
   </folder>
   <folder id="261">
