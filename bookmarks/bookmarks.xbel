@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1180: for Floccus bookmark sync browser extension -->
+<!--- highestId :1181: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1705,6 +1705,9 @@
   </bookmark>
   <bookmark href="https://affordablehousingonline.com/" id="1177">
     <title>Affordable Housing Online - Low-Income Rent and Waiting Lists</title>
+  </bookmark>
+  <bookmark href="https://pricepergig.com/en/amazon-us?minCapacity=4000&amp;maxCapacity=10000&amp;formFactor=External+3.5%22%2CExternal+2.5%22%2CExternal+SSD&amp;condition=New&amp;tags=CMR" id="1181">
+    <title>HDD &amp; SSD Disk Prices (US): Amazon &amp; eBay | PricePerGig.com</title>
   </bookmark>
 </folder>
 <folder id="7">
