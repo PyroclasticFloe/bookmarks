@@ -20,9 +20,6 @@
 </folder>
 <folder id="2">
   <title>News</title>
-  <bookmark href="http://hackaday.com/blog/" id="14">
-    <title>Blog | Hackaday | Fresh hacks every day</title>
-  </bookmark>
   <bookmark href="https://niskanencenter.org/" id="15">
     <title>Niskanen Center</title>
   </bookmark>
@@ -253,6 +250,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/user/TaylorSwiftVEVO/videos" id="91">
     <title>TaylorSwiftVEVO - YouTube</title>
+  </bookmark>
+  <bookmark href="http://hackaday.com/blog/" id="14">
+    <title>Blog | Hackaday | Fresh hacks every day</title>
   </bookmark>
   <bookmark href="https://www.youtube.com/c/WorldofAntiquity/videos" id="92">
     <title>World of Antiquity - YouTube</title>
