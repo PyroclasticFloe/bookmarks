@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1183: for Floccus bookmark sync browser extension -->
+<!--- highestId :1184: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -613,6 +613,9 @@
   </bookmark>
   <bookmark href="https://www.reddit.com/r/BG3Builds/comments/1e44enb/fairly_optimized_and_lorethematic_builds_for_all/?share_id=6oWJfMZcPavw9W_yyh26d&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=1" id="1145">
     <title>Fairly Optimized and Lore-Thematic Builds for all 10 Companion Characters that can all be used Simultaneously on a Single Playthrough without Conflict over Items : r/BG3Builds</title>
+  </bookmark>
+  <bookmark href="https://www.saveeditonline.com/" id="1184">
+    <title>Save Editor</title>
   </bookmark>
 </folder>
 <folder id="5">
