@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1185: for Floccus bookmark sync browser extension -->
+<!--- highestId :1186: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -633,6 +633,9 @@
     </bookmark>
     <bookmark href="https://huggingface.co/bartowski/Qwen_Qwen3.6-27B-GGUF" id="1166">
       <title>bartowski/Qwen_Qwen3.6-27B-GGUF · Hugging Face</title>
+    </bookmark>
+    <bookmark href="https://github.com/Rose22/openlumara" id="1186">
+      <title>Rose22/openlumara: AI agent framework, written from scratch (not based on openclaw), focused on stripping it down to the bare necessities, optimizing token count, reducing security risks. modular so you can enable only exactly what you need.</title>
     </bookmark>
     <folder id="334">
       <title>Stable Diffusion</title>
