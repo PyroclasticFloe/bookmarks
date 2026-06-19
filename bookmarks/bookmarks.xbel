@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1186: for Floccus bookmark sync browser extension -->
+<!--- highestId :1187: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1238,6 +1238,9 @@
       </bookmark>
       <bookmark href="https://space.bilibili.com/174857100?spm_id_from=333.337.0.0" id="1140">
         <title>Happy Yuan Yuan DY&apos;s Personal Space - Happy Yuan Yuan DY&apos;s Personal Homepage - Bilibili Video</title>
+      </bookmark>
+      <bookmark href="https://space.bilibili.com/397868843/upload/video" id="1187">
+        <title>小小郑郑耶投稿视频-小小郑郑耶视频分享-哔哩哔哩视频</title>
       </bookmark>
     </folder>
     <folder id="346">
