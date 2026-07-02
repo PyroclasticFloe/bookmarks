@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1189: for Floccus bookmark sync browser extension -->
+<!--- highestId :1190: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -322,6 +322,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/@HogansHeroesandPostwarAmerica" id="1162">
     <title>Hogan&apos;s Heroes and Postwar America - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@ShelabUncut/playlists" id="1190">
+    <title>Shelab Uncut - Streams and Series - YouTube</title>
   </bookmark>
 </folder>
 <folder id="4">
