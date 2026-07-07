@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1190: for Floccus bookmark sync browser extension -->
+<!--- highestId :1191: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -787,6 +787,9 @@
         <title>This fixed model list is so awful it&apos;s made the entire repo useless · Issue #168 · 1038lab/ComfyUI-QwenVL</title>
       </bookmark>
     </folder>
+    <bookmark href="https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates" id="1191">
+      <title>froggeric/Qwen-Fixed-Chat-Templates · Hugging Face</title>
+    </bookmark>
   </folder>
   <folder id="126">
     <title>Fiction</title>
