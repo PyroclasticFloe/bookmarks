@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1191: for Floccus bookmark sync browser extension -->
+<!--- highestId :1192: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -2625,6 +2625,9 @@
     </bookmark>
     <bookmark href="https://floooh.github.io/2021/12/06/z80-instruction-timing.html#the-shape-of-z80-instructions" id="1179">
       <title>Getting into way too much detail with the Z80 netlist simulation</title>
+    </bookmark>
+    <bookmark href="https://pyglet.readthedocs.io/en/latest/programming_guide/quickstart.html" id="1192">
+      <title>Writing a pyglet application — pyglet v2.1.15</title>
     </bookmark>
   </folder>
   <folder id="261">
