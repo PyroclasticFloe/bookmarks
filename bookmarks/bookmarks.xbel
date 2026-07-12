@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1248: for Floccus bookmark sync browser extension -->
+<!--- highestId :1252: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -720,6 +720,18 @@
     </bookmark>
     <bookmark href="https://www.nexusmods.com/baldursgate3/mods/9827" id="1248">
       <title>EasyCheat with in-game UI (MCM)(SE) at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/BaldursGate3/comments/1sk8mlo/baldurs_gate_3_mod_manager_linux_guide/" id="1249">
+      <title>Baldur&apos;s Gate 3 Mod Manager - Linux Guide : r/BaldursGate3</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/linux_gaming/comments/1fyjaa9/how_to_install_baldurs_gate_3_mods_using_bg3mm/" id="1250">
+      <title>How To Install Baldur&apos;s Gate 3 Mods Using BG3MM and Script Extender : r/linux_gaming</title>
+    </bookmark>
+    <bookmark href="https://forums.nexusmods.com/topic/13525210-a-small-guide-on-getting-bg3-mod-manager-working-on-linux-mint-steam-october-2025-patch-8/" id="1251">
+      <title>A small guide on getting BG3 Mod Manager working on Linux Mint, Steam - October 2025 Patch 8 - Discussion - Nexus Mods Forums</title>
+    </bookmark>
+    <bookmark href="https://github.com/LaughingLeader/BG3ModManager" id="1252">
+      <title>LaughingLeader/BG3ModManager: A mod manager for Baldur&apos;s Gate 3. This is the only official source!</title>
     </bookmark>
   </folder>
 </folder>
