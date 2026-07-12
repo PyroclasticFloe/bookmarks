@@ -793,6 +793,9 @@
     <bookmark href="https://github.com/upstash/context7" id="1193">
       <title>upstash/context7: Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors</title>
     </bookmark>
+    <bookmark href="https://huggingface.co/bartowski/Qwen_Qwen3.6-35B-A3B-GGUF" id="1199">
+      <title>bartowski/Qwen_Qwen3.6-35B-A3B-GGUF · Hugging Face</title>
+    </bookmark>
   </folder>
   <folder id="126">
     <title>Fiction</title>
@@ -1511,9 +1514,6 @@
       </bookmark>
       <bookmark href="https://www.deviantart.com/wheeman/gallery/all?order=newest" id="1198">
         <title>Wheeman&apos;s Gallery on DeviantArt</title>
-      </bookmark>
-      <bookmark href="https://huggingface.co/bartowski/Qwen_Qwen3.6-35B-A3B-GGUF" id="1199">
-        <title>bartowski/Qwen_Qwen3.6-35B-A3B-GGUF · Hugging Face</title>
       </bookmark>
     </folder>
     <folder id="348">
