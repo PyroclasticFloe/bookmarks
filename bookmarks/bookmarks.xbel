@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1217: for Floccus bookmark sync browser extension -->
+<!--- highestId :1220: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -627,6 +627,15 @@
     </bookmark>
     <bookmark href="https://www.nexusmods.com/baldursgate3/mods/22300?tab=description" id="1217">
       <title>Auntie Ethel Always Surrenders at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/279?tab=description" id="1218">
+      <title>Expansion Level 13-20 (Configurable) at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/7034" id="1219">
+      <title>Reduce NPC Banter Repetitiveness at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/10795" id="1220">
+      <title>Fix Stragglers at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
     </bookmark>
   </folder>
 </folder>
