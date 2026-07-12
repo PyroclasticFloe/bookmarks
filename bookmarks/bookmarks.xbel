@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1212: for Floccus bookmark sync browser extension -->
+<!--- highestId :1213: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -833,6 +833,9 @@
       </bookmark>
       <bookmark href="https://github.com/hamr0/barebrowse" id="1212">
         <title>hamr0/barebrowse: Gives agents a real browser. URL in, pruned snapshot out. Replaces Playwright, Selenium, Puppeteer. Zero deps, zero wasted tokens.</title>
+      </bookmark>
+      <bookmark href="https://docs.rs/rusqlite/0.40.1/rusqlite/" id="1213">
+        <title>rusqlite - Rust</title>
       </bookmark>
     </folder>
   </folder>
