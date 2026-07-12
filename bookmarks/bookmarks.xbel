@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1202: for Floccus bookmark sync browser extension -->
+<!--- highestId :1212: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -803,6 +803,36 @@
       </bookmark>
       <bookmark href="https://www.damiandemasi.com/projects/build-your-own-agent" id="1202">
         <title>Build Your Own Agent: Creating a Custom LLM Harness from Scratch | Damian Demasi</title>
+      </bookmark>
+      <bookmark href="https://github.com/celesteanders/harness" id="1203">
+        <title>celesteanders/harness: Harness engineering best practices</title>
+      </bookmark>
+      <bookmark href="https://www.nerdfonts.com/" id="1204">
+        <title>Nerd Fonts - Iconic font aggregator, glyphs/icons collection, &amp; fonts patcher</title>
+      </bookmark>
+      <bookmark href="https://modelcontextprotocol.io/docs/learn/client-concepts#roots" id="1205">
+        <title>Understanding MCP clients - Model Context Protocol</title>
+      </bookmark>
+      <bookmark href="https://github.com/veeso/tui-realm/" id="1206">
+        <title>veeso/tui-realm: 👑 A ratatui framework to build stateful applications with a React/Elm inspired approach</title>
+      </bookmark>
+      <bookmark href="https://crates.io/crates/evalexpr" id="1207">
+        <title>evalexpr - crates.io: Rust Package Registry</title>
+      </bookmark>
+      <bookmark href="https://ratatui.rs/faq/#what-is-the-difference-between-ratatui-a-library-and-tui-realm-a-framework" id="1208">
+        <title>FAQ | Ratatui</title>
+      </bookmark>
+      <bookmark href="https://book.leptos.dev/view/01_basic_component.html" id="1209">
+        <title>A Basic Component</title>
+      </bookmark>
+      <bookmark href="https://github.com/leptos-rs/awesome-leptos" id="1210">
+        <title>leptos-rs/awesome-leptos: A collection of awesome libraries in the Leptos ecosystem.</title>
+      </bookmark>
+      <bookmark href="https://www.carolinemorton.co.uk/blog/rust-error-handling-anyhow-thiserror/" id="1211">
+        <title>Error Handling in Rust: anyhow and thiserror | Caroline Morton</title>
+      </bookmark>
+      <bookmark href="https://github.com/hamr0/barebrowse" id="1212">
+        <title>hamr0/barebrowse: Gives agents a real browser. URL in, pruned snapshot out. Replaces Playwright, Selenium, Puppeteer. Zero deps, zero wasted tokens.</title>
       </bookmark>
     </folder>
   </folder>
