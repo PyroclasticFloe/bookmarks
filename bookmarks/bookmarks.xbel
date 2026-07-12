@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1220: for Floccus bookmark sync browser extension -->
+<!--- highestId :1231: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -636,6 +636,39 @@
     </bookmark>
     <bookmark href="https://www.nexusmods.com/baldursgate3/mods/10795" id="1220">
       <title>Fix Stragglers at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/6880" id="1221">
+      <title>Auto Use Soap at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/6086" id="1222">
+      <title>Auto Send Food To Camp at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/7035" id="1223">
+      <title>Auto Send Read Books To Camp at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/21869" id="1224">
+      <title>Hirelings Unlocked at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/11172" id="1225">
+      <title>Configurable Party Limit at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/22053" id="1226">
+      <title>Auto Scroll Transcribing at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/125" id="1227">
+      <title>5e Spells at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/2145?tab=description" id="1228">
+      <title>Secret Scrolls for 5e Spells at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/1590?tab=description" id="1229">
+      <title>5e Spells and Homebrew spells - duration and effect changes at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/4100" id="1230">
+      <title>Moonlight Armor for Selunite Shadowheart at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/19843" id="1231">
+      <title>Shadowheart - Disable Forced White Hair at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
     </bookmark>
   </folder>
 </folder>
