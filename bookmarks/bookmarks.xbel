@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1234: for Floccus bookmark sync browser extension -->
+<!--- highestId :1240: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -678,6 +678,24 @@
     </bookmark>
     <bookmark href="https://www.nexusmods.com/baldursgate3/mods/20623" id="1234">
       <title>Dark Dancer Outfit - Sword Dancer of Eilistraee Clothing at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/21873" id="1235">
+      <title>Improved Shadow Blade Ring at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/16328" id="1236">
+      <title>Fade&apos;s Equipment Distribution AIO at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/15577" id="1237">
+      <title>Fade&apos;s Camp Chest at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/4711?tab=posts" id="1238">
+      <title>Lathander&apos;s Armory - Shields Armour Books - Cleric Paladin at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/1411" id="1239">
+      <title>Monk 5e Adjustments at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/4186" id="1240">
+      <title>Underwood&apos;s Equipment Pack at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
     </bookmark>
   </folder>
 </folder>
