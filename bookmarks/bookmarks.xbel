@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1199: for Floccus bookmark sync browser extension -->
+<!--- highestId :1200: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -796,6 +796,9 @@
     <bookmark href="https://huggingface.co/bartowski/Qwen_Qwen3.6-35B-A3B-GGUF" id="1199">
       <title>bartowski/Qwen_Qwen3.6-35B-A3B-GGUF · Hugging Face</title>
     </bookmark>
+    <folder id="1200">
+      <title>coding_assistant</title>
+    </folder>
   </folder>
   <folder id="126">
     <title>Fiction</title>
