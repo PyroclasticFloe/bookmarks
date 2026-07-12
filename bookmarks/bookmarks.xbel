@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1258: for Floccus bookmark sync browser extension -->
+<!--- highestId :1259: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -751,6 +751,9 @@
   </bookmark>
   <bookmark href="https://wuthering-waves-map.appsample.com/?map=mengzhou" id="1258">
     <title>V3.5 Mengzhou Map - Wuthering Waves Interactive Map</title>
+  </bookmark>
+  <bookmark href="https://github.com/ilya-zlobintsev/LACT#installation" id="1259">
+    <title>ilya-zlobintsev/LACT: Linux GPU Configuration And Monitoring Tool</title>
   </bookmark>
 </folder>
 <folder id="5">
