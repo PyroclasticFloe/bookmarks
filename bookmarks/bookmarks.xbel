@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1214: for Floccus bookmark sync browser extension -->
+<!--- highestId :1217: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -619,6 +619,15 @@
   </bookmark>
   <folder id="1214">
     <title>BG3</title>
+    <bookmark href="https://bg3.wiki/" id="1215">
+      <title>Baldur&apos;s Gate 3 Wiki</title>
+    </bookmark>
+    <bookmark href="https://gamestegy.com/bg3/builds" id="1216">
+      <title>Baldur&apos;s Gate 3 - Complete Builds Database</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/22300?tab=description" id="1217">
+      <title>Auntie Ethel Always Surrenders at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="5">
