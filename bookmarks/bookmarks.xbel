@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1252: for Floccus bookmark sync browser extension -->
+<!--- highestId :1254: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -732,6 +732,12 @@
     </bookmark>
     <bookmark href="https://github.com/LaughingLeader/BG3ModManager" id="1252">
       <title>LaughingLeader/BG3ModManager: A mod manager for Baldur&apos;s Gate 3. This is the only official source!</title>
+    </bookmark>
+    <bookmark href="https://crates.io/crates/oliver" id="1253">
+      <title>oliver - crates.io: Rust Package Registry</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/16830" id="1254">
+      <title>Early Access Scenes Restored at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
     </bookmark>
   </folder>
 </folder>
