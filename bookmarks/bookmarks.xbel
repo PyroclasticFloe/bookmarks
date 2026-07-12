@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1200: for Floccus bookmark sync browser extension -->
+<!--- highestId :1202: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -798,6 +798,12 @@
     </bookmark>
     <folder id="1200">
       <title>coding_assistant</title>
+      <bookmark href="https://walkinglabs.github.io/learn-harness-engineering/en/lectures/lecture-02-what-a-harness-actually-is/" id="1201">
+        <title>Lecture 02. What a Harness Actually Is | Learn Harness Engineering</title>
+      </bookmark>
+      <bookmark href="https://www.damiandemasi.com/projects/build-your-own-agent" id="1202">
+        <title>Build Your Own Agent: Creating a Custom LLM Harness from Scratch | Damian Demasi</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="126">
