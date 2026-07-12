@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1198: for Floccus bookmark sync browser extension -->
+<!--- highestId :1199: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1511,6 +1511,9 @@
       </bookmark>
       <bookmark href="https://www.deviantart.com/wheeman/gallery/all?order=newest" id="1198">
         <title>Wheeman&apos;s Gallery on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/bartowski/Qwen_Qwen3.6-35B-A3B-GGUF" id="1199">
+        <title>bartowski/Qwen_Qwen3.6-35B-A3B-GGUF · Hugging Face</title>
       </bookmark>
     </folder>
     <folder id="348">
