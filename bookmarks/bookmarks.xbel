@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1246: for Floccus bookmark sync browser extension -->
+<!--- highestId :1248: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -714,6 +714,12 @@
     </bookmark>
     <bookmark href="https://www.nexusmods.com/profile/myky24" id="1246">
       <title>myky24&apos;s Profile - Nexus Mods</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/14148?tab=posts" id="1247">
+      <title>Minthara Moves - Halsin and Minthara tents separated at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/9827" id="1248">
+      <title>EasyCheat with in-game UI (MCM)(SE) at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
     </bookmark>
   </folder>
 </folder>
