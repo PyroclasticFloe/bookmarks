@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1255: for Floccus bookmark sync browser extension -->
+<!--- highestId :1257: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -743,6 +743,12 @@
       <title>Summon Initiative Fixer at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
     </bookmark>
   </folder>
+  <bookmark href="https://windbow27.github.io/kornblume/planner" id="1256">
+    <title>Kornblume</title>
+  </bookmark>
+  <bookmark href="https://wuwatracker.com/planner" id="1257">
+    <title>Ascension Planner | Wuthering Waves Resource &amp; Companion App | WuWa Tracker</title>
+  </bookmark>
 </folder>
 <folder id="5">
   <title>Personal</title>
