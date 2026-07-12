@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1196: for Floccus bookmark sync browser extension -->
+<!--- highestId :1197: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -1504,6 +1504,9 @@
         <title>Kimballo1&apos;s Gallery on DeviantArt</title>
       </bookmark>
       <bookmark href="https://www.deviantart.com/anyanwuai/gallery?deviationid=1354198276#content" id="1196">
+        <title>AnyanwuAI&apos;s Gallery on DeviantArt</title>
+      </bookmark>
+      <bookmark href="https://www.deviantart.com/anyanwuai/gallery/all?order=newest" id="1197">
         <title>AnyanwuAI&apos;s Gallery on DeviantArt</title>
       </bookmark>
     </folder>
