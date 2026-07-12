@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1242: for Floccus bookmark sync browser extension -->
+<!--- highestId :1244: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -702,6 +702,12 @@
     </bookmark>
     <bookmark href="https://www.nexusmods.com/baldursgate3/mods/6657" id="1242">
       <title>Longbows without spikes at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/games/baldursgate3/collections/hcpsze/mods" id="1243">
+      <title>Basic | Definitive Adventures - Baldur&apos;s Gate 3 Collection - Nexus Mods</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/20407?tab=posts" id="1244">
+      <title>Transmog Enhanced Revamped at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
     </bookmark>
   </folder>
 </folder>
