@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1231: for Floccus bookmark sync browser extension -->
+<!--- highestId :1234: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -669,6 +669,15 @@
     </bookmark>
     <bookmark href="https://www.nexusmods.com/baldursgate3/mods/19843" id="1231">
       <title>Shadowheart - Disable Forced White Hair at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/15568" id="1232">
+      <title>Superius Armour at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/21597" id="1233">
+      <title>Pumpkin Tailor Outfit BT2 and TMTS at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
+    </bookmark>
+    <bookmark href="https://www.nexusmods.com/baldursgate3/mods/20623" id="1234">
+      <title>Dark Dancer Outfit - Sword Dancer of Eilistraee Clothing at Baldur&apos;s Gate 3 Nexus - Mods and community</title>
     </bookmark>
   </folder>
 </folder>
