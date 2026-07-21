@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1262: for Floccus bookmark sync browser extension -->
+<!--- highestId :1264: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -976,6 +976,9 @@
         <title>rusqlite - Rust</title>
       </bookmark>
     </folder>
+    <bookmark href="https://github.com/ggml-org/llama.vscode" id="1263">
+      <title>ggml-org/llama.vscode: VS Code extension for LLM-assisted code/text completion</title>
+    </bookmark>
   </folder>
   <folder id="126">
     <title>Fiction</title>
@@ -2089,6 +2092,9 @@
   </bookmark>
   <bookmark href="https://www.rsync.net/am/dashboard.html" id="1262">
     <title>rsync.net Cloud Storage for Offsite Backups</title>
+  </bookmark>
+  <bookmark href="https://linuxize.com/cheatsheet/dnf/" id="1264">
+    <title>DNF Cheatsheet | Linuxize</title>
   </bookmark>
 </folder>
 <folder id="8">
