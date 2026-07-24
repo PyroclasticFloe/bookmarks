@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1264: for Floccus bookmark sync browser extension -->
+<!--- highestId :1266: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -754,6 +754,12 @@
   </bookmark>
   <bookmark href="https://github.com/ilya-zlobintsev/LACT#installation" id="1259">
     <title>ilya-zlobintsev/LACT: Linux GPU Configuration And Monitoring Tool</title>
+  </bookmark>
+  <bookmark href="https://steamcommunity.com/sharedfiles/filedetails/?id=3664478363" id="1265">
+    <title>Steam Community :: Guide :: 🌷✨ STARSAND ISLAND GIFT GUIDE ✨🌷 [WIP]</title>
+  </bookmark>
+  <bookmark href="https://steamcommunity.com/sharedfiles/filedetails/?id=3671169775" id="1266">
+    <title>Steam Community :: Guide :: How To Grow Every Flower Color</title>
   </bookmark>
 </folder>
 <folder id="5">
