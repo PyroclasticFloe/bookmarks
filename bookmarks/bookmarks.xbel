@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1267: for Floccus bookmark sync browser extension -->
+<!--- highestId :1270: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Comics</title>
@@ -2104,6 +2104,15 @@
   </bookmark>
   <bookmark href="https://linuxize.com/cheatsheet/dnf/" id="1264">
     <title>DNF Cheatsheet | Linuxize</title>
+  </bookmark>
+  <bookmark href="https://linuxize.com/cheatsheet/page/3/" id="1268">
+    <title>Cheatsheets | Linuxize</title>
+  </bookmark>
+  <bookmark href="https://www.borgbackupserver.com/" id="1269">
+    <title>Web GUI &amp; Dashboard for BorgBackup — Borg Backup Server</title>
+  </bookmark>
+  <bookmark href="https://www.borgbackupserver.com/rsyncnet/" id="1270">
+    <title>How to Set Up rsync.net with Borg Backup Server — Borg Backup Server</title>
   </bookmark>
 </folder>
 <folder id="8">
